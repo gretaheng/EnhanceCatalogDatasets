@@ -1,0 +1,57 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/5693267">
+    <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+    <schema:about>
+      <schema:Book rdf:about="http://www.worldcat.org/oclc/5693267">
+        <schema:inLanguage>la</schema:inLanguage>
+        <schema:creator>
+          <schema:Person rdf:about="http://viaf.org/viaf/52124742">
+            <schema:familyName>Schott</schema:familyName>
+            <schema:givenName>H. W.</schema:givenName>
+            <schema:givenName>Heinrich Wilhelm</schema:givenName>
+            <schema:name>Heinrich Wilhelm Schott</schema:name>
+            <schema:birthDate>1794</schema:birthDate>
+            <schema:deathDate>1865</schema:deathDate>
+          </schema:Person>
+        </schema:creator>
+        <wdrs:describedby rdf:resource="http://www.worldcat.org/title/-/oclc/5693267"/>
+        <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/19409890"/>
+        <schema:datePublished>1860</schema:datePublished>
+        <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+        <library:placeOfPublication>
+          <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/19409890#Place/vindobonae_vienna">
+            <schema:name>Vindobonae (Vienna)</schema:name>
+          </schema:Place>
+        </library:placeOfPublication>
+        <library:placeOfPublication>
+          <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/au">
+            <dcterms:identifier>au</dcterms:identifier>
+          </schema:Place>
+        </library:placeOfPublication>
+        <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+        <schema:publication>
+          <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/5693267#PublicationEvent/vindobonae_vienna_1860">
+            <schema:location rdf:resource="http://experiment.worldcat.org/entity/work/data/19409890#Place/vindobonae_vienna"/>
+            <schema:startDate>1860</schema:startDate>
+          </schema:PublicationEvent>
+        </schema:publication>
+        <schema:datePublished>1865</schema:datePublished>
+        <library:oclcnum>5693267</library:oclcnum>
+        <schema:name>Prodromus systematis Aroidearum</schema:name>
+        <schema:productID>5693267</schema:productID>
+      </schema:Book>
+    </schema:about>
+    <schema:dateModified>2018-11-09</schema:dateModified>
+    <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+  </genont:ContentTypeGenericResource>
+</rdf:RDF>

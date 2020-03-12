@@ -1,0 +1,103 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/5863987">
+    <schema:datePublished>1825</schema:datePublished>
+    <schema:publisher>
+      <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/19796754#Agent/j_gale">
+        <schema:name>J. Gale</schema:name>
+      </bgn:Agent>
+    </schema:publisher>
+    <wdrs:describedby>
+      <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/5863987">
+        <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+        <schema:about rdf:resource="http://www.worldcat.org/oclc/5863987"/>
+        <schema:dateModified>2018-11-21</schema:dateModified>
+        <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+      </genont:ContentTypeGenericResource>
+    </wdrs:describedby>
+    <schema:about>
+      <schema:Place rdf:about="http://id.worldcat.org/fast/1206102">
+        <schema:name>Nepal.</schema:name>
+      </schema:Place>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.loc.gov/authorities/subjects/sh2009117464">
+        <schema:name>Botany--Nepal</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:inLanguage>la</schema:inLanguage>
+    <schema:contributor>
+      <schema:Person rdf:about="http://viaf.org/viaf/9966168">
+        <schema:familyName>Hamilton</schema:familyName>
+        <schema:givenName>Francis</schema:givenName>
+        <schema:name>Francis Hamilton</schema:name>
+        <schema:birthDate>1762</schema:birthDate>
+        <schema:deathDate>1829</schema:deathDate>
+      </schema:Person>
+    </schema:contributor>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/enk">
+        <dcterms:identifier>enk</dcterms:identifier>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:contributor>
+      <schema:Person rdf:about="http://viaf.org/viaf/9962177">
+        <schema:familyName>Wallich</schema:familyName>
+        <schema:givenName>N.</schema:givenName>
+        <schema:givenName>Nathaniel</schema:givenName>
+        <schema:name>Nathaniel Wallich</schema:name>
+        <schema:birthDate>1786</schema:birthDate>
+        <schema:deathDate>1854</schema:deathDate>
+      </schema:Person>
+    </schema:contributor>
+    <schema:productID>5863987</schema:productID>
+    <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/836869">
+        <schema:name>Botany</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <rdf:type rdf:resource="http://schema.org/Book"/>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/19796754#Place/londini">
+        <schema:name>Londini</schema:name>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/19796754"/>
+    <library:oclcnum>5863987</library:oclcnum>
+    <schema:name>Prodomus florae Nepalensis, sive Enumeratio vegetabilium quae in itinere per Nepaliam proprie dictam et regiones conterminas, ann. 1802-1803. Detexit atque legit d. d. Franciscus Hamilton, (olim Buchanan) Accedunt plantae a. d. Wallich nuperius missae.</schema:name>
+    <schema:creator>
+      <schema:Person rdf:about="http://viaf.org/viaf/31576956">
+        <schema:familyName>Don</schema:familyName>
+        <schema:givenName>David</schema:givenName>
+        <schema:name>David Don</schema:name>
+        <schema:birthDate>1799</schema:birthDate>
+        <schema:deathDate>1841</schema:deathDate>
+      </schema:Person>
+    </schema:creator>
+    <schema:publication>
+      <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/5863987#PublicationEvent/londini_j_gale_1825">
+        <schema:location rdf:resource="http://experiment.worldcat.org/entity/work/data/19796754#Place/londini"/>
+        <schema:organizer rdf:resource="http://experiment.worldcat.org/entity/work/data/19796754#Agent/j_gale"/>
+        <schema:startDate>1825</schema:startDate>
+      </schema:PublicationEvent>
+    </schema:publication>
+    <schema:isSimilarTo>
+      <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/653811949">
+        <schema:isSimilarTo rdf:resource="http://www.worldcat.org/oclc/5863987"/>
+        <rdfs:label>Prodomus florae Nepalensis.</rdfs:label>
+        <schema:description>Online version:</schema:description>
+      </schema:CreativeWork>
+    </schema:isSimilarTo>
+  </schema:CreativeWork>
+</rdf:RDF>

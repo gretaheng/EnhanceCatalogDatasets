@@ -1,0 +1,110 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/13212778">
+    <schema:datePublished>/1857</schema:datePublished>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/906182741#Place/parisiis">
+        <schema:name>Parisiis</schema:name>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:inLanguage>la</schema:inLanguage>
+    <schema:datePublished>1853/1857</schema:datePublished>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/836869">
+        <schema:name>Botany</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/906182741#Topic/botany_indonesia_sumatra">
+        <schema:hasPart rdf:resource="http://id.loc.gov/authorities/subjects/sh2009117460"/>
+        <schema:name>Botany--Indonesia--Sumatra</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:publication>
+      <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/13212778#PublicationEvent/lugduni_batavorum_i_e_leiden_the_netherlands_h_r_de_breuk_parisiis_j_b_bailliere_1853_1857">
+        <schema:location>
+          <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/906182741#Place/lugduni_batavorum_i_e_leiden_the_netherlands">
+            <schema:name>Lugduni-Batavorum i.e. Leiden, the Netherlands</schema:name>
+          </schema:Place>
+        </schema:location>
+        <schema:location rdf:resource="http://experiment.worldcat.org/entity/work/data/906182741#Place/parisiis"/>
+        <schema:organizer>
+          <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/906182741#Agent/h_r_de_breuk">
+            <schema:name>H.R. de Breuk</schema:name>
+          </bgn:Agent>
+        </schema:organizer>
+        <schema:organizer>
+          <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/906182741#Agent/j_b_bailliere">
+            <schema:name>J.B. Bailliére</schema:name>
+          </bgn:Agent>
+        </schema:organizer>
+        <schema:startDate>-1857</schema:startDate>
+      </schema:PublicationEvent>
+    </schema:publication>
+    <schema:publisher rdf:resource="http://experiment.worldcat.org/entity/work/data/906182741#Agent/h_r_de_breuk"/>
+    <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/906182741"/>
+    <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+    <schema:about>
+      <schema:Place rdf:about="http://id.worldcat.org/fast/1244461">
+        <schema:name>Indonesia--Java.</schema:name>
+      </schema:Place>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/906182741#Topic/botany_indonesia_java">
+        <schema:hasPart rdf:resource="http://id.loc.gov/authorities/subjects/sh2009117460"/>
+        <schema:name>Botany--Indonesia--Java</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:contributor>
+      <schema:Person rdf:about="http://viaf.org/viaf/49339105">
+        <schema:familyName>Miquel</schema:familyName>
+        <schema:givenName>Friedrich Anton Wilhelm</schema:givenName>
+        <schema:name>Friedrich Anton Wilhelm Miquel</schema:name>
+        <schema:birthDate>1811</schema:birthDate>
+        <schema:deathDate>1871</schema:deathDate>
+      </schema:Person>
+    </schema:contributor>
+    <library:placeOfPublication rdf:resource="http://experiment.worldcat.org/entity/work/data/906182741#Place/lugduni_batavorum_i_e_leiden_the_netherlands"/>
+    <schema:publisher rdf:resource="http://experiment.worldcat.org/entity/work/data/906182741#Agent/j_b_bailliere"/>
+    <schema:name>Plantae junghuhnianae : enumeratio plantarum, quas, in insulis Java et Sumatra</schema:name>
+    <wdrs:describedby>
+      <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/13212778">
+        <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+        <schema:about rdf:resource="http://www.worldcat.org/oclc/13212778"/>
+        <schema:dateModified>2018-11-09</schema:dateModified>
+        <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+      </genont:ContentTypeGenericResource>
+    </wdrs:describedby>
+    <library:oclcnum>13212778</library:oclcnum>
+    <schema:productID>13212778</schema:productID>
+    <rdf:type rdf:resource="http://schema.org/Book"/>
+    <schema:about>
+      <schema:Place rdf:about="http://id.worldcat.org/fast/1245953">
+        <schema:name>Indonesia--Sumatra.</schema:name>
+      </schema:Place>
+    </schema:about>
+    <schema:creator>
+      <schema:Person rdf:about="http://viaf.org/viaf/49527016">
+        <schema:familyName>Junghuhn</schema:familyName>
+        <schema:givenName>Franz Wilhelm</schema:givenName>
+        <schema:name>Franz Wilhelm Junghuhn</schema:name>
+        <schema:birthDate>1809</schema:birthDate>
+        <schema:deathDate>1864</schema:deathDate>
+      </schema:Person>
+    </schema:creator>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/ne">
+        <dcterms:identifier>ne</dcterms:identifier>
+      </schema:Place>
+    </library:placeOfPublication>
+  </schema:CreativeWork>
+</rdf:RDF>

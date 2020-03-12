@@ -1,0 +1,320 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <schema:Book rdf:about="http://www.worldcat.org/oclc/2338704">
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/5195022084#Topic/plants_southwest_new">
+        <schema:hasPart rdf:resource="http://id.loc.gov/authorities/subjects/sh85102839"/>
+        <schema:name xml:lang="en">Plants--Southwest, New</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/5195022084#Topic/zoologia_mexico">
+        <schema:name xml:lang="en">Zoologia--México</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.loc.gov/authorities/subjects/sh2008108328">
+        <schema:name xml:lang="en">Natural history--Southwest, New</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/5195022084#Topic/zoology_southwest_new">
+        <schema:hasPart rdf:resource="http://id.loc.gov/authorities/subjects/sh85149983"/>
+        <schema:name xml:lang="en">Zoology--Southwest, New</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:about>
+      <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/5195022084#Place/united_states_mexico">
+        <schema:name>United States--Mexico.</schema:name>
+      </schema:Place>
+    </schema:about>
+    <schema:about>
+      <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/5195022084#Place/rio_grande_colo_mexico_and_tex">
+        <schema:name>Rio Grande (Colo.-Mexico and Tex.)</schema:name>
+      </schema:Place>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/1034268">
+        <schema:name xml:lang="en">Natural history</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/5195022084#Topic/botany_southwest_new">
+        <schema:hasPart rdf:resource="http://id.loc.gov/authorities/subjects/sh85015976"/>
+        <schema:name xml:lang="en">Botany--Southwest, New</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:url>
+      <rdf:Description rdf:about="https://catalog.hathitrust.org/api/volumes/oclc/2338704.html">
+        <rdfs:comment>View online version</rdfs:comment>
+      </rdf:Description>
+    </schema:url>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/1065823">
+        <schema:name xml:lang="en">Plants</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:author>
+      <schema:Person rdf:about="http://viaf.org/viaf/41992317">
+        <schema:familyName>Engelmann</schema:familyName>
+        <schema:givenName>George</schema:givenName>
+        <schema:name>George Engelmann</schema:name>
+        <schema:birthDate>1809</schema:birthDate>
+        <schema:deathDate>1884,</schema:deathDate>
+      </schema:Person>
+    </schema:author>
+    <wdrs:describedby>
+      <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/2338704">
+        <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+        <schema:about rdf:resource="http://www.worldcat.org/oclc/2338704"/>
+        <schema:dateModified>2019-08-26</schema:dateModified>
+        <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+      </genont:ContentTypeGenericResource>
+    </wdrs:describedby>
+    <schema:about>
+      <schema:Intangible rdf:about="http://dewey.info/class/570.97/"/>
+    </schema:about>
+    <schema:about>
+      <schema:Place rdf:about="http://id.worldcat.org/fast/1204155">
+        <schema:name>United States.</schema:name>
+      </schema:Place>
+    </schema:about>
+    <schema:author>
+      <schema:Person rdf:about="http://viaf.org/viaf/762989">
+        <schema:familyName>Hall</schema:familyName>
+        <schema:givenName>James</schema:givenName>
+        <schema:name>James Hall</schema:name>
+        <schema:birthDate>1811</schema:birthDate>
+        <schema:deathDate>1898,</schema:deathDate>
+      </schema:Person>
+    </schema:author>
+    <schema:author>
+      <schema:Person rdf:about="http://viaf.org/viaf/79256034">
+        <schema:familyName>Emory</schema:familyName>
+        <schema:givenName>William H.</schema:givenName>
+        <schema:givenName>William Hemsley</schema:givenName>
+        <schema:name>William Hemsley Emory</schema:name>
+        <schema:birthDate>1811</schema:birthDate>
+        <schema:deathDate>1887,</schema:deathDate>
+      </schema:Person>
+    </schema:author>
+    <schema:isSimilarTo>
+      <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/682473283">
+        <schema:isSimilarTo rdf:resource="http://www.worldcat.org/oclc/2338704"/>
+        <rdfs:label>Report on the United States and Mexican boundary survey.</rdfs:label>
+        <schema:description>Online version:</schema:description>
+      </schema:CreativeWork>
+    </schema:isSimilarTo>
+    <schema:contributor>
+      <schema:Person rdf:about="http://viaf.org/viaf/50730789">
+        <schema:familyName>Parry</schema:familyName>
+        <schema:givenName>C. C.</schema:givenName>
+        <schema:givenName>Charles Christopher</schema:givenName>
+        <schema:name>Charles Christopher Parry</schema:name>
+        <schema:birthDate>1823</schema:birthDate>
+        <schema:deathDate>1890,</schema:deathDate>
+      </schema:Person>
+    </schema:contributor>
+    <schema:author>
+      <schema:Person rdf:about="http://viaf.org/viaf/29653885">
+        <schema:familyName>Schott</schema:familyName>
+        <schema:givenName>Arthur</schema:givenName>
+        <schema:name>Arthur Schott</schema:name>
+        <schema:birthDate>1814</schema:birthDate>
+        <schema:deathDate>1875,</schema:deathDate>
+      </schema:Person>
+    </schema:author>
+    <schema:about>
+      <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/5195022084#Place/mexican_american_border_region">
+        <schema:name>Mexican-American Border Region.</schema:name>
+      </schema:Place>
+    </schema:about>
+    <schema:contributor>
+      <schema:Organization rdf:about="http://viaf.org/viaf/150125018">
+        <schema:name>United States. Department of the Interior. Office of the Secretary,</schema:name>
+      </schema:Organization>
+    </schema:contributor>
+    <schema:about>
+      <schema:Place rdf:about="http://id.worldcat.org/fast/1239966">
+        <schema:name>North America--Mexican-American Border Region.</schema:name>
+      </schema:Place>
+    </schema:about>
+    <schema:about>
+      <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/5195022084#Place/mexico_united_states">
+        <schema:name>Mexico--United States.</schema:name>
+      </schema:Place>
+    </schema:about>
+    <schema:about>
+      <schema:Place rdf:about="http://id.worldcat.org/fast/1241209">
+        <schema:name>North America--Rio Grande.</schema:name>
+      </schema:Place>
+    </schema:about>
+    <schema:contributor>
+      <schema:Person rdf:about="http://viaf.org/viaf/2379741">
+        <schema:familyName>Wendell</schema:familyName>
+        <schema:givenName>Cornelius</schema:givenName>
+        <schema:name>Cornelius Wendell</schema:name>
+        <schema:birthDate>1813</schema:birthDate>
+        <schema:deathDate>1870,</schema:deathDate>
+      </schema:Person>
+    </schema:contributor>
+    <schema:author>
+      <schema:Person rdf:about="http://viaf.org/viaf/52145066991966630126">
+        <schema:familyName>Conrad</schema:familyName>
+        <schema:givenName>T. A.</schema:givenName>
+        <schema:givenName>Timothy Abbott</schema:givenName>
+        <schema:name>Timothy Abbott Conrad</schema:name>
+        <schema:birthDate>1803</schema:birthDate>
+        <schema:deathDate>1877,</schema:deathDate>
+      </schema:Person>
+    </schema:author>
+    <schema:alternateName>United States and Mexican boundary survey</schema:alternateName>
+    <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+    <schema:publisher rdf:resource="http://viaf.org/viaf/2379741"/>
+    <schema:alternateName>Report on the United States and Mexican boundary</schema:alternateName>
+    <schema:about>
+      <schema:Place rdf:about="http://id.worldcat.org/fast/1211700">
+        <schema:name>Mexico.</schema:name>
+      </schema:Place>
+    </schema:about>
+    <schema:datePublished>1857/1859</schema:datePublished>
+    <schema:author>
+      <schema:Person rdf:about="http://viaf.org/viaf/9837499">
+        <schema:familyName>Girard</schema:familyName>
+        <schema:givenName>Charles</schema:givenName>
+        <schema:name>Charles Girard</schema:name>
+        <schema:birthDate>1822</schema:birthDate>
+        <schema:deathDate>1895,</schema:deathDate>
+      </schema:Person>
+    </schema:author>
+    <schema:productID>2338704</schema:productID>
+    <schema:alternateName>Report on the U. States and Mexican boundary</schema:alternateName>
+    <schema:name xml:lang="en">Report on the United States and Mexican boundary survey, made under the direction of the Secretary of the Interior,</schema:name>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/1184696">
+        <schema:name xml:lang="en">Zoology</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/837076">
+        <schema:name xml:lang="en">Boundaries</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:illustrator rdf:resource="http://viaf.org/viaf/29653885"/>
+    <schema:genre xml:lang="en">Government publication</schema:genre>
+    <schema:genre xml:lang="en">National government publication</schema:genre>
+    <schema:isPartOf>
+      <bgn:PublicationSeries rdf:about="http://experiment.worldcat.org/entity/work/data/5195022084#Series/ex_doc_united_states_congress_house">
+        <schema:hasPart rdf:resource="http://www.worldcat.org/oclc/2338704"/>
+        <schema:name>Ex. doc. (United States. Congress. House) ;</schema:name>
+      </bgn:PublicationSeries>
+    </schema:isPartOf>
+    <schema:isPartOf>
+      <bgn:PublicationSeries rdf:about="http://experiment.worldcat.org/entity/work/data/5195022084#Series/34th_congress_1st_session_house_of_representatives_ex_doc">
+        <schema:hasPart rdf:resource="http://www.worldcat.org/oclc/2338704"/>
+        <schema:name>34th Congress, 1st session. House of Representatives. Ex doc. ;</schema:name>
+      </bgn:PublicationSeries>
+    </schema:isPartOf>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/940627">
+        <schema:name xml:lang="en">Geology</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/894950">
+        <schema:name xml:lang="en">Discoveries in geography</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:author>
+      <schema:Person rdf:about="http://viaf.org/viaf/2586502">
+        <schema:familyName>Torrey</schema:familyName>
+        <schema:givenName>John</schema:givenName>
+        <schema:name>John Torrey</schema:name>
+        <schema:birthDate>1796</schema:birthDate>
+        <schema:deathDate>1873,</schema:deathDate>
+      </schema:Person>
+    </schema:author>
+    <schema:author>
+      <schema:Person rdf:about="http://viaf.org/viaf/50612300">
+        <schema:familyName>Michler</schema:familyName>
+        <schema:givenName>N.</schema:givenName>
+        <schema:givenName>Nathaniel</schema:givenName>
+        <schema:name>Nathaniel Michler</schema:name>
+        <schema:birthDate>1827</schema:birthDate>
+        <schema:deathDate>1881,</schema:deathDate>
+      </schema:Person>
+    </schema:author>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/836869">
+        <schema:name xml:lang="en">Botany</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:inLanguage>en</schema:inLanguage>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.loc.gov/authorities/subjects/sh85054077">
+        <schema:name xml:lang="en">Geology--Southwest, New</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <library:oclcnum>2338704</library:oclcnum>
+    <schema:contributor>
+      <schema:Person rdf:about="http://viaf.org/viaf/62351142">
+        <schema:familyName>Smillie</schema:familyName>
+        <schema:givenName>James David</schema:givenName>
+        <schema:name>James David Smillie</schema:name>
+        <schema:birthDate>1833</schema:birthDate>
+        <schema:deathDate>1909,</schema:deathDate>
+      </schema:Person>
+    </schema:contributor>
+    <schema:about>
+      <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/5195022084#Place/new_southwest">
+        <schema:name>New Southwest.</schema:name>
+      </schema:Place>
+    </schema:about>
+    <schema:about>
+      <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/5195022084#Place/united_states">
+        <schema:name>United States</schema:name>
+      </schema:Place>
+    </schema:about>
+    <schema:about>
+      <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/5195022084#Place/southwest_new">
+        <schema:name>Southwest, New</schema:name>
+      </schema:Place>
+    </schema:about>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/5195022084#Topic/zoologia_estados_unidos">
+        <schema:name xml:lang="en">Zoologia--Estados unidos</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:author>
+      <schema:Person rdf:about="http://viaf.org/viaf/4991719">
+        <schema:familyName>Baird</schema:familyName>
+        <schema:givenName>Spencer Fullerton</schema:givenName>
+        <schema:name>Spencer Fullerton Baird</schema:name>
+        <schema:birthDate>1823</schema:birthDate>
+        <schema:deathDate>1887,</schema:deathDate>
+      </schema:Person>
+    </schema:author>
+    <schema:creator>
+      <schema:Organization rdf:about="http://viaf.org/viaf/145957339">
+        <schema:name>United States. Department of the Interior,</schema:name>
+      </schema:Organization>
+    </schema:creator>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/dcu">
+        <dcterms:identifier>dcu</dcterms:identifier>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/5195022084"/>
+  </schema:Book>
+</rdf:RDF>

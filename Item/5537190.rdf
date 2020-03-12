@@ -1,0 +1,125 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <schema:Book rdf:about="http://www.worldcat.org/oclc/5537190">
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/3769010290#Place/bibliopolas">
+        <schema:name>bibliopolas</schema:name>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:inLanguage>la</schema:inLanguage>
+    <schema:datePublished>1781/1793</schema:datePublished>
+    <schema:genre>Pictorial works</schema:genre>
+    <schema:publisher>
+      <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/3769010290#Agent/apud_a_konig">
+        <schema:name>Apud A. König</schema:name>
+      </bgn:Agent>
+    </schema:publisher>
+    <schema:publication>
+      <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/5537190#PublicationEvent/vindobonae_vienna_prostant_apud_christianum_fridericum_wappler_londini_london_apud_b_white_et_filium_ludguni_batavorum_leiden_apud_s_et_j_luchtmans_argentorati_strasbourg_apud_a_konig_bibliopolas_1781_1793_i_e_1781_1795">
+        <schema:organizer>
+          <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/3769010290#Agent/apud_s_et_j_luchtmans">
+            <schema:name>Apud S. et J. Luchtmans</schema:name>
+          </bgn:Agent>
+        </schema:organizer>
+        <schema:organizer>
+          <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/3769010290#Agent/prostant_apud_christianum_fridericum_wappler">
+            <schema:name>Prostant apud Christianum Fridericum Wappler</schema:name>
+          </bgn:Agent>
+        </schema:organizer>
+        <schema:location rdf:resource="http://experiment.worldcat.org/entity/work/data/3769010290#Place/bibliopolas"/>
+        <schema:location>
+          <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/3769010290#Place/ludguni_batavorum_leiden">
+            <schema:name>Ludguni Batavorum Leiden</schema:name>
+          </schema:Place>
+        </schema:location>
+        <schema:location>
+          <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/3769010290#Place/londini_london">
+            <schema:name>Londini London</schema:name>
+          </schema:Place>
+        </schema:location>
+        <schema:location>
+          <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/3769010290#Place/vindobonae_vienna">
+            <schema:name>Vindobonae Vienna</schema:name>
+          </schema:Place>
+        </schema:location>
+        <schema:organizer>
+          <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/3769010290#Agent/apud_b_white_et_filium">
+            <schema:name>Apud B. White et filium</schema:name>
+          </bgn:Agent>
+        </schema:organizer>
+        <schema:startDate>1781-1793</schema:startDate>
+        <schema:location>
+          <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/3769010290#Place/argentorati_strasbourg">
+            <schema:name>Argentorati Strasbourg</schema:name>
+          </schema:Place>
+        </schema:location>
+        <schema:organizer rdf:resource="http://experiment.worldcat.org/entity/work/data/3769010290#Agent/apud_a_konig"/>
+      </schema:PublicationEvent>
+    </schema:publication>
+    <schema:creator>
+      <schema:Person rdf:about="http://viaf.org/viaf/59120694">
+        <schema:familyName>Jacquin</schema:familyName>
+        <schema:givenName>Nikolaus Joseph</schema:givenName>
+        <schema:name>Freiherr von Nikolaus Joseph Jacquin</schema:name>
+        <schema:birthDate>1727</schema:birthDate>
+        <schema:deathDate>1817</schema:deathDate>
+      </schema:Person>
+    </schema:creator>
+    <schema:publisher rdf:resource="http://experiment.worldcat.org/entity/work/data/3769010290#Agent/prostant_apud_christianum_fridericum_wappler"/>
+    <schema:productID>5537190</schema:productID>
+    <library:placeOfPublication rdf:resource="http://experiment.worldcat.org/entity/work/data/3769010290#Place/vindobonae_vienna"/>
+    <schema:name>Icones plantarum rariorum</schema:name>
+    <library:placeOfPublication rdf:resource="http://experiment.worldcat.org/entity/work/data/3769010290#Place/londini_london"/>
+    <schema:alternateName>Plantae rariores</schema:alternateName>
+    <library:placeOfPublication rdf:resource="http://experiment.worldcat.org/entity/work/data/3769010290#Place/ludguni_batavorum_leiden"/>
+    <schema:isSimilarTo>
+      <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/53301378">
+        <schema:isSimilarTo rdf:resource="http://www.worldcat.org/oclc/5537190"/>
+        <rdfs:label>Icones plantarum rariorum.</rdfs:label>
+        <schema:description>Online version:</schema:description>
+      </schema:CreativeWork>
+    </schema:isSimilarTo>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/836869">
+        <schema:name>Botany</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <library:oclcnum>5537190</library:oclcnum>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/au">
+        <dcterms:identifier>au</dcterms:identifier>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:publisher rdf:resource="http://experiment.worldcat.org/entity/work/data/3769010290#Agent/apud_s_et_j_luchtmans"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <wdrs:describedby>
+      <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/5537190">
+        <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+        <schema:about rdf:resource="http://www.worldcat.org/oclc/5537190"/>
+        <schema:dateModified>2018-11-10</schema:dateModified>
+        <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+      </genont:ContentTypeGenericResource>
+    </wdrs:describedby>
+    <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/3769010290"/>
+    <schema:datePublished>1781/1795</schema:datePublished>
+    <library:placeOfPublication rdf:resource="http://experiment.worldcat.org/entity/work/data/3769010290#Place/argentorati_strasbourg"/>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/3769010290#Topic/botany">
+        <rdfs:seeAlso rdf:resource="http://id.loc.gov/authorities/subjects/sh85015996"/>
+        <schema:name>Botany</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+    <schema:publisher rdf:resource="http://experiment.worldcat.org/entity/work/data/3769010290#Agent/apud_b_white_et_filium"/>
+  </schema:Book>
+</rdf:RDF>

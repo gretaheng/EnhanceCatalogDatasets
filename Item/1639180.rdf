@@ -1,0 +1,108 @@
+<rdf:RDF
+    xmlns:umbel="http://umbel.org/umbel#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <schema:Periodical rdf:about="http://www.worldcat.org/oclc/1639180">
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/4916249374#Topic/botanique">
+        <schema:name xml:lang="fr">Botanique</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/ksu">
+        <dcterms:identifier>ksu</dcterms:identifier>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:productID>1639180</schema:productID>
+    <schema:exampleOfWork>
+      <rdf:Description rdf:about="http://worldcat.org/entity/work/id/4916249374">
+        <umbel:isLike>
+          <schema:Periodical rdf:about="http://worldcat.org/issn/0040-9618">
+            <schema:name xml:lang="en">Bulletin of the Torrey Botanical Club.</schema:name>
+            <schema:issn>0040-9618</schema:issn>
+            <umbel:isLike rdf:resource="http://worldcat.org/entity/work/id/4916249374"/>
+          </schema:Periodical>
+        </umbel:isLike>
+      </rdf:Description>
+    </schema:exampleOfWork>
+    <schema:publication>
+      <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/1639180#PublicationEvent/lawrence_kstorrey_botanical_club">
+        <schema:location>
+          <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/4916249374#Place/lawrence_ks">
+            <schema:name>Lawrence, KS</schema:name>
+          </schema:Place>
+        </schema:location>
+        <schema:organizer>
+          <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/4916249374#Agent/torrey_botanical_club">
+            <schema:name>Torrey Botanical Club.</schema:name>
+          </bgn:Agent>
+        </schema:organizer>
+      </schema:PublicationEvent>
+    </schema:publication>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:inLanguage>en</schema:inLanguage>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/4916249374#Topic/plantkunde">
+        <schema:name xml:lang="en">Plantkunde</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:genre xml:lang="en">Electronic journals</schema:genre>
+    <schema:url rdf:resource="http://www.jstor.org/journals/00409618.html"/>
+    <schema:name xml:lang="en">Bulletin of the Torrey Botanical Club.</schema:name>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/4916249374#Topic/42_40_botany_general">
+        <schema:name xml:lang="en">42.40 botany: general</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:workExample rdf:resource="http://worldcat.org/issn/0040-9618"/>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/4916249374#Topic/botany">
+        <rdfs:seeAlso rdf:resource="http://id.loc.gov/authorities/subjects/sh2007102112"/>
+        <schema:name xml:lang="en">Botany</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <wdrs:describedby>
+      <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/1639180">
+        <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+        <schema:about rdf:resource="http://www.worldcat.org/oclc/1639180"/>
+        <schema:dateModified>2020-03-03</schema:dateModified>
+        <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+      </genont:ContentTypeGenericResource>
+    </wdrs:describedby>
+    <schema:genre xml:lang="en">Periodical</schema:genre>
+    <schema:genre xml:lang="en">Periodicals</schema:genre>
+    <library:oclcnum>1639180</library:oclcnum>
+    <schema:about>
+      <schema:Intangible rdf:about="http://dewey.info/class/580.5/e19/"/>
+    </schema:about>
+    <schema:publisher rdf:resource="http://experiment.worldcat.org/entity/work/data/4916249374#Agent/torrey_botanical_club"/>
+    <schema:hasPart>
+      <schema:CreativeWork rdf:about="http://experiment.worldcat.org/entity/work/data/4916249374#CreativeWork/index_to_american_botanical_literature">
+        <schema:name>Index to American botanical literature.</schema:name>
+      </schema:CreativeWork>
+    </schema:hasPart>
+    <schema:contributor>
+      <schema:Organization rdf:about="http://viaf.org/viaf/158865029">
+        <schema:name>Torrey Botanical Club.</schema:name>
+      </schema:Organization>
+    </schema:contributor>
+    <library:placeOfPublication rdf:resource="http://experiment.worldcat.org/entity/work/data/4916249374#Place/lawrence_ks"/>
+    <schema:datePublished>1870/1996</schema:datePublished>
+    <schema:isSimilarTo>
+      <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/45446704">
+        <schema:isSimilarTo rdf:resource="http://www.worldcat.org/oclc/1639180"/>
+        <rdfs:label>Bulletin of the Torrey Botanical Club (Online)</rdfs:label>
+        <schema:description>Onlin version:</schema:description>
+      </schema:CreativeWork>
+    </schema:isSimilarTo>
+  </schema:Periodical>
+</rdf:RDF>

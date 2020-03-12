@@ -1,0 +1,132 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/973638511">
+    <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+    <schema:about>
+      <schema:Book rdf:about="http://www.worldcat.org/oclc/973638511">
+        <schema:about>
+          <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/24502737#Topic/lithography_english">
+            <schema:name xml:lang="en">Lithography, English</schema:name>
+          </schema:Intangible>
+        </schema:about>
+        <library:placeOfPublication>
+          <schema:Place rdf:about="http://dbpedia.org/resource/London">
+            <schema:name>London</schema:name>
+          </schema:Place>
+        </library:placeOfPublication>
+        <schema:creator>
+          <schema:Person rdf:about="http://experiment.worldcat.org/entity/work/data/24502737#Person/warner_robert">
+            <schema:familyName>Warner</schema:familyName>
+            <schema:givenName>Robert</schema:givenName>
+            <schema:name>Robert Warner</schema:name>
+          </schema:Person>
+        </schema:creator>
+        <schema:productID>973638511</schema:productID>
+        <schema:contributor>
+          <schema:Person rdf:about="http://experiment.worldcat.org/entity/work/data/24502737#Person/andrews_james_1801_1876">
+            <schema:familyName>Andrews</schema:familyName>
+            <schema:givenName>James</schema:givenName>
+            <schema:name>James Andrews</schema:name>
+            <schema:birthDate>1801</schema:birthDate>
+            <schema:deathDate>1876</schema:deathDate>
+          </schema:Person>
+        </schema:contributor>
+        <schema:about>
+          <schema:Event rdf:about="http://experiment.worldcat.org/entity/work/data/24502737#Event/1800_1899">
+            <schema:name>1800-1899</schema:name>
+          </schema:Event>
+        </schema:about>
+        <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/24502737"/>
+        <schema:contributor>
+          <schema:Person rdf:about="http://experiment.worldcat.org/entity/work/data/24502737#Person/west_w">
+            <schema:familyName>West</schema:familyName>
+            <schema:givenName>W.</schema:givenName>
+            <schema:name>W. West</schema:name>
+          </schema:Person>
+        </schema:contributor>
+        <schema:genre xml:lang="en">Pictorial works</schema:genre>
+        <schema:url rdf:resource="http://www.botanicus.org/title/b11825091"/>
+        <schema:alternateName>Orchidaceous plants</schema:alternateName>
+        <schema:about>
+          <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/24502737#Topic/orchids">
+            <schema:name xml:lang="en">Orchids</schema:name>
+          </schema:Intangible>
+        </schema:about>
+        <schema:name xml:lang="en">Select orchidaceous plants : [first series]</schema:name>
+        <schema:contributor>
+          <schema:Person rdf:about="http://experiment.worldcat.org/entity/work/data/24502737#Person/williams_benjamin_samuel_1822_1890">
+            <schema:familyName>Williams</schema:familyName>
+            <schema:givenName>Benjamin Samuel</schema:givenName>
+            <schema:name>Benjamin Samuel Williams</schema:name>
+            <schema:birthDate>1822</schema:birthDate>
+            <schema:deathDate>1890</schema:deathDate>
+          </schema:Person>
+        </schema:contributor>
+        <library:oclcnum>973638511</library:oclcnum>
+        <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+        <schema:about>
+          <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/24502737#Topic/lithography">
+            <schema:name xml:lang="en">Lithography</schema:name>
+          </schema:Intangible>
+        </schema:about>
+        <schema:datePublished>1862/1865</schema:datePublished>
+        <schema:genre xml:lang="en">Specimens</schema:genre>
+        <library:placeOfPublication>
+          <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/enk">
+            <dcterms:identifier>enk</dcterms:identifier>
+          </schema:Place>
+        </library:placeOfPublication>
+        <schema:inLanguage>en</schema:inLanguage>
+        <schema:about>
+          <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/24502737#Topic/lithography_english_19th_century">
+            <schema:name xml:lang="en">Lithography, English--19th century</schema:name>
+          </schema:Intangible>
+        </schema:about>
+        <schema:publication>
+          <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/973638511#PublicationEvent/london_lovell_reeve_1862_1865">
+            <schema:location rdf:resource="http://dbpedia.org/resource/London"/>
+            <schema:organizer>
+              <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/24502737#Agent/lovell_reeve">
+                <schema:name>Lovell Reeve</schema:name>
+              </bgn:Agent>
+            </schema:organizer>
+            <schema:startDate>1862-1865</schema:startDate>
+          </schema:PublicationEvent>
+        </schema:publication>
+        <schema:publisher rdf:resource="http://experiment.worldcat.org/entity/work/data/24502737#Agent/lovell_reeve"/>
+        <wdrs:describedby rdf:resource="http://www.worldcat.org/title/-/oclc/973638511"/>
+        <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+        <schema:contributor>
+          <schema:Person rdf:about="http://experiment.worldcat.org/entity/work/data/24502737#Person/fitch_w_h_walter_hood_1817_1892">
+            <schema:familyName>Fitch</schema:familyName>
+            <schema:givenName>W. H.</schema:givenName>
+            <schema:givenName>Walter Hood</schema:givenName>
+            <schema:name>Walter Hood Fitch</schema:name>
+            <schema:birthDate>1817</schema:birthDate>
+            <schema:deathDate>1892</schema:deathDate>
+          </schema:Person>
+        </schema:contributor>
+        <schema:contributor>
+          <schema:Person rdf:about="http://experiment.worldcat.org/entity/work/data/24502737#Person/brooks_vincent_1815_1885">
+            <schema:familyName>Brooks</schema:familyName>
+            <schema:givenName>Vincent</schema:givenName>
+            <schema:name>Vincent Brooks</schema:name>
+            <schema:birthDate>1815?</schema:birthDate>
+            <schema:deathDate>1885</schema:deathDate>
+          </schema:Person>
+        </schema:contributor>
+      </schema:Book>
+    </schema:about>
+    <schema:dateModified>2018-11-08</schema:dateModified>
+    <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+  </genont:ContentTypeGenericResource>
+</rdf:RDF>

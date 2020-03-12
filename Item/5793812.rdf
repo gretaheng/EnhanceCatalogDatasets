@@ -1,0 +1,100 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <schema:Book rdf:about="http://www.worldcat.org/oclc/5793812">
+    <schema:publisher>
+      <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/5342553980#Agent/u_hoeplius">
+        <schema:name>U. Hoeplius</schema:name>
+      </bgn:Agent>
+    </schema:publisher>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/5342553980#Topic/botanique_pyrenees">
+        <schema:name xml:lang="fr">Botanique--Pyrénées</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.loc.gov/authorities/subjects/sh2009117455">
+        <schema:name>Botany--France</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:inLanguage>fr</schema:inLanguage>
+    <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/5342553980"/>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/836869">
+        <schema:name>Botany</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/5342553980#Topic/botany_pyrenees">
+        <schema:hasPart rdf:resource="http://id.loc.gov/authorities/subjects/sh85015976"/>
+        <schema:name>Botany--Pyrenees</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <wdrs:describedby>
+      <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/5793812">
+        <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+        <schema:about rdf:resource="http://www.worldcat.org/oclc/5793812"/>
+        <schema:dateModified>2019-11-09</schema:dateModified>
+        <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+      </genont:ContentTypeGenericResource>
+    </wdrs:describedby>
+    <schema:about>
+      <schema:Place rdf:about="http://id.worldcat.org/fast/1204289">
+        <schema:name>France.</schema:name>
+      </schema:Place>
+    </schema:about>
+    <schema:about>
+      <schema:Place rdf:about="http://id.worldcat.org/fast/1239972">
+        <schema:name>Pyrenees.</schema:name>
+      </schema:Place>
+    </schema:about>
+    <schema:publication>
+      <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/5793812#PublicationEvent/mediolane_u_hoeplius_1897_1901">
+        <schema:location>
+          <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/5342553980#Place/mediolane">
+            <schema:name>Mediolane</schema:name>
+          </schema:Place>
+        </schema:location>
+        <schema:organizer rdf:resource="http://experiment.worldcat.org/entity/work/data/5342553980#Agent/u_hoeplius"/>
+        <schema:startDate>1897-1901</schema:startDate>
+      </schema:PublicationEvent>
+    </schema:publication>
+    <library:oclcnum>5793812</library:oclcnum>
+    <library:placeOfPublication rdf:resource="http://experiment.worldcat.org/entity/work/data/5342553980#Place/mediolane"/>
+    <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/fr">
+        <dcterms:identifier>fr</dcterms:identifier>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:datePublished>1897/1901</schema:datePublished>
+    <schema:productID>5793812</schema:productID>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:isSimilarTo>
+      <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/692052878">
+        <schema:isSimilarTo rdf:resource="http://www.worldcat.org/oclc/5793812"/>
+        <rdfs:label>Flora Pyrenaea per ordines naturales gradatim digesta.</rdfs:label>
+        <schema:description>Online version:</schema:description>
+      </schema:CreativeWork>
+    </schema:isSimilarTo>
+    <schema:creator>
+      <schema:Person rdf:about="http://viaf.org/viaf/81215171">
+        <schema:familyName>Bubani</schema:familyName>
+        <schema:givenName>Pietro</schema:givenName>
+        <schema:name>Pietro Bubani</schema:name>
+        <schema:birthDate>1806</schema:birthDate>
+        <schema:deathDate>1888</schema:deathDate>
+      </schema:Person>
+    </schema:creator>
+    <schema:name>Flora Pyrenaea per ordines naturales gradatim digesta;</schema:name>
+  </schema:Book>
+</rdf:RDF>

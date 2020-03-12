@@ -1,0 +1,165 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <schema:Book rdf:about="http://www.worldcat.org/oclc/15495579">
+    <schema:contributor>
+      <schema:Person rdf:about="http://viaf.org/viaf/202484108">
+        <schema:familyName>Guichenot</schema:familyName>
+        <schema:givenName>Alphonse</schema:givenName>
+        <schema:name>M. Alphonse Guichenot</schema:name>
+      </schema:Person>
+    </schema:contributor>
+    <schema:isSimilarTo>
+      <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/952005808">
+        <schema:isSimilarTo rdf:resource="http://www.worldcat.org/oclc/15495579"/>
+        <rdfs:label>Historia física, política y natural de la isla de Cuba.</rdfs:label>
+        <schema:description>Online version:</schema:description>
+      </schema:CreativeWork>
+    </schema:isSimilarTo>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/1155558">
+        <schema:name>Travel</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:datePublished>1838/1857</schema:datePublished>
+    <schema:about>
+      <schema:Place rdf:about="http://id.worldcat.org/fast/1205805">
+        <schema:name>Cuba.</schema:name>
+      </schema:Place>
+    </schema:about>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/fr">
+        <dcterms:identifier>fr</dcterms:identifier>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:datePublished>1839/1856</schema:datePublished>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/1082916189#Place/paris">
+        <schema:name>Paris</schema:name>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:contributor>
+      <schema:Person rdf:about="http://viaf.org/viaf/162152636054520050976">
+        <schema:familyName>Cocteau</schema:familyName>
+        <schema:givenName>Jean Théodore</schema:givenName>
+        <schema:name>Jean Théodore Cocteau</schema:name>
+      </schema:Person>
+    </schema:contributor>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/1082916189#Topic/natural_history_cuba">
+        <schema:hasPart rdf:resource="http://id.loc.gov/authorities/subjects/sh85090222"/>
+        <schema:name>Natural history--Cuba</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <wdrs:describedby>
+      <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/15495579">
+        <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+        <schema:about rdf:resource="http://www.worldcat.org/oclc/15495579"/>
+        <schema:dateModified>2018-11-09</schema:dateModified>
+        <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+      </genont:ContentTypeGenericResource>
+    </wdrs:describedby>
+    <schema:contributor>
+      <schema:Person rdf:about="http://viaf.org/viaf/68959730">
+        <schema:familyName>Richard</schema:familyName>
+        <schema:givenName>Achille</schema:givenName>
+        <schema:name>Achille Richard</schema:name>
+        <schema:birthDate>1794</schema:birthDate>
+        <schema:deathDate>1852</schema:deathDate>
+      </schema:Person>
+    </schema:contributor>
+    <schema:about>
+      <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/1082916189#Place/cuba">
+        <schema:name>Cuba</schema:name>
+      </schema:Place>
+    </schema:about>
+    <schema:creator>
+      <schema:Person rdf:about="http://viaf.org/viaf/9888095">
+        <schema:familyName>Sagra</schema:familyName>
+        <schema:givenName>Ramón de la</schema:givenName>
+        <schema:name>Ramón de la Sagra</schema:name>
+        <schema:birthDate>1798</schema:birthDate>
+        <schema:deathDate>1871</schema:deathDate>
+      </schema:Person>
+    </schema:creator>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/1034268">
+        <schema:name>Natural history</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:contributor>
+      <schema:Person rdf:about="http://viaf.org/viaf/51823869">
+        <schema:familyName>Guérin-Méneville</schema:familyName>
+        <schema:givenName>F.-É</schema:givenName>
+        <schema:givenName>Félix-Édouard</schema:givenName>
+        <schema:name>Félix-Édouard Guérin-Méneville</schema:name>
+        <schema:birthDate>1799</schema:birthDate>
+        <schema:deathDate>1874</schema:deathDate>
+      </schema:Person>
+    </schema:contributor>
+    <schema:publication>
+      <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/15495579#PublicationEvent/paris_en_libreria_de_arthus_bertrand_1839_1856_i_e_1838_1857">
+        <schema:location rdf:resource="http://experiment.worldcat.org/entity/work/data/1082916189#Place/paris"/>
+        <schema:organizer>
+          <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/1082916189#Agent/en_libreria_de_arthus_bertrand">
+            <schema:name>En libreria de Arthus Bertrand</schema:name>
+          </bgn:Agent>
+        </schema:organizer>
+        <schema:startDate>1839-1856</schema:startDate>
+      </schema:PublicationEvent>
+    </schema:publication>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/901974">
+        <schema:name>Economic history</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <library:oclcnum>15495579</library:oclcnum>
+    <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+    <schema:about>
+      <schema:Intangible rdf:about="http://dewey.info/class/594/"/>
+    </schema:about>
+    <schema:description>t. 1. Introducción, geografía, clima, población, agricultura / [por R. de la Sagra]. 1842 [i.e. 1838?] -- t. 2. Comercio marítimo, rentas y gastos, fuerza armada, apéndice / [por R. de la Sagra] 1842. Atlas geográfico [13 láminas]. 1842 -- t. 3. Mamíferos / [por R. de la Sagra. Quirópteros / por F.L.P. Gervais]. 1845 [i.e. 1838?]. Aves / por A.D. d'Orbigny. 1845-[1853?] -- t. 4. Reptiles [por J.T. Cocteau y G. Bibron]. Peces [por A. Guichenot]. 1843 -- t. 5. Moluscos / [por A. d'Orbigny] -- t. 6. Fosiles [Foraminiferas, por A. d'Orbigny]. 1845 -- t. 7. Crustaceos, aragnides é insectos [por F.E. Guérin-Méneville]. 1856 -- t. 8. Atlas de zoología [146 láminas]. 1855 -- t. 9. Botánica [Introducción: Flora cubana / por R. de la Sagra. 1856] Criptogamia; ó, Plantas celulares / por J.F.C. Montagne. 1845-1856 -- t. 10-11 Botánica. Fanerogamia; ó, Plantas vasculares / por Achille Richard. 1845-1850 -- t. 12. Atlas de botánica [122 láminas] 1855.</schema:description>
+    <schema:publisher rdf:resource="http://experiment.worldcat.org/entity/work/data/1082916189#Agent/en_libreria_de_arthus_bertrand"/>
+    <schema:inLanguage>es</schema:inLanguage>
+    <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/1082916189"/>
+    <schema:contributor>
+      <schema:Person rdf:about="http://viaf.org/viaf/39493145">
+        <schema:familyName>Montagne</schema:familyName>
+        <schema:givenName>Jean François Camille</schema:givenName>
+        <schema:name>Jean François Camille Montagne</schema:name>
+        <schema:birthDate>1784</schema:birthDate>
+        <schema:deathDate>1866</schema:deathDate>
+      </schema:Person>
+    </schema:contributor>
+    <schema:productID>15495579</schema:productID>
+    <schema:contributor>
+      <schema:Person rdf:about="http://viaf.org/viaf/67247065">
+        <schema:familyName>Bibron</schema:familyName>
+        <schema:givenName>Gabriel</schema:givenName>
+        <schema:name>Gabriel Bibron</schema:name>
+        <schema:birthDate>1806</schema:birthDate>
+        <schema:deathDate>1848</schema:deathDate>
+      </schema:Person>
+    </schema:contributor>
+    <schema:name>Historia física, política y natural de la isla de Cuba</schema:name>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:contributor>
+      <schema:Person rdf:about="http://viaf.org/viaf/95291019">
+        <schema:familyName>Orbigny</schema:familyName>
+        <schema:givenName>Alcide Dessalines d'</schema:givenName>
+        <schema:name>Alcide Dessalines d' Orbigny</schema:name>
+        <schema:birthDate>1802</schema:birthDate>
+        <schema:deathDate>1857</schema:deathDate>
+      </schema:Person>
+    </schema:contributor>
+  </schema:Book>
+</rdf:RDF>

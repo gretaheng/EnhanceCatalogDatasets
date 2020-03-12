@@ -1,0 +1,101 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <schema:Book rdf:about="http://www.worldcat.org/oclc/7101114">
+    <schema:datePublished>1855/1861</schema:datePublished>
+    <schema:name>Chloris andina : essai d'une flore de la région alpine des Cordillères de l'Amérique du Sud</schema:name>
+    <schema:isPartOf>
+      <bgn:PublicationSeries rdf:about="http://experiment.worldcat.org/entity/work/data/108061921#Series/expedition_dans_les_parties_centrales_de_l_amerique_du_sud_de_rio_de_janeiro_a_lima_et_de_lima_au_para_sixieme_partie_botanique">
+        <schema:hasPart rdf:resource="http://www.worldcat.org/oclc/7101114"/>
+        <schema:name>Expédition dans les parties centrales de l'Amérique du Sud, de Rio de Janeiro à Lima, et de Lima au Para. Sixième partie, Botanique</schema:name>
+      </bgn:PublicationSeries>
+    </schema:isPartOf>
+    <library:oclcnum>7101114</library:oclcnum>
+    <schema:publication>
+      <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/7101114#PublicationEvent/paris_p_bertrand_1855_1857_i_e_1861">
+        <schema:location>
+          <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/108061921#Place/paris">
+            <schema:name>Paris</schema:name>
+          </schema:Place>
+        </schema:location>
+        <schema:organizer>
+          <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/108061921#Agent/p_bertrand">
+            <schema:name>P. Bertrand</schema:name>
+          </bgn:Agent>
+        </schema:organizer>
+        <schema:startDate>1855-1857</schema:startDate>
+      </schema:PublicationEvent>
+    </schema:publication>
+    <schema:productID>7101114</schema:productID>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/fr">
+        <dcterms:identifier>fr</dcterms:identifier>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:about>
+      <schema:Place rdf:about="http://id.worldcat.org/fast/1244515">
+        <schema:name>South America.</schema:name>
+      </schema:Place>
+    </schema:about>
+    <schema:isPartOf>
+      <bgn:PublicationSeries rdf:about="http://experiment.worldcat.org/entity/work/data/108061921#Series/expedition_dans_les_parties_centrales_de_l_amerique_du_sud_de_rio_de_janeiro_a_lima_et_de_lima_au_para">
+        <schema:hasPart rdf:resource="http://www.worldcat.org/oclc/7101114"/>
+        <schema:name>Expédition dans les parties centrales de l'Amérique du Sud, de Rio de Janeiro à Lima, et de Lima au Para.</schema:name>
+      </bgn:PublicationSeries>
+    </schema:isPartOf>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/836869">
+        <schema:name>Botany</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+    <schema:inLanguage>fr</schema:inLanguage>
+    <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/108061921"/>
+    <schema:about>
+      <schema:Intangible rdf:about="http://dewey.info/class/581.98/"/>
+    </schema:about>
+    <schema:creator>
+      <schema:Person rdf:about="http://viaf.org/viaf/49363473">
+        <schema:familyName>Weddell</schema:familyName>
+        <schema:givenName>H. A.</schema:givenName>
+        <schema:givenName>Hugh Algernon</schema:givenName>
+        <schema:name>Hugh Algernon Weddell</schema:name>
+        <schema:birthDate>1819</schema:birthDate>
+        <schema:deathDate>1877</schema:deathDate>
+      </schema:Person>
+    </schema:creator>
+    <wdrs:describedby>
+      <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/7101114">
+        <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+        <schema:about rdf:resource="http://www.worldcat.org/oclc/7101114"/>
+        <schema:dateModified>2018-11-09</schema:dateModified>
+        <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+      </genont:ContentTypeGenericResource>
+    </wdrs:describedby>
+    <library:placeOfPublication rdf:resource="http://experiment.worldcat.org/entity/work/data/108061921#Place/paris"/>
+    <schema:publisher rdf:resource="http://experiment.worldcat.org/entity/work/data/108061921#Agent/p_bertrand"/>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.loc.gov/authorities/subjects/sh2009117475">
+        <schema:name>Botany--South America</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:isSimilarTo>
+      <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/867639791">
+        <schema:isSimilarTo rdf:resource="http://www.worldcat.org/oclc/7101114"/>
+        <rdfs:label>Chloris andina.</rdfs:label>
+        <schema:description>Online version:</schema:description>
+      </schema:CreativeWork>
+    </schema:isSimilarTo>
+    <schema:datePublished>1855/1857</schema:datePublished>
+  </schema:Book>
+</rdf:RDF>

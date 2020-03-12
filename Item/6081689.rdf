@@ -1,0 +1,110 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/6081689">
+    <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+    <schema:about>
+      <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/6081689">
+        <wdrs:describedby rdf:resource="http://www.worldcat.org/title/-/oclc/6081689"/>
+        <schema:productID>6081689</schema:productID>
+        <schema:creator>
+          <schema:Person rdf:about="http://viaf.org/viaf/44413344">
+            <schema:familyName>Lindley</schema:familyName>
+            <schema:givenName>John</schema:givenName>
+            <schema:name>John Lindley</schema:name>
+            <schema:birthDate>1799</schema:birthDate>
+            <schema:deathDate>1865</schema:deathDate>
+          </schema:Person>
+        </schema:creator>
+        <schema:about>
+          <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/13687899#Topic/orchids">
+            <rdfs:seeAlso rdf:resource="http://id.loc.gov/authorities/subjects/sh2008108699"/>
+            <schema:name xml:lang="en">Orchids</schema:name>
+          </schema:Intangible>
+        </schema:about>
+        <schema:illustrator>
+          <schema:Person rdf:about="http://viaf.org/viaf/64162204">
+            <schema:familyName>Griffith</schema:familyName>
+            <schema:givenName>William</schema:givenName>
+            <schema:name>William Griffith</schema:name>
+            <schema:birthDate>1810</schema:birthDate>
+            <schema:deathDate>1845,</schema:deathDate>
+          </schema:Person>
+        </schema:illustrator>
+        <library:oclcnum>6081689</library:oclcnum>
+        <schema:illustrator>
+          <schema:Person rdf:about="http://viaf.org/viaf/120575202">
+            <schema:familyName>Drake</schema:familyName>
+            <schema:givenName>Sarah Anne</schema:givenName>
+            <schema:name>Sarah Anne Drake</schema:name>
+            <schema:birthDate>1803</schema:birthDate>
+            <schema:deathDate>1857,</schema:deathDate>
+          </schema:Person>
+        </schema:illustrator>
+        <schema:alternateName>Wreath of the most beautiful orchidaceous flowers</schema:alternateName>
+        <schema:inLanguage>en</schema:inLanguage>
+        <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+        <schema:genre xml:lang="en">Pictorial works</schema:genre>
+        <schema:illustrator>
+          <schema:Person rdf:about="http://viaf.org/viaf/90724187">
+            <schema:familyName>Descourtilz</schema:familyName>
+            <schema:givenName>J. T.</schema:givenName>
+            <schema:givenName>Jean Théodore</schema:givenName>
+            <schema:name>Jean Théodore Descourtilz</schema:name>
+            <schema:deathDate>1855,</schema:deathDate>
+          </schema:Person>
+        </schema:illustrator>
+        <schema:name xml:lang="en">Sertum orchidaceum : a wreath of the most beautiful orchidaceous flowers</schema:name>
+        <schema:contributor>
+          <schema:Person rdf:about="http://viaf.org/viaf/78079080">
+            <schema:familyName>Gauci</schema:familyName>
+            <schema:givenName>M.</schema:givenName>
+            <schema:givenName>Maxim</schema:givenName>
+            <schema:name>Maxim Gauci</schema:name>
+            <schema:birthDate>1776</schema:birthDate>
+            <schema:deathDate>1854‏,</schema:deathDate>
+          </schema:Person>
+        </schema:contributor>
+        <rdf:type rdf:resource="http://schema.org/Book"/>
+        <schema:contributor>
+          <schema:Person rdf:about="http://viaf.org/viaf/66012174">
+            <schema:familyName>Gauci</schema:familyName>
+            <schema:givenName>P.</schema:givenName>
+            <schema:givenName>Paul</schema:givenName>
+            <schema:name>Paul Gauci</schema:name>
+            <schema:birthDate>active 1834</schema:birthDate>
+            <schema:deathDate>1866,</schema:deathDate>
+          </schema:Person>
+        </schema:contributor>
+        <schema:publisher>
+          <schema:Organization rdf:about="http://viaf.org/viaf/141183081">
+            <schema:name>James Ridgway and Sons,</schema:name>
+          </schema:Organization>
+        </schema:publisher>
+        <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/13687899"/>
+        <library:placeOfPublication>
+          <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/enk">
+            <dcterms:identifier>enk</dcterms:identifier>
+          </schema:Place>
+        </library:placeOfPublication>
+        <schema:datePublished>1838</schema:datePublished>
+        <schema:about>
+          <schema:Intangible rdf:about="http://id.worldcat.org/fast/1047313">
+            <schema:name xml:lang="en">Orchids</schema:name>
+          </schema:Intangible>
+        </schema:about>
+      </schema:CreativeWork>
+    </schema:about>
+    <schema:dateModified>2019-01-15</schema:dateModified>
+    <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+  </genont:ContentTypeGenericResource>
+</rdf:RDF>

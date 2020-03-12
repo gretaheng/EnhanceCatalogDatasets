@@ -1,0 +1,89 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/6589467">
+    <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+    <schema:about>
+      <schema:Periodical rdf:about="http://www.worldcat.org/oclc/6589467">
+        <schema:about>
+          <schema:Intangible rdf:about="http://id.worldcat.org/fast/836928">
+            <schema:name>Botany--Societies, etc</schema:name>
+          </schema:Intangible>
+        </schema:about>
+        <library:placeOfPublication>
+          <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/23257163#Place/amstelodami">
+            <schema:name>Amstelodami</schema:name>
+          </schema:Place>
+        </library:placeOfPublication>
+        <wdrs:describedby rdf:resource="http://www.worldcat.org/title/-/oclc/6589467"/>
+        <schema:inLanguage>la</schema:inLanguage>
+        <library:placeOfPublication>
+          <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/ne">
+            <dcterms:identifier>ne</dcterms:identifier>
+          </schema:Place>
+        </library:placeOfPublication>
+        <schema:contributor>
+          <schema:Person rdf:about="http://viaf.org/viaf/49339105">
+            <schema:familyName>Miquel</schema:familyName>
+            <schema:givenName>Friedrich Anton Wilhelm</schema:givenName>
+            <schema:name>Friedrich Anton Wilhelm Miquel</schema:name>
+            <schema:birthDate>1811</schema:birthDate>
+            <schema:deathDate>1871</schema:deathDate>
+          </schema:Person>
+        </schema:contributor>
+        <schema:about>
+          <schema:Place rdf:about="http://id.worldcat.org/fast/1209242">
+            <schema:name>Indonesia.</schema:name>
+          </schema:Place>
+        </schema:about>
+        <schema:publication>
+          <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/6589467#PublicationEvent/amstelodami_apud_c_g_van_der_post">
+            <schema:location rdf:resource="http://experiment.worldcat.org/entity/work/data/23257163#Place/amstelodami"/>
+            <schema:organizer>
+              <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/23257163#Agent/apud_c_g_van_der_post">
+                <schema:name>Apud C.G. van der Post</schema:name>
+              </bgn:Agent>
+            </schema:organizer>
+          </schema:PublicationEvent>
+        </schema:publication>
+        <schema:publisher rdf:resource="http://experiment.worldcat.org/entity/work/data/23257163#Agent/apud_c_g_van_der_post"/>
+        <schema:creator>
+          <schema:Organization rdf:about="http://viaf.org/viaf/168262030">
+            <schema:name>Rijksherbarium (Netherlands)</schema:name>
+          </schema:Organization>
+        </schema:creator>
+        <schema:productID>6589467</schema:productID>
+        <schema:name>Annales Musei botanici lugduno-batavi.</schema:name>
+        <schema:about>
+          <schema:Intangible rdf:about="http://id.loc.gov/authorities/subjects/sh85015999">
+            <schema:name>Botany--Societies, etc</schema:name>
+          </schema:Intangible>
+        </schema:about>
+        <schema:datePublished>1863/1869</schema:datePublished>
+        <schema:about>
+          <schema:Intangible rdf:about="http://id.worldcat.org/fast/836869">
+            <schema:name>Botany</schema:name>
+          </schema:Intangible>
+        </schema:about>
+        <schema:about>
+          <schema:Intangible rdf:about="http://id.loc.gov/authorities/subjects/sh2009117460">
+            <schema:name>Botany--Indonesia</schema:name>
+          </schema:Intangible>
+        </schema:about>
+        <library:oclcnum>6589467</library:oclcnum>
+        <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/23257163"/>
+        <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+      </schema:Periodical>
+    </schema:about>
+    <schema:dateModified>2018-11-20</schema:dateModified>
+    <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+  </genont:ContentTypeGenericResource>
+</rdf:RDF>

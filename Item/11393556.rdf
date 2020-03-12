@@ -1,0 +1,132 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <schema:Book rdf:about="http://www.worldcat.org/oclc/11393556">
+    <schema:publisher>
+      <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/4095486387#Agent/apud_editorem_l_g_desgranges_in_vico_haute_feuille_no_14">
+        <schema:name>apud editorem L.G. Desgranges, in vico Haute-Feuille, no. 14</schema:name>
+      </bgn:Agent>
+    </schema:publisher>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/4095486387#Topic/botanique_tunisie_ouvrages_prelinneens">
+        <schema:name xml:lang="fr">Botanique--Tunisie--Ouvrages prélinnéens</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <library:oclcnum>11393556</library:oclcnum>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/fr">
+        <dcterms:identifier>fr</dcterms:identifier>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:inLanguage>la</schema:inLanguage>
+    <schema:publication>
+      <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/11393556#PublicationEvent/parisiis_apud_editorem_l_g_desgranges_in_vico_haute_feuille_no_14_1798_1799">
+        <schema:location>
+          <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/4095486387#Place/parisiis">
+            <schema:name>Parisiis</schema:name>
+          </schema:Place>
+        </schema:location>
+        <schema:organizer rdf:resource="http://experiment.worldcat.org/entity/work/data/4095486387#Agent/apud_editorem_l_g_desgranges_in_vico_haute_feuille_no_14"/>
+        <schema:startDate></schema:startDate>
+      </schema:PublicationEvent>
+    </schema:publication>
+    <schema:about>
+      <schema:Place rdf:about="http://id.worldcat.org/fast/1205477">
+        <schema:name>Tunisia.</schema:name>
+      </schema:Place>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/4095486387#Topic/botanique_atlas_montagnes_ouvrages_prelinneens">
+        <schema:name xml:lang="fr">Botanique--Atlas (Montagnes)--Ouvrages prélinnéens</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:isSimilarTo>
+      <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/890566721">
+        <schema:isSimilarTo rdf:resource="http://www.worldcat.org/oclc/11393556"/>
+        <rdfs:label>Flora atlantica.</rdfs:label>
+        <schema:description>Online version:</schema:description>
+      </schema:CreativeWork>
+    </schema:isSimilarTo>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:datePublished>1798/1799</schema:datePublished>
+    <library:placeOfPublication rdf:resource="http://experiment.worldcat.org/entity/work/data/4095486387#Place/parisiis"/>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/4095486387#Topic/botany_algeria">
+        <schema:hasPart rdf:resource="http://id.loc.gov/authorities/subjects/sh85015976"/>
+        <schema:name>Botany--Algeria</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/4095486387"/>
+    <schema:contributor>
+      <schema:Person rdf:about="http://viaf.org/viaf/71481124">
+        <schema:familyName>Redouté</schema:familyName>
+        <schema:givenName>Henri-Joseph</schema:givenName>
+        <schema:name>Henri-Joseph Redouté</schema:name>
+        <schema:birthDate>1766</schema:birthDate>
+        <schema:deathDate>1852</schema:deathDate>
+      </schema:Person>
+    </schema:contributor>
+    <schema:productID>11393556</schema:productID>
+    <schema:about>
+      <schema:Place rdf:about="http://id.worldcat.org/fast/1205459">
+        <schema:name>Algeria.</schema:name>
+      </schema:Place>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/836869">
+        <schema:name>Botany</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/4095486387#Topic/botanique_algerie_ouvrages_prelinneens">
+        <schema:name xml:lang="fr">Botanique--Algérie--Ouvrages prélinnéens</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/4095486387#Topic/botany_tunisia">
+        <schema:hasPart rdf:resource="http://id.loc.gov/authorities/subjects/sh85015976"/>
+        <schema:name>Botany--Tunisia</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:contributor>
+      <schema:Person rdf:about="http://viaf.org/viaf/46766391">
+        <schema:familyName>Redouté</schema:familyName>
+        <schema:givenName>Pierre Joseph</schema:givenName>
+        <schema:name>Pierre Joseph Redouté</schema:name>
+        <schema:birthDate>1759</schema:birthDate>
+        <schema:deathDate>1840</schema:deathDate>
+      </schema:Person>
+    </schema:contributor>
+    <schema:creator>
+      <schema:Person rdf:about="http://viaf.org/viaf/41931980">
+        <schema:familyName>Desfontaines</schema:familyName>
+        <schema:givenName>René Louiche</schema:givenName>
+        <schema:name>René Louiche Desfontaines</schema:name>
+        <schema:birthDate>1750</schema:birthDate>
+        <schema:deathDate>1833</schema:deathDate>
+      </schema:Person>
+    </schema:creator>
+    <schema:name>Flora atlantica : sive historia plantarum quae in Atlante, agro tunetano et algeriensi crescunt</schema:name>
+    <schema:about>
+      <schema:Intangible rdf:about="http://dewey.info/class/581.961/"/>
+    </schema:about>
+    <wdrs:describedby>
+      <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/11393556">
+        <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+        <schema:about rdf:resource="http://www.worldcat.org/oclc/11393556"/>
+        <schema:dateModified>2018-11-10</schema:dateModified>
+        <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+      </genont:ContentTypeGenericResource>
+    </wdrs:describedby>
+    <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+  </schema:Book>
+</rdf:RDF>

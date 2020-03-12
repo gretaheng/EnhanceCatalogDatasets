@@ -1,0 +1,87 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/6445968">
+    <schema:contributor>
+      <schema:Person rdf:about="http://viaf.org/viaf/93209994">
+        <schema:familyName>Hume</schema:familyName>
+        <schema:givenName>H. Harold</schema:givenName>
+        <schema:givenName>Hardrada Harold</schema:givenName>
+        <schema:name>Hardrada Harold Hume</schema:name>
+        <schema:birthDate>1875</schema:birthDate>
+        <schema:deathDate>1965,</schema:deathDate>
+      </schema:Person>
+    </schema:contributor>
+    <schema:productID>6445968</schema:productID>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/1065823">
+        <schema:name>Plants</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:datePublished>1763</schema:datePublished>
+    <schema:genre>Classification</schema:genre>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/fr">
+        <dcterms:identifier>fr</dcterms:identifier>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:inLanguage>fr</schema:inLanguage>
+    <rdf:type rdf:resource="http://schema.org/Book"/>
+    <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/1669234"/>
+    <schema:name>Familles des plantes</schema:name>
+    <schema:about>
+      <schema:Intangible rdf:about="http://dewey.info/class/580.12/"/>
+    </schema:about>
+    <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+    <schema:genre>Early works</schema:genre>
+    <wdrs:describedby>
+      <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/6445968">
+        <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+        <schema:about rdf:resource="http://www.worldcat.org/oclc/6445968"/>
+        <schema:dateModified>2019-11-22</schema:dateModified>
+        <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+      </genont:ContentTypeGenericResource>
+    </wdrs:describedby>
+    <schema:author>
+      <schema:Person rdf:about="http://viaf.org/viaf/73895302">
+        <schema:familyName>Adanson</schema:familyName>
+        <schema:givenName>Michel</schema:givenName>
+        <schema:name>Michel Adanson</schema:name>
+        <schema:birthDate>1727</schema:birthDate>
+        <schema:deathDate>1806,</schema:deathDate>
+      </schema:Person>
+    </schema:author>
+    <library:oclcnum>6445968</library:oclcnum>
+    <schema:isSimilarTo>
+      <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/721962419">
+        <schema:isSimilarTo rdf:resource="http://www.worldcat.org/oclc/6445968"/>
+        <rdfs:label>Familles des plantes.</rdfs:label>
+        <schema:description>Online version:</schema:description>
+      </schema:CreativeWork>
+    </schema:isSimilarTo>
+    <schema:publisher>
+      <schema:Person rdf:about="http://viaf.org/viaf/19731427">
+        <schema:familyName>Vincent</schema:familyName>
+        <schema:givenName>Philippe</schema:givenName>
+        <schema:name>Philippe Vincent</schema:name>
+        <schema:birthDate>1724?</schema:birthDate>
+        <schema:deathDate>1790,</schema:deathDate>
+      </schema:Person>
+    </schema:publisher>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/1669234#Topic/plants">
+        <rdfs:seeAlso rdf:resource="http://id.loc.gov/authorities/subjects/sh85015982"/>
+        <schema:name>Plants</schema:name>
+      </schema:Intangible>
+    </schema:about>
+  </schema:CreativeWork>
+</rdf:RDF>

@@ -1,0 +1,71 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <schema:Periodical rdf:about="http://www.worldcat.org/oclc/2449603">
+    <schema:isSimilarTo>
+      <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/707037963">
+        <schema:isSimilarTo rdf:resource="http://www.worldcat.org/oclc/2449603"/>
+        <rdfs:label>Pflanzenreich</rdfs:label>
+        <schema:description>Online version:</schema:description>
+      </schema:CreativeWork>
+    </schema:isSimilarTo>
+    <schema:editor>
+      <schema:Person rdf:about="http://viaf.org/viaf/73914023">
+        <schema:familyName>Engler</schema:familyName>
+        <schema:givenName>Adolf</schema:givenName>
+        <schema:name>Adolf Engler</schema:name>
+        <schema:birthDate>1844</schema:birthDate>
+        <schema:deathDate>1930,</schema:deathDate>
+      </schema:Person>
+    </schema:editor>
+    <schema:exampleOfWork>
+      <rdf:Description rdf:about="http://worldcat.org/entity/work/id/53713404">
+        <schema:name>Pflanzenreich (Leipzig)</schema:name>
+      </rdf:Description>
+    </schema:exampleOfWork>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/1065823">
+        <schema:name>Plants</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:name>Das Pflanzenreich.</schema:name>
+    <library:oclcnum>2449603</library:oclcnum>
+    <wdrs:describedby>
+      <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/2449603">
+        <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+        <schema:about rdf:resource="http://www.worldcat.org/oclc/2449603"/>
+        <schema:dateModified>2018-11-11</schema:dateModified>
+        <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+      </genont:ContentTypeGenericResource>
+    </wdrs:describedby>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/gw">
+        <dcterms:identifier>gw</dcterms:identifier>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:productID>2449603</schema:productID>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:datePublished>1900/1968</schema:datePublished>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/53713404#Topic/plants">
+        <rdfs:seeAlso rdf:resource="http://id.loc.gov/authorities/subjects/sh85015982"/>
+        <schema:name>Plants</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:genre>Classification</schema:genre>
+    <schema:about>
+      <schema:Intangible rdf:about="http://dewey.info/class/580/"/>
+    </schema:about>
+    <rdf:type rdf:resource="http://bibliograph.net/PublicationSeries"/>
+    <schema:inLanguage>de</schema:inLanguage>
+  </schema:Periodical>
+</rdf:RDF>

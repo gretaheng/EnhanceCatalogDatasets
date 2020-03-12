@@ -1,0 +1,103 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <schema:Book rdf:about="http://www.worldcat.org/oclc/1475323">
+    <schema:contributor>
+      <schema:Organization rdf:about="http://viaf.org/viaf/133435180">
+        <schema:name>Boston Public Library,</schema:name>
+      </schema:Organization>
+    </schema:contributor>
+    <schema:contributor>
+      <schema:Organization rdf:about="http://viaf.org/viaf/268066897">
+        <schema:name>Königliche Bibliothek zu Berlin,</schema:name>
+      </schema:Organization>
+    </schema:contributor>
+    <schema:about>
+      <schema:Place rdf:about="http://id.worldcat.org/fast/1242475">
+        <schema:name>North America.</schema:name>
+      </schema:Place>
+    </schema:about>
+    <schema:datePublished>anno XI//1803</schema:datePublished>
+    <wdrs:describedby>
+      <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/1475323">
+        <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+        <schema:about rdf:resource="http://www.worldcat.org/oclc/1475323"/>
+        <schema:dateModified>2018-11-07</schema:dateModified>
+        <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+      </genont:ContentTypeGenericResource>
+    </wdrs:describedby>
+    <schema:contributor>
+      <schema:Organization rdf:about="http://viaf.org/viaf/251651477">
+        <schema:name>Jerry and Gene Jones Jefferson Collection (Library of Congress)</schema:name>
+      </schema:Organization>
+    </schema:contributor>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/47151342#Place/parisiis_et_argentorati">
+        <schema:name>Parisiis et Argentorati</schema:name>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+    <schema:datePublished>1803</schema:datePublished>
+    <library:oclcnum>1475323</library:oclcnum>
+    <schema:productID>1475323</schema:productID>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/fr">
+        <dcterms:identifier>fr</dcterms:identifier>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/47151342"/>
+    <schema:about>
+      <schema:Intangible rdf:about="http://dewey.info/class/581.97/"/>
+    </schema:about>
+    <schema:creator>
+      <schema:Person rdf:about="http://viaf.org/viaf/37033011">
+        <schema:familyName>Michaux</schema:familyName>
+        <schema:givenName>André</schema:givenName>
+        <schema:name>André Michaux</schema:name>
+        <schema:birthDate>1746</schema:birthDate>
+        <schema:deathDate>1802</schema:deathDate>
+      </schema:Person>
+    </schema:creator>
+    <schema:name>Flora boreali-Americana : sistens caracteres plantarum quas in America septentrionali</schema:name>
+    <schema:isSimilarTo>
+      <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/719408360">
+        <schema:isSimilarTo rdf:resource="http://www.worldcat.org/oclc/1475323"/>
+        <rdfs:label>Flora boreali-americana.</rdfs:label>
+        <schema:description>Online version:</schema:description>
+      </schema:CreativeWork>
+    </schema:isSimilarTo>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/836869">
+        <schema:name>Botany</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:inLanguage>la</schema:inLanguage>
+    <schema:publisher>
+      <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/47151342#Agent/apud_fratres_levrault">
+        <schema:name>Apud fratres Levrault</schema:name>
+      </bgn:Agent>
+    </schema:publisher>
+    <schema:publication>
+      <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/1475323#PublicationEvent/parisiis_et_argentorati_apud_fratres_levrault_anno_xi_1803">
+        <schema:location rdf:resource="http://experiment.worldcat.org/entity/work/data/47151342#Place/parisiis_et_argentorati"/>
+        <schema:organizer rdf:resource="http://experiment.worldcat.org/entity/work/data/47151342#Agent/apud_fratres_levrault"/>
+        <schema:startDate>anno XI--1803</schema:startDate>
+      </schema:PublicationEvent>
+    </schema:publication>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.loc.gov/authorities/subjects/sh2007102111">
+        <schema:name>Botany--North America</schema:name>
+      </schema:Intangible>
+    </schema:about>
+  </schema:Book>
+</rdf:RDF>

@@ -1,0 +1,83 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/10116774">
+    <schema:about>
+      <schema:Intangible rdf:about="http://dewey.info/class/580.12/"/>
+    </schema:about>
+    <library:oclcnum>10116774</library:oclcnum>
+    <schema:publication>
+      <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/10116774#PublicationEvent/hauniae_impenis_auctoris_&amp;_prostat_apud_j_h_schubothe_1805_1806">
+        <schema:location>
+          <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/3855261443#Place/hauniae">
+            <schema:name>Hauniae</schema:name>
+          </schema:Place>
+        </schema:location>
+        <schema:organizer>
+          <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/3855261443#Agent/impenis_auctoris_&amp;_prostat_apud_j_h_schubothe">
+            <schema:name>Impenis auctoris, &amp; prostat apud J.H. Schubothe</schema:name>
+          </bgn:Agent>
+        </schema:organizer>
+        <schema:startDate>1805-1806</schema:startDate>
+      </schema:PublicationEvent>
+    </schema:publication>
+    <schema:isSimilarTo>
+      <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/707160537">
+        <schema:isSimilarTo rdf:resource="http://www.worldcat.org/oclc/10116774"/>
+        <rdfs:label>Martini Vahlii, profess. botan. Haun. membr. societ. lit. plur. Enumeratio plantarum.</rdfs:label>
+        <schema:description>Online version:</schema:description>
+      </schema:CreativeWork>
+    </schema:isSimilarTo>
+    <library:placeOfPublication rdf:resource="http://experiment.worldcat.org/entity/work/data/3855261443#Place/hauniae"/>
+    <schema:name>Martini Vahlii, profess. botan. Haun. membr. societ. lit. plur. Enumeratio plantarum : vel ab aliis, vel, ab ipso observatum, cum earum differentiis specificis, synonymis selectis et descriptionibus succinctis.</schema:name>
+    <schema:publisher rdf:resource="http://experiment.worldcat.org/entity/work/data/3855261443#Agent/impenis_auctoris_&amp;_prostat_apud_j_h_schubothe"/>
+    <rdfs:seeAlso>
+      <schema:CreativeWork rdf:about="http://experiment.worldcat.org/entity/work/data/3855261443#CreativeWork/enumeratio_plantarum">
+        <schema:name>Enumeratio plantarum.</schema:name>
+      </schema:CreativeWork>
+    </rdfs:seeAlso>
+    <wdrs:describedby>
+      <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/10116774">
+        <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+        <schema:about rdf:resource="http://www.worldcat.org/oclc/10116774"/>
+        <schema:dateModified>2018-11-08</schema:dateModified>
+        <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+      </genont:ContentTypeGenericResource>
+    </wdrs:describedby>
+    <schema:inLanguage>la</schema:inLanguage>
+    <schema:productID>10116774</schema:productID>
+    <rdf:type rdf:resource="http://schema.org/Book"/>
+    <schema:creator>
+      <schema:Person rdf:about="http://viaf.org/viaf/26102235">
+        <schema:familyName>Vahl</schema:familyName>
+        <schema:givenName>M.</schema:givenName>
+        <schema:givenName>Martin</schema:givenName>
+        <schema:name>Martin Vahl</schema:name>
+        <schema:birthDate>1744</schema:birthDate>
+        <schema:deathDate>1804</schema:deathDate>
+      </schema:Person>
+    </schema:creator>
+    <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/3855261443"/>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/836869">
+        <schema:name>Botany</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:datePublished>1805/1806</schema:datePublished>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/dk">
+        <dcterms:identifier>dk</dcterms:identifier>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+  </schema:CreativeWork>
+</rdf:RDF>

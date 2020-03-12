@@ -1,0 +1,93 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <schema:Book rdf:about="http://www.worldcat.org/oclc/5956876">
+    <schema:name>Fragmenta phytographiæ Australiæ,</schema:name>
+    <schema:about>
+      <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/222246001#Place/australien">
+        <schema:name>Australien</schema:name>
+      </schema:Place>
+    </schema:about>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:about>
+      <schema:Intangible rdf:about="http://dewey.info/class/581.994/"/>
+    </schema:about>
+    <schema:datePublished>1858/1882</schema:datePublished>
+    <schema:about>
+      <schema:Place rdf:about="http://id.worldcat.org/fast/1204543">
+        <schema:name>Australia.</schema:name>
+      </schema:Place>
+    </schema:about>
+    <schema:productID>5956876</schema:productID>
+    <wdrs:describedby>
+      <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/5956876">
+        <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+        <schema:about rdf:resource="http://www.worldcat.org/oclc/5956876"/>
+        <schema:dateModified>2019-12-19</schema:dateModified>
+        <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+      </genont:ContentTypeGenericResource>
+    </wdrs:describedby>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/vra">
+        <dcterms:identifier>vra</dcterms:identifier>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:inLanguage>la</schema:inLanguage>
+    <schema:isSimilarTo>
+      <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/741713278">
+        <schema:isSimilarTo rdf:resource="http://www.worldcat.org/oclc/5956876"/>
+        <rdfs:label>Fragmenta phytographiæ Australiæ.</rdfs:label>
+        <schema:description>Online version:</schema:description>
+      </schema:CreativeWork>
+    </schema:isSimilarTo>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.loc.gov/authorities/subjects/sh2009117441">
+        <schema:name>Botany--Australia</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/222246001#Topic/botany">
+        <schema:name>Botany</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+    <schema:publisher>
+      <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/222246001#Agent/auctoritate_gubern_coloniae_victoriae_ex_officina_joannis_ferres">
+        <schema:name>Auctoritate Gubern. Coloniae Victoriæ, Ex Officina Joannis Ferres</schema:name>
+      </bgn:Agent>
+    </schema:publisher>
+    <library:oclcnum>5956876</library:oclcnum>
+    <schema:creator>
+      <schema:Person rdf:about="http://viaf.org/viaf/95199327">
+        <schema:familyName>Mueller</schema:familyName>
+        <schema:givenName>Ferdinand von</schema:givenName>
+        <schema:name>Ferdinand von Mueller</schema:name>
+        <schema:birthDate>1825</schema:birthDate>
+        <schema:deathDate>1896</schema:deathDate>
+      </schema:Person>
+    </schema:creator>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/222246001#Place/melbourne">
+        <schema:name>Melbourne</schema:name>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/222246001"/>
+    <schema:publication>
+      <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/5956876#PublicationEvent/melbourne_auctoritate_gubern_coloniae_victoriae_ex_officina_joannis_ferres_1858_82">
+        <schema:location rdf:resource="http://experiment.worldcat.org/entity/work/data/222246001#Place/melbourne"/>
+        <schema:organizer rdf:resource="http://experiment.worldcat.org/entity/work/data/222246001#Agent/auctoritate_gubern_coloniae_victoriae_ex_officina_joannis_ferres"/>
+        <schema:startDate>1858-82</schema:startDate>
+      </schema:PublicationEvent>
+    </schema:publication>
+    <schema:datePublished>1858/82</schema:datePublished>
+  </schema:Book>
+</rdf:RDF>

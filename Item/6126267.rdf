@@ -1,0 +1,71 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/6126267">
+    <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+    <schema:about>
+      <schema:Book rdf:about="http://www.worldcat.org/oclc/6126267">
+        <schema:datePublished>1843</schema:datePublished>
+        <library:placeOfPublication>
+          <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/ne">
+            <dcterms:identifier>ne</dcterms:identifier>
+          </schema:Place>
+        </library:placeOfPublication>
+        <schema:inLanguage>la</schema:inLanguage>
+        <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+        <schema:publication>
+          <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/6126267#PublicationEvent/roterodami_apud_h_a_kramers_1843">
+            <schema:location>
+              <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/5132652#Place/roterodami">
+                <schema:name>Roterodami</schema:name>
+              </schema:Place>
+            </schema:location>
+            <schema:organizer>
+              <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/5132652#Agent/apud_h_a_kramers">
+                <schema:name>Apud H.A. Kramers</schema:name>
+              </bgn:Agent>
+            </schema:organizer>
+            <schema:startDate>1843</schema:startDate>
+          </schema:PublicationEvent>
+        </schema:publication>
+        <schema:name>Systema piperacearum.</schema:name>
+        <schema:productID>6126267</schema:productID>
+        <library:placeOfPublication rdf:resource="http://experiment.worldcat.org/entity/work/data/5132652#Place/roterodami"/>
+        <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/5132652"/>
+        <wdrs:describedby rdf:resource="http://www.worldcat.org/title/-/oclc/6126267"/>
+        <library:oclcnum>6126267</library:oclcnum>
+        <schema:publisher rdf:resource="http://experiment.worldcat.org/entity/work/data/5132652#Agent/apud_h_a_kramers"/>
+        <schema:creator>
+          <schema:Person rdf:about="http://viaf.org/viaf/49339105">
+            <schema:familyName>Miquel</schema:familyName>
+            <schema:givenName>Friedrich Anton Wilhelm</schema:givenName>
+            <schema:name>Friedrich Anton Wilhelm Miquel</schema:name>
+            <schema:birthDate>1811</schema:birthDate>
+            <schema:deathDate>1871</schema:deathDate>
+          </schema:Person>
+        </schema:creator>
+        <schema:about>
+          <schema:Intangible rdf:about="http://id.worldcat.org/fast/1064701">
+            <schema:name>Piperaceae</schema:name>
+          </schema:Intangible>
+        </schema:about>
+        <schema:about>
+          <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/5132652#Topic/pfeffergewachse">
+            <schema:name>Pfeffergewächse</schema:name>
+          </schema:Intangible>
+        </schema:about>
+        <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+      </schema:Book>
+    </schema:about>
+    <schema:dateModified>2018-11-11</schema:dateModified>
+    <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+  </genont:ContentTypeGenericResource>
+</rdf:RDF>

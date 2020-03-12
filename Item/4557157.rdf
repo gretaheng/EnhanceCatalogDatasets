@@ -1,0 +1,74 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/4557157">
+    <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+    <library:oclcnum>4557157</library:oclcnum>
+    <wdrs:describedby>
+      <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/4557157">
+        <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+        <schema:about rdf:resource="http://www.worldcat.org/oclc/4557157"/>
+        <schema:dateModified>2018-11-11</schema:dateModified>
+        <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+      </genont:ContentTypeGenericResource>
+    </wdrs:describedby>
+    <schema:productID>4557157</schema:productID>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/gw">
+        <dcterms:identifier>gw</dcterms:identifier>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:inLanguage>la</schema:inLanguage>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/3855483073#Place/gothae">
+        <schema:name>Gothae</schema:name>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:name>Muscologiae recentiorum supplementum seu species muscorum ...</schema:name>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/1026803">
+        <schema:name>Mosses</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:creator>
+      <schema:Person rdf:about="http://viaf.org/viaf/12298652">
+        <schema:familyName>Bridel-Brideri</schema:familyName>
+        <schema:givenName>Samuel Elisée de</schema:givenName>
+        <schema:name>Baron Samuel Elisée de Bridel-Brideri</schema:name>
+        <schema:birthDate>1761</schema:birthDate>
+        <schema:deathDate>1828</schema:deathDate>
+      </schema:Person>
+    </schema:creator>
+    <schema:publisher>
+      <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/3855483073#Agent/apud_c_g_ettingerum">
+        <schema:name>Apud C.G. Ettingerum</schema:name>
+      </bgn:Agent>
+    </schema:publisher>
+    <schema:isSimilarTo>
+      <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/762086873">
+        <schema:isSimilarTo rdf:resource="http://www.worldcat.org/oclc/4557157"/>
+        <rdfs:label>Muscologiae recentiorum supplementum seu species muscorum.</rdfs:label>
+        <schema:description>Online version:</schema:description>
+      </schema:CreativeWork>
+    </schema:isSimilarTo>
+    <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/3855483073"/>
+    <schema:publication>
+      <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/4557157#PublicationEvent/gothae_apud_c_g_ettingerum_1806_1819">
+        <schema:location rdf:resource="http://experiment.worldcat.org/entity/work/data/3855483073#Place/gothae"/>
+        <schema:organizer rdf:resource="http://experiment.worldcat.org/entity/work/data/3855483073#Agent/apud_c_g_ettingerum"/>
+        <schema:startDate>1806-1819</schema:startDate>
+      </schema:PublicationEvent>
+    </schema:publication>
+    <schema:datePublished>1806/1819</schema:datePublished>
+    <rdf:type rdf:resource="http://schema.org/Book"/>
+  </schema:CreativeWork>
+</rdf:RDF>

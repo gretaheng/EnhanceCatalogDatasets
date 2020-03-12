@@ -1,0 +1,78 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <schema:Book rdf:about="http://www.worldcat.org/oclc/7355864">
+    <schema:creator>
+      <schema:Person rdf:about="http://viaf.org/viaf/74658056">
+        <schema:familyName>Schur</schema:familyName>
+        <schema:givenName>Ferdinand</schema:givenName>
+        <schema:name>Ferdinand Schur</schema:name>
+        <schema:birthDate>1799</schema:birthDate>
+        <schema:deathDate>1878</schema:deathDate>
+      </schema:Person>
+    </schema:creator>
+    <wdrs:describedby>
+      <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/7355864">
+        <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+        <schema:about rdf:resource="http://www.worldcat.org/oclc/7355864"/>
+        <schema:dateModified>2018-11-11</schema:dateModified>
+        <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+      </genont:ContentTypeGenericResource>
+    </wdrs:describedby>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/836869">
+        <schema:name>Botany</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:inLanguage>de</schema:inLanguage>
+    <schema:name>Enumeratio plantarum Transsilvaniae : exhibens: stirpes phanerogamas sponte crescentes atque frequentius cultas, cryptogamas vasculares, characeas, etiam musco hepaticasque</schema:name>
+    <schema:productID>7355864</schema:productID>
+    <schema:publisher>
+      <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/64168532#Agent/sumptibus_c_graeser">
+        <schema:name>Sumptibus C. Graeser</schema:name>
+      </bgn:Agent>
+    </schema:publisher>
+    <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/64168532"/>
+    <schema:bookEdition>Nova ed.</schema:bookEdition>
+    <library:oclcnum>7355864</library:oclcnum>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/64168532#Topic/botany_romania_transylvania">
+        <schema:hasPart rdf:resource="http://id.loc.gov/authorities/subjects/sh2009117473"/>
+        <schema:name>Botany--Romania--Transylvania</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/au">
+        <dcterms:identifier>au</dcterms:identifier>
+      </schema:Place>
+    </library:placeOfPublication>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/64168532#Place/vindobonae">
+        <schema:name>Vindobonae</schema:name>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:datePublished>1885</schema:datePublished>
+    <schema:publication>
+      <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/7355864#PublicationEvent/vindobonae_sumptibus_c_graeser_1885">
+        <schema:location rdf:resource="http://experiment.worldcat.org/entity/work/data/64168532#Place/vindobonae"/>
+        <schema:organizer rdf:resource="http://experiment.worldcat.org/entity/work/data/64168532#Agent/sumptibus_c_graeser"/>
+        <schema:startDate>1885</schema:startDate>
+      </schema:PublicationEvent>
+    </schema:publication>
+    <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:about>
+      <schema:Place rdf:about="http://id.worldcat.org/fast/1240402">
+        <schema:name>Romania--Transylvania.</schema:name>
+      </schema:Place>
+    </schema:about>
+  </schema:Book>
+</rdf:RDF>

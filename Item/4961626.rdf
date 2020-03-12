@@ -1,0 +1,109 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/4961626">
+    <schema:about>
+      <schema:Place rdf:about="http://id.worldcat.org/fast/1240131">
+        <schema:name>Arabian Peninsula.</schema:name>
+      </schema:Place>
+    </schema:about>
+    <schema:productID>4961626</schema:productID>
+    <schema:publisher>
+      <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/4079365#Agent/ex_officina_molleri">
+        <schema:name>Ex officina Mölleri</schema:name>
+      </bgn:Agent>
+    </schema:publisher>
+    <schema:description>Florula littoris Galliæ ad Estac prope Massilliam. Accedit florula insulæ Maltæ. p. [i]-xiv.--Flora constantinopolitana, littoris ad Dardenellos et insularum Tenedos, Imros, Rhodi. p. [xv]-xxxvi.--Flora ægyptiaca: sive Catalogus plantarum systematicus Ægypti inferioris: Alexandriæ, Rosettæ, Kahiræ, Sues. p. [xxxvii]-lxxviii.--Flora arabicoyemen. Sive Catalogus plantarum Arabiæ felicis systematicus. p. [lxxix]-cxxvi.--Descriptiones plantarum floræ ægyptiaco-arabicæ. p. 1-219.</schema:description>
+    <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/4079365"/>
+    <schema:datePublished>1775</schema:datePublished>
+    <schema:inLanguage>la</schema:inLanguage>
+    <schema:creator>
+      <schema:Person rdf:about="http://viaf.org/viaf/59071349">
+        <schema:familyName>Forsskål</schema:familyName>
+        <schema:givenName>Peter</schema:givenName>
+        <schema:name>Peter Forsskål</schema:name>
+        <schema:birthDate>1732</schema:birthDate>
+        <schema:deathDate>1763</schema:deathDate>
+      </schema:Person>
+    </schema:creator>
+    <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/dk">
+        <dcterms:identifier>dk</dcterms:identifier>
+      </schema:Place>
+    </library:placeOfPublication>
+    <rdf:type rdf:resource="http://schema.org/Book"/>
+    <schema:about>
+      <schema:Place rdf:about="http://id.worldcat.org/fast/1208755">
+        <schema:name>Egypt.</schema:name>
+      </schema:Place>
+    </schema:about>
+    <schema:isSimilarTo>
+      <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/805896062">
+        <schema:isSimilarTo rdf:resource="http://www.worldcat.org/oclc/4961626"/>
+        <rdfs:label>Flora Ægyptiaco-Arabica.</rdfs:label>
+        <schema:description>Online version:</schema:description>
+      </schema:CreativeWork>
+    </schema:isSimilarTo>
+    <library:oclcnum>4961626</library:oclcnum>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/4079365#Place/hauniae_copenhagen">
+        <schema:name>Hauniæ (Copenhagen)</schema:name>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/4079365#Topic/botany_egypt">
+        <schema:hasPart rdf:resource="http://id.loc.gov/authorities/subjects/sh85015976"/>
+        <schema:name>Botany--Egypt</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:contributor>
+      <schema:Person rdf:about="http://viaf.org/viaf/7521573">
+        <schema:familyName>Niebuhr</schema:familyName>
+        <schema:givenName>Carsten</schema:givenName>
+        <schema:name>Carsten Niebuhr</schema:name>
+        <schema:birthDate>1733</schema:birthDate>
+        <schema:deathDate>1815</schema:deathDate>
+      </schema:Person>
+    </schema:contributor>
+    <schema:name>Flora Ægyptiaco-Arabica : sive descriptiones plantarum</schema:name>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/4079365#Topic/botany_arabian_peninsula">
+        <schema:hasPart rdf:resource="http://id.loc.gov/authorities/subjects/sh85015976"/>
+        <schema:name>Botany--Arabian Peninsula</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/836869">
+        <schema:name>Botany</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://dewey.info/class/581.962/"/>
+    </schema:about>
+    <wdrs:describedby>
+      <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/4961626">
+        <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+        <schema:about rdf:resource="http://www.worldcat.org/oclc/4961626"/>
+        <schema:dateModified>2019-05-05</schema:dateModified>
+        <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+      </genont:ContentTypeGenericResource>
+    </wdrs:describedby>
+    <schema:publication>
+      <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/4961626#PublicationEvent/hauniae_copenhagen_ex_officina_molleri_1775">
+        <schema:location rdf:resource="http://experiment.worldcat.org/entity/work/data/4079365#Place/hauniae_copenhagen"/>
+        <schema:organizer rdf:resource="http://experiment.worldcat.org/entity/work/data/4079365#Agent/ex_officina_molleri"/>
+        <schema:startDate>1775</schema:startDate>
+      </schema:PublicationEvent>
+    </schema:publication>
+  </schema:CreativeWork>
+</rdf:RDF>

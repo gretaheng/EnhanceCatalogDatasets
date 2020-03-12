@@ -1,0 +1,102 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/4312367">
+    <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/452643"/>
+    <schema:publisher>
+      <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/452643#Agent/j_murray">
+        <schema:name>J. Murray</schema:name>
+      </bgn:Agent>
+    </schema:publisher>
+    <schema:name xml:lang="en">Insectivorous plants</schema:name>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/1065833">
+        <schema:name xml:lang="en">Plants--Assimilation</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/enk">
+        <dcterms:identifier>enk</dcterms:identifier>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:inLanguage>en</schema:inLanguage>
+    <wdrs:describedby>
+      <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/4312367">
+        <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+        <schema:about rdf:resource="http://www.worldcat.org/oclc/4312367"/>
+        <schema:dateModified>2020-01-22</schema:dateModified>
+        <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+      </genont:ContentTypeGenericResource>
+    </wdrs:describedby>
+    <schema:publication>
+      <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/4312367#PublicationEvent/london_j_murray_1888">
+        <schema:location>
+          <schema:Place rdf:about="http://dbpedia.org/resource/London">
+            <schema:name>London</schema:name>
+          </schema:Place>
+        </schema:location>
+        <schema:organizer rdf:resource="http://experiment.worldcat.org/entity/work/data/452643#Agent/j_murray"/>
+        <schema:startDate>1888</schema:startDate>
+      </schema:PublicationEvent>
+    </schema:publication>
+    <schema:bookEdition>2d ed. /</schema:bookEdition>
+    <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+    <schema:productID>4312367</schema:productID>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.loc.gov/authorities/subjects/sh85102844">
+        <schema:name xml:lang="en">Plants--Assimilation</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/452643#Topic/plants">
+        <schema:name xml:lang="en">Plants</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/847693">
+        <schema:name xml:lang="en">Carnivorous plants</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:isSimilarTo>
+      <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/763128363">
+        <schema:isSimilarTo rdf:resource="http://www.worldcat.org/oclc/4312367"/>
+        <rdfs:label>Insectivorous plants.</rdfs:label>
+        <schema:description>Online version:</schema:description>
+      </schema:CreativeWork>
+    </schema:isSimilarTo>
+    <schema:datePublished>1888</schema:datePublished>
+    <schema:creator>
+      <schema:Person rdf:about="http://viaf.org/viaf/27063124">
+        <schema:familyName>Darwin</schema:familyName>
+        <schema:givenName>Charles</schema:givenName>
+        <schema:name>Charles Darwin</schema:name>
+        <schema:birthDate>1809</schema:birthDate>
+        <schema:deathDate>1882</schema:deathDate>
+      </schema:Person>
+    </schema:creator>
+    <schema:contributor>
+      <schema:Person rdf:about="http://viaf.org/viaf/45044003">
+        <schema:familyName>Darwin</schema:familyName>
+        <schema:givenName>Francis</schema:givenName>
+        <schema:name>Sir Francis Darwin</schema:name>
+        <schema:birthDate>1848</schema:birthDate>
+        <schema:deathDate>1925</schema:deathDate>
+      </schema:Person>
+    </schema:contributor>
+    <schema:about>
+      <schema:Intangible rdf:about="http://dewey.info/class/581.5/"/>
+    </schema:about>
+    <library:placeOfPublication rdf:resource="http://dbpedia.org/resource/London"/>
+    <library:oclcnum>4312367</library:oclcnum>
+    <rdf:type rdf:resource="http://schema.org/Book"/>
+  </schema:CreativeWork>
+</rdf:RDF>

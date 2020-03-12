@@ -1,0 +1,95 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/3938329">
+    <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+    <schema:about>
+      <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/3938329">
+        <schema:name xml:lang="en">Genera of European and Northamerican Bryineae (Mosses)</schema:name>
+        <library:placeOfPublication>
+          <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/sw">
+            <dcterms:identifier>sw</dcterms:identifier>
+          </schema:Place>
+        </library:placeOfPublication>
+        <schema:about>
+          <schema:Place rdf:about="http://id.worldcat.org/fast/1242475">
+            <schema:name>North America.</schema:name>
+          </schema:Place>
+        </schema:about>
+        <schema:datePublished>1897</schema:datePublished>
+        <rdfs:seeAlso>
+          <schema:CreativeWork rdf:about="http://experiment.worldcat.org/entity/work/data/63063762#CreativeWork/european_and_n_american_bryineae_mosses">
+            <schema:name>European and N. American Bryineae (Mosses)</schema:name>
+          </schema:CreativeWork>
+        </rdfs:seeAlso>
+        <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+        <library:placeOfPublication>
+          <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/63063762#Place/linkoeping_sweden">
+            <schema:name>Linkoeping, Sweden</schema:name>
+          </schema:Place>
+        </library:placeOfPublication>
+        <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/63063762"/>
+        <schema:inLanguage>en</schema:inLanguage>
+        <schema:productID>3938329</schema:productID>
+        <schema:about>
+          <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/63063762#Topic/mosses_europe">
+            <schema:hasPart rdf:resource="http://id.loc.gov/authorities/subjects/sh85087489"/>
+            <schema:name xml:lang="en">Mosses--Europe</schema:name>
+          </schema:Intangible>
+        </schema:about>
+        <schema:about>
+          <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/63063762#Topic/mosses_north_america">
+            <schema:hasPart rdf:resource="http://id.loc.gov/authorities/subjects/sh85087489"/>
+            <schema:name xml:lang="en">Mosses--North America</schema:name>
+          </schema:Intangible>
+        </schema:about>
+        <rdf:type rdf:resource="http://schema.org/Book"/>
+        <schema:about>
+          <schema:Intangible rdf:about="http://id.worldcat.org/fast/1026803">
+            <schema:name xml:lang="en">Mosses</schema:name>
+          </schema:Intangible>
+        </schema:about>
+        <library:oclcnum>3938329</library:oclcnum>
+        <schema:creator>
+          <schema:Person rdf:about="http://viaf.org/viaf/102569965">
+            <schema:familyName>Kindberg</schema:familyName>
+            <schema:givenName>N. C.</schema:givenName>
+            <schema:givenName>Nils Conrad</schema:givenName>
+            <schema:name>Nils Conrad Kindberg</schema:name>
+            <schema:birthDate>1832</schema:birthDate>
+            <schema:deathDate>1910</schema:deathDate>
+          </schema:Person>
+        </schema:creator>
+        <schema:publisher>
+          <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/63063762#Agent/p_m_sahlstroems_bookselling_c_v_zickerman">
+            <schema:name>P.M. Sahlstroems Bookselling (C.V. Zickerman)</schema:name>
+          </bgn:Agent>
+        </schema:publisher>
+        <schema:about>
+          <schema:Place rdf:about="http://id.worldcat.org/fast/1245064">
+            <schema:name>Europe.</schema:name>
+          </schema:Place>
+        </schema:about>
+        <wdrs:describedby rdf:resource="http://www.worldcat.org/title/-/oclc/3938329"/>
+        <schema:publication>
+          <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/3938329#PublicationEvent/linkoeping_sweden_p_m_sahlstroems_bookselling_c_v_zickerman_1897">
+            <schema:location rdf:resource="http://experiment.worldcat.org/entity/work/data/63063762#Place/linkoeping_sweden"/>
+            <schema:organizer rdf:resource="http://experiment.worldcat.org/entity/work/data/63063762#Agent/p_m_sahlstroems_bookselling_c_v_zickerman"/>
+            <schema:startDate>1897</schema:startDate>
+          </schema:PublicationEvent>
+        </schema:publication>
+      </schema:CreativeWork>
+    </schema:about>
+    <schema:dateModified>2018-11-09</schema:dateModified>
+    <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+  </genont:ContentTypeGenericResource>
+</rdf:RDF>

@@ -1,0 +1,83 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/3614779">
+    <schema:genre xml:lang="en">Dictionaries</schema:genre>
+    <schema:datePublished>1884/1888</schema:datePublished>
+    <schema:contributor>
+      <schema:Person rdf:about="http://viaf.org/viaf/11984484">
+        <schema:familyName>Trail</schema:familyName>
+        <schema:givenName>J. W. H.</schema:givenName>
+        <schema:givenName>James William Helenus</schema:givenName>
+        <schema:name>James William Helenus Trail</schema:name>
+        <schema:birthDate>1851</schema:birthDate>
+        <schema:deathDate>1919</schema:deathDate>
+      </schema:Person>
+    </schema:contributor>
+    <schema:productID>3614779</schema:productID>
+    <library:oclcnum>3614779</library:oclcnum>
+    <schema:editor>
+      <schema:Person rdf:about="http://viaf.org/viaf/83041344">
+        <schema:familyName>Nicholson</schema:familyName>
+        <schema:givenName>George</schema:givenName>
+        <schema:name>George Nicholson</schema:name>
+        <schema:birthDate>1847</schema:birthDate>
+        <schema:deathDate>1908,</schema:deathDate>
+      </schema:Person>
+    </schema:editor>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/enk">
+        <dcterms:identifier>enk</dcterms:identifier>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:name xml:lang="en">The illustrated dictionary of gardening : a practical and scientific encyclopædia of horticulture for gardeners and botanists</schema:name>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/64304815#Topic/gardening">
+        <rdfs:seeAlso rdf:resource="http://id.loc.gov/authorities/subjects/sh2008117769"/>
+        <schema:name xml:lang="en">Gardening</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:inLanguage>en</schema:inLanguage>
+    <rdf:type rdf:resource="http://schema.org/Book"/>
+    <schema:contributor>
+      <schema:Person rdf:about="http://viaf.org/viaf/206883150">
+        <schema:familyName>Garrett</schema:familyName>
+        <schema:givenName>John</schema:givenName>
+        <schema:name>John Garrett</schema:name>
+        <schema:deathDate>1910</schema:deathDate>
+      </schema:Person>
+    </schema:contributor>
+    <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/64304815"/>
+    <schema:description xml:lang="en">v. 1. A to Car. -- v. 2. Car to Eri. -- v. 3. Eri to Lav. -- v. 4. Law to Odd. -- v. 5. Odd to Pin. -- v. 6. Pin to Scl. -- v. 7. Scl to Tur. -- v. 8. Tur to Supplement.</schema:description>
+    <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/937852">
+        <schema:name xml:lang="en">Gardening</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:isSimilarTo>
+      <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/949653143">
+        <schema:isSimilarTo rdf:resource="http://www.worldcat.org/oclc/3614779"/>
+        <rdfs:label>Illustrated dictionary of gardening.</rdfs:label>
+        <schema:description>Online version:</schema:description>
+      </schema:CreativeWork>
+    </schema:isSimilarTo>
+    <wdrs:describedby>
+      <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/3614779">
+        <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+        <schema:about rdf:resource="http://www.worldcat.org/oclc/3614779"/>
+        <schema:dateModified>2018-11-11</schema:dateModified>
+        <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+      </genont:ContentTypeGenericResource>
+    </wdrs:describedby>
+  </schema:CreativeWork>
+</rdf:RDF>

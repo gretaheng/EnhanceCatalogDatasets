@@ -1,0 +1,132 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/2722254">
+    <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+    <schema:about>
+      <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/2722254">
+        <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+        <schema:inLanguage>en</schema:inLanguage>
+        <schema:publisher>
+          <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/5618787882#Agent/h_g_bohn">
+            <schema:name>H.G. Bohn</schema:name>
+          </bgn:Agent>
+        </schema:publisher>
+        <library:oclcnum>2722254</library:oclcnum>
+        <schema:about>
+          <schema:Intangible rdf:about="http://id.worldcat.org/fast/836869">
+            <schema:name xml:lang="en">Botany</schema:name>
+          </schema:Intangible>
+        </schema:about>
+        <schema:about>
+          <schema:Place rdf:about="http://id.worldcat.org/fast/1244515">
+            <schema:name>South America.</schema:name>
+          </schema:Place>
+        </schema:about>
+        <library:placeOfPublication>
+          <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/enk">
+            <dcterms:identifier>enk</dcterms:identifier>
+          </schema:Place>
+        </library:placeOfPublication>
+        <schema:about>
+          <schema:Place rdf:about="http://id.worldcat.org/fast/1242982">
+            <schema:name>Oceania.</schema:name>
+          </schema:Place>
+        </schema:about>
+        <schema:productID>2722254</schema:productID>
+        <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/5618787882"/>
+        <schema:about>
+          <schema:Intangible rdf:about="http://id.loc.gov/authorities/subjects/sh2009117475">
+            <schema:name xml:lang="en">Botany--South America</schema:name>
+          </schema:Intangible>
+        </schema:about>
+        <schema:about>
+          <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/5618787882#Topic/botany_oceania">
+            <schema:hasPart rdf:resource="http://id.loc.gov/authorities/subjects/sh85015976"/>
+            <schema:name xml:lang="en">Botany--Oceania</schema:name>
+          </schema:Intangible>
+        </schema:about>
+        <schema:author>
+          <schema:Person rdf:about="http://viaf.org/viaf/46871728">
+            <schema:familyName>Arnott</schema:familyName>
+            <schema:givenName>George A. Walker</schema:givenName>
+            <schema:givenName>George Arnott Walker</schema:givenName>
+            <schema:name>George Arnott Walker Arnott</schema:name>
+            <schema:birthDate>1799</schema:birthDate>
+            <schema:deathDate>1868,</schema:deathDate>
+          </schema:Person>
+        </schema:author>
+        <library:placeOfPublication>
+          <schema:Place rdf:about="http://dbpedia.org/resource/London">
+            <schema:name>London</schema:name>
+          </schema:Place>
+        </library:placeOfPublication>
+        <schema:name xml:lang="en">The botany of Captain Beechey's voyage; comprising an acount of the plants collected by Messrs. Lay and Collie, and other officers of the expedition, during the voyage to the Pacific and Behring's Strait, performed in His Majesty's ship Blossom, under the command of Captain F.W. Beechey ... in the years 1825, 26, 27, and 28.</schema:name>
+        <schema:publication>
+          <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/2722254#PublicationEvent/london_h_g_bohn_1841">
+            <schema:location rdf:resource="http://dbpedia.org/resource/London"/>
+            <schema:organizer rdf:resource="http://experiment.worldcat.org/entity/work/data/5618787882#Agent/h_g_bohn"/>
+            <schema:startDate>1841</schema:startDate>
+          </schema:PublicationEvent>
+        </schema:publication>
+        <schema:creator>
+          <schema:Person rdf:about="http://viaf.org/viaf/46874997">
+            <schema:familyName>Hooker</schema:familyName>
+            <schema:givenName>William Jackson</schema:givenName>
+            <schema:name>Sir William Jackson Hooker</schema:name>
+            <schema:birthDate>1785</schema:birthDate>
+            <schema:deathDate>1865</schema:deathDate>
+          </schema:Person>
+        </schema:creator>
+        <schema:contributor>
+          <schema:Person rdf:about="http://viaf.org/viaf/76618686">
+            <schema:familyName>Beechey</schema:familyName>
+            <schema:givenName>Frederick William</schema:givenName>
+            <schema:name>Frederick William Beechey</schema:name>
+            <schema:birthDate>1796</schema:birthDate>
+            <schema:deathDate>1856</schema:deathDate>
+          </schema:Person>
+        </schema:contributor>
+        <schema:about>
+          <schema:Intangible rdf:about="http://id.loc.gov/authorities/subjects/sh2009117445">
+            <schema:name xml:lang="en">Botany--Mexico</schema:name>
+          </schema:Intangible>
+        </schema:about>
+        <wdrs:describedby rdf:resource="http://www.worldcat.org/title/-/oclc/2722254"/>
+        <rdf:type rdf:resource="http://schema.org/Book"/>
+        <schema:datePublished>1841</schema:datePublished>
+        <schema:about>
+          <schema:Place rdf:about="http://id.worldcat.org/fast/1211700">
+            <schema:name>Mexico.</schema:name>
+          </schema:Place>
+        </schema:about>
+        <schema:about>
+          <schema:Organization rdf:about="http://viaf.org/viaf/231254190">
+            <schema:name>Blossom (Ship)</schema:name>
+          </schema:Organization>
+        </schema:about>
+        <schema:about>
+          <schema:Organization rdf:about="http://experiment.worldcat.org/entity/work/data/5618787882#Organization/blossom_ship">
+            <schema:name>Blossom (Ship)</schema:name>
+          </schema:Organization>
+        </schema:about>
+        <schema:url>
+          <rdf:Description rdf:about="https://archive.org/details/botanyofcaptainb00hook">
+            <rdfs:comment>Free eBook from the Internet Archive</rdfs:comment>
+          </rdf:Description>
+        </schema:url>
+      </schema:CreativeWork>
+    </schema:about>
+    <schema:dateModified>2019-03-12</schema:dateModified>
+    <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+  </genont:ContentTypeGenericResource>
+</rdf:RDF>

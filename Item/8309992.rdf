@@ -1,0 +1,117 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/8309992">
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/906236164#Topic/botany_general">
+        <schema:name xml:lang="en">Botany (General)</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/906236164#Topic/plantkunde">
+        <schema:name xml:lang="en">Plantkunde</schema:name>
+        <schema:name xml:lang="en">plantkunde</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/906236164#Topic/botanische_tuinen">
+        <schema:name xml:lang="en">botanische tuinen</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:publication>
+      <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/8309992#PublicationEvent/london_h_bailliere_1842_48">
+        <schema:location>
+          <schema:Place rdf:about="http://dbpedia.org/resource/London">
+            <schema:name>London</schema:name>
+          </schema:Place>
+        </schema:location>
+        <schema:organizer>
+          <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/906236164#Agent/h_bailliere">
+            <schema:name>H. Baillière</schema:name>
+          </bgn:Agent>
+        </schema:organizer>
+        <schema:startDate>1842-48</schema:startDate>
+      </schema:PublicationEvent>
+    </schema:publication>
+    <schema:name xml:lang="en">The London journal of botany : containing figures and descriptions of ... plants ... together with botanical notices and information and ... memoirs of eminent botanists</schema:name>
+    <wdrs:describedby>
+      <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/8309992">
+        <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+        <schema:about rdf:resource="http://www.worldcat.org/oclc/8309992"/>
+        <schema:dateModified>2019-08-26</schema:dateModified>
+        <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+      </genont:ContentTypeGenericResource>
+    </wdrs:describedby>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/906236164#Topic/botany">
+        <rdfs:seeAlso rdf:resource="http://id.loc.gov/authorities/subjects/sh2007102112"/>
+        <schema:name xml:lang="en">Botany</schema:name>
+        <schema:name xml:lang="en">botany</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/906236164#Topic/botanical_gardens">
+        <schema:name xml:lang="en">botanical gardens</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <library:oclcnum>8309992</library:oclcnum>
+    <schema:isSimilarTo>
+      <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/659233740">
+        <schema:isSimilarTo rdf:resource="http://www.worldcat.org/oclc/8309992"/>
+        <rdfs:label>London journal of botany</rdfs:label>
+        <schema:description>Online version:</schema:description>
+      </schema:CreativeWork>
+    </schema:isSimilarTo>
+    <schema:datePublished>1842/48</schema:datePublished>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/906236164#Topic/botanie_algemeen">
+        <schema:name xml:lang="en">Botanie (algemeen)</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:creator>
+      <schema:Person rdf:about="http://viaf.org/viaf/46874997">
+        <schema:familyName>Hooker</schema:familyName>
+        <schema:givenName>William Jackson</schema:givenName>
+        <schema:name>Sir William Jackson Hooker</schema:name>
+        <schema:birthDate>1785</schema:birthDate>
+        <schema:deathDate>1865</schema:deathDate>
+      </schema:Person>
+    </schema:creator>
+    <schema:datePublished>1842/1848</schema:datePublished>
+    <schema:url rdf:resource="http://www.biodiversitylibrary.org/bibliography/235#/summary"/>
+    <library:placeOfPublication rdf:resource="http://dbpedia.org/resource/London"/>
+    <schema:genre xml:lang="en">Periodicals</schema:genre>
+    <schema:about>
+      <schema:Intangible rdf:about="http://dewey.info/class/580/"/>
+    </schema:about>
+    <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/906236164"/>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/enk">
+        <dcterms:identifier>enk</dcterms:identifier>
+      </schema:Place>
+    </library:placeOfPublication>
+    <rdf:type rdf:resource="http://schema.org/Periodical"/>
+    <schema:publisher rdf:resource="http://experiment.worldcat.org/entity/work/data/906236164#Agent/h_bailliere"/>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/906236164#Topic/verenigd_koninkrijk">
+        <schema:name xml:lang="en">verenigd koninkrijk</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:inLanguage>en</schema:inLanguage>
+    <schema:productID>8309992</schema:productID>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/906236164#Topic/uk">
+        <schema:name xml:lang="en">uk</schema:name>
+      </schema:Intangible>
+    </schema:about>
+  </schema:CreativeWork>
+</rdf:RDF>

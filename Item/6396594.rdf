@@ -1,0 +1,81 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <schema:Book rdf:about="http://www.worldcat.org/oclc/6396594">
+    <schema:about>
+      <schema:Intangible rdf:about="http://dewey.info/class/582.16/"/>
+    </schema:about>
+    <library:oclcnum>6396594</library:oclcnum>
+    <schema:publication>
+      <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/6396594#PublicationEvent/jena_g_fischer_1906_12">
+        <schema:location>
+          <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/197737485#Place/jena">
+            <schema:name>Jena</schema:name>
+          </schema:Place>
+        </schema:location>
+        <schema:organizer>
+          <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/197737485#Agent/g_fischer">
+            <schema:name>G. Fischer</schema:name>
+          </bgn:Agent>
+        </schema:organizer>
+        <schema:startDate>1906-12</schema:startDate>
+      </schema:PublicationEvent>
+    </schema:publication>
+    <schema:inLanguage>de</schema:inLanguage>
+    <schema:datePublished>1906/12</schema:datePublished>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/1155984">
+        <schema:name>Trees</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:productID>6396594</schema:productID>
+    <wdrs:describedby>
+      <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/6396594">
+        <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+        <schema:about rdf:resource="http://www.worldcat.org/oclc/6396594"/>
+        <schema:dateModified>2018-11-11</schema:dateModified>
+        <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+      </genont:ContentTypeGenericResource>
+    </wdrs:describedby>
+    <schema:creator>
+      <schema:Person rdf:about="http://viaf.org/viaf/54910226">
+        <schema:familyName>Schneider</schema:familyName>
+        <schema:givenName>Camillo Karl</schema:givenName>
+        <schema:name>Camillo Karl Schneider</schema:name>
+      </schema:Person>
+    </schema:creator>
+    <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+    <schema:name>Illustriertes handbuch der laubholzkunde. Charakteristik der in Mitteleuropa heimischen und im freien angepflanzten angiospermen gehölz-arten und formen mit ausschluss der bambuseen und kakteen.</schema:name>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/gw">
+        <dcterms:identifier>gw</dcterms:identifier>
+      </schema:Place>
+    </library:placeOfPublication>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:publisher rdf:resource="http://experiment.worldcat.org/entity/work/data/197737485#Agent/g_fischer"/>
+    <library:placeOfPublication rdf:resource="http://experiment.worldcat.org/entity/work/data/197737485#Place/jena"/>
+    <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/197737485"/>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/197737485#Topic/laubgeholze">
+        <schema:name>Laubgehölze</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:datePublished>1906/1912</schema:datePublished>
+    <schema:isSimilarTo>
+      <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/555216981">
+        <schema:isSimilarTo rdf:resource="http://www.worldcat.org/oclc/6396594"/>
+        <rdfs:label>Illustriertes handbuch der laubholzkunde.</rdfs:label>
+        <schema:description>Online version:</schema:description>
+      </schema:CreativeWork>
+    </schema:isSimilarTo>
+  </schema:Book>
+</rdf:RDF>

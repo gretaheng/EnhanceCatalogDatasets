@@ -1,0 +1,108 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <schema:Periodical rdf:about="http://www.worldcat.org/oclc/1754475">
+    <schema:publisher>
+      <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/54075819#Agent/a_&amp;_c_black">
+        <schema:name>A. &amp; C. Black</schema:name>
+      </bgn:Agent>
+    </schema:publisher>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/54075819#Topic/plantkunde">
+        <schema:name xml:lang="en">Plantkunde</schema:name>
+        <schema:name xml:lang="en">plantkunde</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/54075819#Topic/botany">
+        <rdfs:seeAlso rdf:resource="http://id.loc.gov/authorities/subjects/sh2007102112"/>
+        <schema:name xml:lang="en">Botany</schema:name>
+        <schema:name xml:lang="en">botany</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:publication>
+      <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/1754475#PublicationEvent/london_longman_rees_orme_brown_green_&amp;_longman_edinburgh_a_&amp;_c_black_1834_1842">
+        <schema:location>
+          <schema:Place rdf:about="http://dbpedia.org/resource/London">
+            <schema:name>London</schema:name>
+          </schema:Place>
+        </schema:location>
+        <schema:location>
+          <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/54075819#Place/edinburgh">
+            <schema:name>Edinburgh</schema:name>
+          </schema:Place>
+        </schema:location>
+        <schema:organizer>
+          <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/54075819#Agent/longman_rees_orme_brown_green_&amp;_longman">
+            <schema:name>Longman, Rees, Orme, Brown, Green &amp; Longman</schema:name>
+          </bgn:Agent>
+        </schema:organizer>
+        <schema:organizer rdf:resource="http://experiment.worldcat.org/entity/work/data/54075819#Agent/a_&amp;_c_black"/>
+        <schema:startDate>1834-1842</schema:startDate>
+      </schema:PublicationEvent>
+    </schema:publication>
+    <schema:about>
+      <schema:Intangible rdf:about="http://dewey.info/class/580.5/"/>
+    </schema:about>
+    <schema:url rdf:resource="http://www.biodiversitylibrary.org/bibliography/234#/summary"/>
+    <schema:publisher rdf:resource="http://experiment.worldcat.org/entity/work/data/54075819#Agent/longman_rees_orme_brown_green_&amp;_longman"/>
+    <library:oclcnum>1754475</library:oclcnum>
+    <schema:name xml:lang="en">The Journal of botany</schema:name>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/enk">
+        <dcterms:identifier>enk</dcterms:identifier>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:inLanguage>en</schema:inLanguage>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:genre xml:lang="en">Periodicals</schema:genre>
+    <library:placeOfPublication rdf:resource="http://experiment.worldcat.org/entity/work/data/54075819#Place/edinburgh"/>
+    <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/54075819"/>
+    <wdrs:describedby>
+      <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/1754475">
+        <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+        <schema:about rdf:resource="http://www.worldcat.org/oclc/1754475"/>
+        <schema:dateModified>2020-02-05</schema:dateModified>
+        <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+      </genont:ContentTypeGenericResource>
+    </wdrs:describedby>
+    <schema:productID>1754475</schema:productID>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/54075819#Topic/botany_general">
+        <schema:name xml:lang="en">Botany (General)</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:datePublished>1834/1842</schema:datePublished>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/54075819#Topic/botanie_algemeen">
+        <schema:name xml:lang="en">Botanie (algemeen)</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:contributor>
+      <schema:Person rdf:about="http://viaf.org/viaf/46874997">
+        <schema:familyName>Hooker</schema:familyName>
+        <schema:givenName>William Jackson</schema:givenName>
+        <schema:name>Sir William Jackson Hooker</schema:name>
+        <schema:birthDate>1785</schema:birthDate>
+        <schema:deathDate>1865</schema:deathDate>
+      </schema:Person>
+    </schema:contributor>
+    <library:placeOfPublication rdf:resource="http://dbpedia.org/resource/London"/>
+    <schema:isSimilarTo>
+      <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/659280250">
+        <schema:isSimilarTo rdf:resource="http://www.worldcat.org/oclc/1754475"/>
+        <rdfs:label>Journal of botany</rdfs:label>
+        <schema:description>Online version:</schema:description>
+      </schema:CreativeWork>
+    </schema:isSimilarTo>
+  </schema:Periodical>
+</rdf:RDF>

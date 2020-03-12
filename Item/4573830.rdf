@@ -1,0 +1,129 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <schema:Book rdf:about="http://www.worldcat.org/oclc/14541973">
+    <schema:publication>
+      <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/14541973#PublicationEvent/london_cadell_and_davies_and_robinson_wynne_and_scholey_walker_cuthell_and_wallis_1801">
+        <schema:location>
+          <schema:Place rdf:about="http://dbpedia.org/resource/London">
+            <schema:name>London</schema:name>
+          </schema:Place>
+        </schema:location>
+        <schema:organizer>
+          <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/2564840516#Agent/cadell_and_davies_and_robinson_wynne_and_scholey_walker_cuthell_and_wallis">
+            <schema:name>Cadell and Davies and Robinson, Wynne and Scholey, Walker, Cuthell and Wallis</schema:name>
+          </bgn:Agent>
+        </schema:organizer>
+        <schema:startDate>1801</schema:startDate>
+      </schema:PublicationEvent>
+    </schema:publication>
+    <schema:isSimilarTo>
+      <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/659387673">
+        <schema:isSimilarTo rdf:resource="http://www.worldcat.org/oclc/14541973"/>
+        <rdfs:label>Systematic arrangement of British plants.</rdfs:label>
+        <schema:description>Online version:</schema:description>
+      </schema:CreativeWork>
+    </schema:isSimilarTo>
+    <schema:bookEdition>4th ed., in four volumes, corr. and enl. by William Withering.</schema:bookEdition>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/2564840516#Topic/plants">
+        <schema:name xml:lang="en">Plants</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:productID>14541973</schema:productID>
+    <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+    <wdrs:describedby>
+      <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/14541973">
+        <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+        <schema:about rdf:resource="http://www.worldcat.org/oclc/14541973"/>
+        <schema:dateModified>2020-02-18</schema:dateModified>
+        <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+      </genont:ContentTypeGenericResource>
+    </wdrs:describedby>
+    <schema:name xml:lang="en">A systematic arrangement of British plants; with an easy introduction to the study of botany.</schema:name>
+    <schema:about>
+      <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/2564840516#Place/united_kingdom_of_great_britain_and_northern_ireland">
+        <schema:name>United Kingdom of Great Britain and Northern Ireland.</schema:name>
+      </schema:Place>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/2564840516#Topic/botany">
+        <schema:name xml:lang="en">Botany</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:about>
+      <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/2564840516#Place/great_britain">
+        <schema:name>Great Britain.</schema:name>
+      </schema:Place>
+    </schema:about>
+    <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/2564840516"/>
+    <schema:inLanguage>en</schema:inLanguage>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/enk">
+        <dcterms:identifier>enk</dcterms:identifier>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:contributor>
+      <schema:Person rdf:about="http://viaf.org/viaf/94484406">
+        <schema:familyName>Withering</schema:familyName>
+        <schema:givenName>William</schema:givenName>
+        <schema:name>William Withering</schema:name>
+        <schema:birthDate>1775</schema:birthDate>
+        <schema:deathDate>1832</schema:deathDate>
+      </schema:Person>
+    </schema:contributor>
+    <schema:about>
+      <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/2564840516#Place/united_kingdom">
+        <schema:name>United Kingdom.</schema:name>
+      </schema:Place>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/2564840516#Topic/botany_ireland">
+        <schema:hasPart rdf:resource="http://id.loc.gov/authorities/subjects/sh85015976"/>
+        <schema:name xml:lang="en">Botany--Ireland</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://dewey.info/class/581/"/>
+    </schema:about>
+    <schema:creator>
+      <schema:Person rdf:about="http://viaf.org/viaf/64052541">
+        <schema:familyName>Withering</schema:familyName>
+        <schema:givenName>William</schema:givenName>
+        <schema:name>William Withering</schema:name>
+        <schema:birthDate>1741</schema:birthDate>
+        <schema:deathDate>1799</schema:deathDate>
+      </schema:Person>
+    </schema:creator>
+    <library:placeOfPublication rdf:resource="http://dbpedia.org/resource/London"/>
+    <schema:publisher rdf:resource="http://experiment.worldcat.org/entity/work/data/2564840516#Agent/cadell_and_davies_and_robinson_wynne_and_scholey_walker_cuthell_and_wallis"/>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/2564840516#Topic/42_40_botany_general">
+        <schema:name xml:lang="en">42.40 botany: general</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/2564840516#Topic/botany_great_britain">
+        <schema:hasPart rdf:resource="http://id.loc.gov/authorities/subjects/sh85015976"/>
+        <schema:name xml:lang="en">Botany--Great Britain</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <library:oclcnum>14541973</library:oclcnum>
+    <schema:about>
+      <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/2564840516#Place/ireland">
+        <schema:name>Ireland.</schema:name>
+      </schema:Place>
+    </schema:about>
+    <schema:datePublished>1801</schema:datePublished>
+  </schema:Book>
+</rdf:RDF>

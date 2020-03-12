@@ -1,0 +1,86 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <schema:Book rdf:about="http://www.worldcat.org/oclc/765773">
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://dbpedia.org/resource/London">
+        <schema:name>London</schema:name>
+      </schema:Place>
+    </library:placeOfPublication>
+    <library:oclcnum>765773</library:oclcnum>
+    <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/1568809"/>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/836869">
+        <schema:name xml:lang="en">Botany</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:publisher>
+      <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/1568809#Agent/l_reeve_&amp;_co">
+        <schema:name>L. Reeve &amp; Co.</schema:name>
+      </bgn:Agent>
+    </schema:publisher>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/1568809#Topic/botany_west_indies_british">
+        <schema:hasPart rdf:resource="http://id.loc.gov/authorities/subjects/sh85015976"/>
+        <schema:name xml:lang="en">Botany--West Indies, British</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <wdrs:describedby>
+      <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/765773">
+        <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+        <schema:about rdf:resource="http://www.worldcat.org/oclc/765773"/>
+        <schema:dateModified>2019-08-23</schema:dateModified>
+        <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+      </genont:ContentTypeGenericResource>
+    </wdrs:describedby>
+    <schema:inLanguage>en</schema:inLanguage>
+    <schema:isSimilarTo>
+      <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/441922121">
+        <schema:isSimilarTo rdf:resource="http://www.worldcat.org/oclc/765773"/>
+        <rdfs:label>Flora of the British West Indian Islands.</rdfs:label>
+        <schema:description>Online version:</schema:description>
+      </schema:CreativeWork>
+    </schema:isSimilarTo>
+    <schema:creator>
+      <schema:Person rdf:about="http://viaf.org/viaf/64049508">
+        <schema:familyName>Grisebach</schema:familyName>
+        <schema:givenName>A.</schema:givenName>
+        <schema:givenName>August</schema:givenName>
+        <schema:name>August Grisebach</schema:name>
+        <schema:birthDate>1814</schema:birthDate>
+        <schema:deathDate>1879</schema:deathDate>
+      </schema:Person>
+    </schema:creator>
+    <schema:about>
+      <schema:Place rdf:about="http://id.worldcat.org/fast/1243266">
+        <schema:name>West Indies--British West Indies.</schema:name>
+      </schema:Place>
+    </schema:about>
+    <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/enk">
+        <dcterms:identifier>enk</dcterms:identifier>
+      </schema:Place>
+    </library:placeOfPublication>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:datePublished>1864</schema:datePublished>
+    <schema:publication>
+      <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/765773#PublicationEvent/london_l_reeve_&amp;_co_1864">
+        <schema:location rdf:resource="http://dbpedia.org/resource/London"/>
+        <schema:organizer rdf:resource="http://experiment.worldcat.org/entity/work/data/1568809#Agent/l_reeve_&amp;_co"/>
+        <schema:startDate>1864</schema:startDate>
+      </schema:PublicationEvent>
+    </schema:publication>
+    <schema:productID>765773</schema:productID>
+    <schema:name xml:lang="en">Flora of the British West Indian Islands.</schema:name>
+  </schema:Book>
+</rdf:RDF>

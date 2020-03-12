@@ -1,0 +1,75 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <schema:Book rdf:about="http://www.worldcat.org/oclc/5915521">
+    <schema:inLanguage>la</schema:inLanguage>
+    <wdrs:describedby>
+      <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/5915521">
+        <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+        <schema:about rdf:resource="http://www.worldcat.org/oclc/5915521"/>
+        <schema:dateModified>2019-03-29</schema:dateModified>
+        <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+      </genont:ContentTypeGenericResource>
+    </wdrs:describedby>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/836869">
+        <schema:name>Botany</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:isSimilarTo>
+      <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/707194170">
+        <schema:isSimilarTo rdf:resource="http://www.worldcat.org/oclc/5915521"/>
+        <rdfs:label>Botanische Bemerkungen.</rdfs:label>
+        <schema:description>Online version:</schema:description>
+      </schema:CreativeWork>
+    </schema:isSimilarTo>
+    <schema:datePublished>1844</schema:datePublished>
+    <schema:productID>5915521</schema:productID>
+    <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+    <schema:creator>
+      <schema:Person rdf:about="http://experiment.worldcat.org/entity/work/data/20609381#Person/presl_k_b_karel_boriwoj_1794_1852">
+        <schema:familyName>Presl</schema:familyName>
+        <schema:givenName>K. B.</schema:givenName>
+        <schema:givenName>Karel Bořiwoj</schema:givenName>
+        <schema:name>Karel Bořiwoj Presl</schema:name>
+        <schema:birthDate>1794</schema:birthDate>
+        <schema:deathDate>1852</schema:deathDate>
+      </schema:Person>
+    </schema:creator>
+    <schema:publisher>
+      <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/20609381#Agent/g_haas">
+        <schema:name>G. Haas</schema:name>
+      </bgn:Agent>
+    </schema:publisher>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/cs">
+        <dcterms:identifier>cs</dcterms:identifier>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:name>Botanische Bemerkungen</schema:name>
+    <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/20609381"/>
+    <library:oclcnum>5915521</library:oclcnum>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/20609381#Place/prag">
+        <schema:name>Prag</schema:name>
+      </schema:Place>
+    </library:placeOfPublication>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:publication>
+      <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/5915521#PublicationEvent/prag_g_haas_1844">
+        <schema:location rdf:resource="http://experiment.worldcat.org/entity/work/data/20609381#Place/prag"/>
+        <schema:organizer rdf:resource="http://experiment.worldcat.org/entity/work/data/20609381#Agent/g_haas"/>
+        <schema:startDate>1844</schema:startDate>
+      </schema:PublicationEvent>
+    </schema:publication>
+  </schema:Book>
+</rdf:RDF>

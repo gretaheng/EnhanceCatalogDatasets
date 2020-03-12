@@ -1,0 +1,67 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <schema:Book rdf:about="http://www.worldcat.org/oclc/4844535">
+    <library:oclcnum>4844535</library:oclcnum>
+    <schema:publisher>
+      <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/1662420#Agent/a_foerstner">
+        <schema:name>A. Foerstner</schema:name>
+      </bgn:Agent>
+    </schema:publisher>
+    <schema:publication>
+      <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/4844535#PublicationEvent/berolini_berlin_a_foerstner_1849_1851">
+        <schema:location>
+          <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/1662420#Place/berolini_berlin">
+            <schema:name>Berolini Berlin</schema:name>
+          </schema:Place>
+        </schema:location>
+        <schema:organizer rdf:resource="http://experiment.worldcat.org/entity/work/data/1662420#Agent/a_foerstner"/>
+        <schema:startDate>1849-1851</schema:startDate>
+      </schema:PublicationEvent>
+    </schema:publication>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/1026803">
+        <schema:name>Mosses</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/1662420"/>
+    <schema:name>Synopsis muscorum frondosorum omnium hucusque cognitorum.</schema:name>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/gw">
+        <dcterms:identifier>gw</dcterms:identifier>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:datePublished>1849/1851</schema:datePublished>
+    <schema:inLanguage>la</schema:inLanguage>
+    <schema:description>v. 1. Musci vegetationis acrocarpicae.-- v. 2. Musci vegetationis pleurocarpicae.</schema:description>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:productID>4844535</schema:productID>
+    <wdrs:describedby>
+      <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/4844535">
+        <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+        <schema:about rdf:resource="http://www.worldcat.org/oclc/4844535"/>
+        <schema:dateModified>2018-11-11</schema:dateModified>
+        <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+      </genont:ContentTypeGenericResource>
+    </wdrs:describedby>
+    <schema:creator>
+      <schema:Person rdf:about="http://experiment.worldcat.org/entity/work/data/1662420#Person/muller_carl_august_friedrich_wilhelm_1818_1899">
+        <schema:familyName>Müller</schema:familyName>
+        <schema:givenName>Carl August Friedrich Wilhelm</schema:givenName>
+        <schema:name>Carl August Friedrich Wilhelm Müller</schema:name>
+        <schema:birthDate>1818</schema:birthDate>
+        <schema:deathDate>1899</schema:deathDate>
+      </schema:Person>
+    </schema:creator>
+    <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+    <library:placeOfPublication rdf:resource="http://experiment.worldcat.org/entity/work/data/1662420#Place/berolini_berlin"/>
+  </schema:Book>
+</rdf:RDF>

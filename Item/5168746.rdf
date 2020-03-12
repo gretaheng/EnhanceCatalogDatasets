@@ -1,0 +1,85 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <schema:Book rdf:about="http://www.worldcat.org/oclc/5168746">
+    <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/3770742612#Place/lipsiae">
+        <schema:name>Lipsiae</schema:name>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:publication>
+      <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/5168746#PublicationEvent/lipsiae_apud_leopoldum_voss_1835_1837">
+        <schema:location rdf:resource="http://experiment.worldcat.org/entity/work/data/3770742612#Place/lipsiae"/>
+        <schema:organizer>
+          <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/3770742612#Agent/apud_leopoldum_voss">
+            <schema:name>Apud Leopoldum Voss</schema:name>
+          </bgn:Agent>
+        </schema:organizer>
+        <schema:startDate>1835-1837</schema:startDate>
+      </schema:PublicationEvent>
+    </schema:publication>
+    <schema:publisher rdf:resource="http://experiment.worldcat.org/entity/work/data/3770742612#Agent/apud_leopoldum_voss"/>
+    <schema:inLanguage>la</schema:inLanguage>
+    <wdrs:describedby>
+      <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/5168746">
+        <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+        <schema:about rdf:resource="http://www.worldcat.org/oclc/5168746"/>
+        <schema:dateModified>2018-11-11</schema:dateModified>
+        <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+      </genont:ContentTypeGenericResource>
+    </wdrs:describedby>
+    <schema:datePublished>1835</schema:datePublished>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/836869">
+        <schema:name>Botany</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.loc.gov/authorities/subjects/sh2007102113">
+        <schema:name>Botany--South Africa</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:datePublished>1835/1837</schema:datePublished>
+    <schema:productID>5168746</schema:productID>
+    <schema:isSimilarTo>
+      <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/755174807">
+        <schema:isSimilarTo rdf:resource="http://www.worldcat.org/oclc/5168746"/>
+        <rdfs:label>Commentariorum de plantis Africae Australioris.</rdfs:label>
+        <schema:description>Online version:</schema:description>
+      </schema:CreativeWork>
+    </schema:isSimilarTo>
+    <library:oclcnum>5168746</library:oclcnum>
+    <schema:creator>
+      <schema:Person rdf:about="http://viaf.org/viaf/2623808">
+        <schema:familyName>Meyer</schema:familyName>
+        <schema:givenName>Ernest Heinrich Friedrich</schema:givenName>
+        <schema:name>Ernest Heinrich Friedrich Meyer</schema:name>
+        <schema:birthDate>1791</schema:birthDate>
+        <schema:deathDate>1858</schema:deathDate>
+      </schema:Person>
+    </schema:creator>
+    <schema:name>Commentariorum de plantis Africae Australioris : quas per octo annos collegit observationibusque manuscriptis. Illustravit Joannes Franciscus Drege</schema:name>
+    <schema:about>
+      <schema:Place rdf:about="http://id.worldcat.org/fast/1204616">
+        <schema:name>South Africa.</schema:name>
+      </schema:Place>
+    </schema:about>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/gw">
+        <dcterms:identifier>gw</dcterms:identifier>
+      </schema:Place>
+    </library:placeOfPublication>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/3770742612"/>
+  </schema:Book>
+</rdf:RDF>

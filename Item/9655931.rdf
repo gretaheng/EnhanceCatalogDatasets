@@ -1,0 +1,106 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <schema:Book rdf:about="http://www.worldcat.org/oclc/9655931">
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/22356126#Topic/flore_marburg_region_description_methode">
+        <schema:name>Flore, Marburg (région), description, méthode</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:contributor>
+      <schema:Organization rdf:about="http://viaf.org/viaf/137823528">
+        <schema:name>Philipps-Universität Marburg. Botanischer Garten.</schema:name>
+      </schema:Organization>
+    </schema:contributor>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/gw">
+        <dcterms:identifier>gw</dcterms:identifier>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:publication>
+      <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/9655931#PublicationEvent/marburgi_cattorum_in_officina_nova_libraria_academiae_1794">
+        <schema:location>
+          <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/22356126#Place/marburgi_cattorum">
+            <schema:name>Marburgi Cattorum</schema:name>
+          </schema:Place>
+        </schema:location>
+        <schema:organizer>
+          <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/22356126#Agent/in_officina_nova_libraria_academiae">
+            <schema:name>in officina nova libraria academiae</schema:name>
+          </bgn:Agent>
+        </schema:organizer>
+        <schema:startDate>1794</schema:startDate>
+      </schema:PublicationEvent>
+    </schema:publication>
+    <library:placeOfPublication rdf:resource="http://experiment.worldcat.org/entity/work/data/22356126#Place/marburgi_cattorum"/>
+    <wdrs:describedby>
+      <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/9655931">
+        <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+        <schema:about rdf:resource="http://www.worldcat.org/oclc/9655931"/>
+        <schema:dateModified>2018-11-09</schema:dateModified>
+        <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+      </genont:ContentTypeGenericResource>
+    </wdrs:describedby>
+    <schema:creator>
+      <schema:Person rdf:about="http://viaf.org/viaf/10627262">
+        <schema:familyName>Moench</schema:familyName>
+        <schema:givenName>Conrad</schema:givenName>
+        <schema:name>Conrad Moench</schema:name>
+        <schema:birthDate>1744</schema:birthDate>
+        <schema:deathDate>1805</schema:deathDate>
+      </schema:Person>
+    </schema:creator>
+    <library:oclcnum>9655931</library:oclcnum>
+    <schema:url>
+      <rdf:Description rdf:about="http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10302537-2">
+        <rdfs:comment>kostenfrei</rdfs:comment>
+      </rdf:Description>
+    </schema:url>
+    <schema:inLanguage>la</schema:inLanguage>
+    <schema:datePublished>1794</schema:datePublished>
+    <schema:productID>9655931</schema:productID>
+    <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/22356126"/>
+    <schema:publisher rdf:resource="http://experiment.worldcat.org/entity/work/data/22356126#Agent/in_officina_nova_libraria_academiae"/>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/836869">
+        <schema:name>Botany</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/22356126#Topic/botanique_systematique">
+        <schema:name>Botanique systématique</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:url>
+      <rdf:Description rdf:about="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10302537-2">
+        <rdfs:comment>kostenfrei</rdfs:comment>
+      </rdf:Description>
+    </schema:url>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/22356126#Topic/marburg_region_flore_description_methode">
+        <schema:name>Marburg (région), flore, description, méthode</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:isSimilarTo>
+      <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/739097508">
+        <schema:isSimilarTo rdf:resource="http://www.worldcat.org/oclc/9655931"/>
+        <rdfs:label>Methodus plantas horti botanici et agri marburgensis.</rdfs:label>
+        <schema:description>Online version:</schema:description>
+      </schema:CreativeWork>
+    </schema:isSimilarTo>
+    <schema:genre>Botanik</schema:genre>
+    <schema:genre>Bücheranzeige</schema:genre>
+    <schema:name>Methodus plantas horti botanici et agri marburgensis, a staminum situ describendi,</schema:name>
+  </schema:Book>
+</rdf:RDF>

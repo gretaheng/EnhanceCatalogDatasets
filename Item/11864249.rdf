@@ -1,0 +1,112 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/11864249">
+    <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+    <schema:about>
+      <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/11864249">
+        <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/2288214779"/>
+        <schema:about>
+          <schema:Intangible rdf:about="http://id.worldcat.org/fast/836869">
+            <schema:name xml:lang="en">Botany</schema:name>
+          </schema:Intangible>
+        </schema:about>
+        <schema:contributor>
+          <schema:Organization rdf:about="http://viaf.org/viaf/307471017">
+            <schema:name>Thordarson Collection.</schema:name>
+          </schema:Organization>
+        </schema:contributor>
+        <library:placeOfPublication>
+          <schema:Place rdf:about="http://dbpedia.org/resource/London">
+            <schema:name>London</schema:name>
+          </schema:Place>
+        </library:placeOfPublication>
+        <schema:name xml:lang="en">Illustrations of Himalayan plants : chiefly selected from drawings made for the late J.F. Cathcart, Esq.re of the Bengal Civil Service</schema:name>
+        <schema:about>
+          <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/2288214779#Topic/plants">
+            <schema:name xml:lang="en">Plants</schema:name>
+          </schema:Intangible>
+        </schema:about>
+        <wdrs:describedby rdf:resource="http://www.worldcat.org/title/-/oclc/11864249"/>
+        <schema:contributor>
+          <schema:Person rdf:about="http://viaf.org/viaf/12458289">
+            <schema:familyName>Fitch</schema:familyName>
+            <schema:givenName>W. H.</schema:givenName>
+            <schema:givenName>Walter Hood</schema:givenName>
+            <schema:name>Walter Hood Fitch</schema:name>
+            <schema:birthDate>1817</schema:birthDate>
+            <schema:deathDate>1892</schema:deathDate>
+          </schema:Person>
+        </schema:contributor>
+        <schema:bookFormat rdf:resource="http://schema.org/EBook"/>
+        <schema:creator>
+          <schema:Person rdf:about="http://viaf.org/viaf/17306215">
+            <schema:familyName>Hooker</schema:familyName>
+            <schema:givenName>Joseph Dalton</schema:givenName>
+            <schema:name>Joseph Dalton Hooker</schema:name>
+            <schema:birthDate>1817</schema:birthDate>
+            <schema:deathDate>1911</schema:deathDate>
+          </schema:Person>
+        </schema:creator>
+        <schema:about>
+          <schema:Intangible rdf:about="http://id.loc.gov/authorities/subjects/sh2009117459">
+            <schema:name xml:lang="en">Botany--Himalaya Mountains</schema:name>
+          </schema:Intangible>
+        </schema:about>
+        <schema:datePublished>1855</schema:datePublished>
+        <rdf:type rdf:resource="http://schema.org/Book"/>
+        <library:placeOfPublication>
+          <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/enk">
+            <dcterms:identifier>enk</dcterms:identifier>
+          </schema:Place>
+        </library:placeOfPublication>
+        <schema:url>
+          <rdf:Description rdf:about="http://www.biodiversitylibrary.org/bibliography/355">
+            <rdfs:comment>View digitized version of this work at Biodiversitylibrary.org.</rdfs:comment>
+          </rdf:Description>
+        </schema:url>
+        <schema:genre xml:lang="en">Lithographs</schema:genre>
+        <schema:contributor>
+          <schema:Person rdf:about="http://viaf.org/viaf/282534515">
+            <schema:familyName>Cathcart</schema:familyName>
+            <schema:givenName>John Fergusson</schema:givenName>
+            <schema:name>John Fergusson Cathcart</schema:name>
+            <schema:birthDate>1802</schema:birthDate>
+            <schema:deathDate>1851</schema:deathDate>
+          </schema:Person>
+        </schema:contributor>
+        <library:oclcnum>11864249</library:oclcnum>
+        <schema:about>
+          <schema:Place rdf:about="http://id.worldcat.org/fast/1242048">
+            <schema:name>Himalaya Mountains.</schema:name>
+          </schema:Place>
+        </schema:about>
+        <schema:inLanguage>en</schema:inLanguage>
+        <schema:publisher>
+          <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/2288214779#Agent/lovell_reeve">
+            <schema:name>Lovell Reeve</schema:name>
+          </bgn:Agent>
+        </schema:publisher>
+        <schema:productID>11864249</schema:productID>
+        <schema:publication>
+          <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/11864249#PublicationEvent/london_lovell_reeve_1855">
+            <schema:location rdf:resource="http://dbpedia.org/resource/London"/>
+            <schema:organizer rdf:resource="http://experiment.worldcat.org/entity/work/data/2288214779#Agent/lovell_reeve"/>
+            <schema:startDate>1855</schema:startDate>
+          </schema:PublicationEvent>
+        </schema:publication>
+      </schema:CreativeWork>
+    </schema:about>
+    <schema:dateModified>2019-06-10</schema:dateModified>
+    <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+  </genont:ContentTypeGenericResource>
+</rdf:RDF>

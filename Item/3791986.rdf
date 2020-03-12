@@ -1,0 +1,100 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/3791986">
+    <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+    <schema:publication>
+      <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/3791986#PublicationEvent/parisiissumptibus_sociorum_treuttel_et_wurtz_1824_73">
+        <schema:location>
+          <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/28396241#Place/parisiis">
+            <schema:name>Parisiis</schema:name>
+          </schema:Place>
+        </schema:location>
+        <schema:organizer>
+          <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/28396241#Agent/sumptibus_sociorum_treuttel_et_wurtz">
+            <schema:name>sumptibus sociorum Treuttel et Würtz</schema:name>
+          </bgn:Agent>
+        </schema:organizer>
+        <schema:startDate>1824-73</schema:startDate>
+      </schema:PublicationEvent>
+    </schema:publication>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/fr">
+        <dcterms:identifier>fr</dcterms:identifier>
+      </schema:Place>
+    </library:placeOfPublication>
+    <wdrs:describedby>
+      <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/3791986">
+        <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+        <schema:about rdf:resource="http://www.worldcat.org/oclc/3791986"/>
+        <schema:dateModified>2019-09-08</schema:dateModified>
+        <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+      </genont:ContentTypeGenericResource>
+    </wdrs:describedby>
+    <rdf:type rdf:resource="http://schema.org/Book"/>
+    <schema:inLanguage>la</schema:inLanguage>
+    <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/28396241"/>
+    <schema:datePublished>1824/73</schema:datePublished>
+    <schema:name>Prodromus systematis naturalis regni vegetabilis, sive Enumeratio contracta ordinum generum specierumque plantarum huc usque cognitarum, juxta methodi naturalis normas digesta;</schema:name>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/28396241#Topic/systematik">
+        <schema:name>Systematik</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:publisher rdf:resource="http://experiment.worldcat.org/entity/work/data/28396241#Agent/sumptibus_sociorum_treuttel_et_wurtz"/>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/28396241#Topic/botany">
+        <schema:name>Botany</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:productID>3791986</schema:productID>
+    <schema:isSimilarTo>
+      <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/656594071">
+        <schema:isSimilarTo rdf:resource="http://www.worldcat.org/oclc/3791986"/>
+        <rdfs:label>Prodromus systematis naturalis regni vegetabilis.</rdfs:label>
+        <schema:description>Online version:</schema:description>
+      </schema:CreativeWork>
+    </schema:isSimilarTo>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/28396241#Topic/pflanzen">
+        <schema:name>Pflanzen</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/28396241#Topic/plants">
+        <rdfs:seeAlso rdf:resource="http://id.loc.gov/authorities/subjects/sh85015982"/>
+        <schema:name>Plants</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/28396241#Topic/plantes_classification">
+        <schema:name xml:lang="fr">Plantes--Classification</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://dewey.info/class/580/"/>
+    </schema:about>
+    <library:placeOfPublication rdf:resource="http://experiment.worldcat.org/entity/work/data/28396241#Place/parisiis"/>
+    <schema:datePublished>1824/1873</schema:datePublished>
+    <library:oclcnum>3791986</library:oclcnum>
+    <schema:creator>
+      <schema:Person rdf:about="http://viaf.org/viaf/76389959">
+        <schema:familyName>Candolle</schema:familyName>
+        <schema:givenName>Augustin Pyramus de</schema:givenName>
+        <schema:name>Augustin Pyramus de Candolle</schema:name>
+        <schema:birthDate>1778</schema:birthDate>
+        <schema:deathDate>1841</schema:deathDate>
+      </schema:Person>
+    </schema:creator>
+    <schema:genre>Classification</schema:genre>
+  </schema:CreativeWork>
+</rdf:RDF>

@@ -1,0 +1,85 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/5528717">
+    <schema:isSimilarTo>
+      <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/793597550">
+        <schema:isSimilarTo rdf:resource="http://www.worldcat.org/oclc/5528717"/>
+        <rdfs:label>Museum botanicum Lugduno-Batavum.</rdfs:label>
+        <schema:description>Online version:</schema:description>
+      </schema:CreativeWork>
+    </schema:isSimilarTo>
+    <schema:inLanguage>en</schema:inLanguage>
+    <schema:publisher>
+      <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/115254484#Agent/e_j_brill">
+        <schema:name>E.J. Brill</schema:name>
+      </bgn:Agent>
+    </schema:publisher>
+    <wdrs:describedby>
+      <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/5528717">
+        <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+        <schema:about rdf:resource="http://www.worldcat.org/oclc/5528717"/>
+        <schema:dateModified>2018-11-10</schema:dateModified>
+        <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+      </genont:ContentTypeGenericResource>
+    </wdrs:describedby>
+    <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+    <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/115254484"/>
+    <schema:description xml:lang="en">i. 1849-51. pp. [4], 396. 24 plates.--ii [1852-56.] pp. 256. 32 plates.</schema:description>
+    <schema:name xml:lang="en">Museum botanicum Lugduno-Batavum; sive, Stirpium exoticarum novarum vel minus cognitarum ex vivis aut siccis brevis expsitio et descriptio.</schema:name>
+    <schema:about>
+      <schema:Organization rdf:about="http://viaf.org/viaf/143615766">
+        <schema:name>Leiden (Netherlands). Museum Botanicum Lugduno-Batavium.</schema:name>
+      </schema:Organization>
+    </schema:about>
+    <rdf:type rdf:resource="http://schema.org/Book"/>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/836869">
+        <schema:name xml:lang="en">Botany</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:productID>5528717</schema:productID>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/115254484#Place/lugduni_batavorum">
+        <schema:name>Lugduni-Batavorum</schema:name>
+      </schema:Place>
+    </library:placeOfPublication>
+    <library:oclcnum>5528717</library:oclcnum>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/ne">
+        <dcterms:identifier>ne</dcterms:identifier>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:datePublished>1849/</schema:datePublished>
+    <schema:datePublished>1849/1856</schema:datePublished>
+    <schema:publication>
+      <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/5528717#PublicationEvent/lugduni_batavorum_e_j_brill_1849_56">
+        <schema:location rdf:resource="http://experiment.worldcat.org/entity/work/data/115254484#Place/lugduni_batavorum"/>
+        <schema:organizer rdf:resource="http://experiment.worldcat.org/entity/work/data/115254484#Agent/e_j_brill"/>
+        <schema:startDate>1849-</schema:startDate>
+      </schema:PublicationEvent>
+    </schema:publication>
+    <schema:creator>
+      <schema:Person rdf:about="http://viaf.org/viaf/8133425">
+        <schema:familyName>Blume</schema:familyName>
+        <schema:givenName>C. L.</schema:givenName>
+        <schema:givenName>Carl Ludwig</schema:givenName>
+        <schema:name>Carl Ludwig Blume</schema:name>
+        <schema:birthDate>1796</schema:birthDate>
+        <schema:deathDate>1862</schema:deathDate>
+      </schema:Person>
+    </schema:creator>
+    <schema:about>
+      <schema:Intangible rdf:about="http://dewey.info/class/580.12/e22/"/>
+    </schema:about>
+  </schema:CreativeWork>
+</rdf:RDF>

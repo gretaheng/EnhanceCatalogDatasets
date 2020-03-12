@@ -1,0 +1,184 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <schema:Book rdf:about="http://www.worldcat.org/oclc/1650991">
+    <schema:illustrator>
+      <schema:Person rdf:about="http://viaf.org/viaf/214942192">
+        <schema:familyName>Fossier</schema:familyName>
+        <schema:name>Fossier</schema:name>
+      </schema:Person>
+    </schema:illustrator>
+    <schema:name>Tableau encyclopédique et méthodique des trois règnes de la nature. Botanique</schema:name>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/fr">
+        <dcterms:identifier>fr</dcterms:identifier>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:hasPart>
+      <schema:CreativeWork rdf:about="http://experiment.worldcat.org/entity/work/data/4922382315#CreativeWork/recueil_de_planches_de_botanique_de_l_encyclopedie">
+        <schema:name>Recueil de planches de botanique de l'encyclopédie.</schema:name>
+      </schema:CreativeWork>
+    </schema:hasPart>
+    <schema:illustrator>
+      <schema:Person rdf:about="http://viaf.org/viaf/24939506">
+        <schema:familyName>Audebert</schema:familyName>
+        <schema:givenName>J. B.</schema:givenName>
+        <schema:givenName>Jean Baptiste</schema:givenName>
+        <schema:name>Jean Baptiste Audebert</schema:name>
+        <schema:birthDate>1759</schema:birthDate>
+        <schema:deathDate>1800,</schema:deathDate>
+      </schema:Person>
+    </schema:illustrator>
+    <schema:contributor>
+      <schema:Person rdf:about="http://viaf.org/viaf/46813563">
+        <schema:familyName>Agasse</schema:familyName>
+        <schema:givenName>Henri</schema:givenName>
+        <schema:name>Henri Agasse</schema:name>
+        <schema:birthDate>1752</schema:birthDate>
+        <schema:deathDate>1813,</schema:deathDate>
+      </schema:Person>
+    </schema:contributor>
+    <library:oclcnum>1650991</library:oclcnum>
+    <schema:contributor>
+      <schema:Person rdf:about="http://viaf.org/viaf/95887207">
+        <schema:familyName>Bénard</schema:familyName>
+        <schema:givenName>Robert</schema:givenName>
+        <schema:name>Robert Bénard</schema:name>
+        <schema:birthDate>1734</schema:birthDate>
+      </schema:Person>
+    </schema:contributor>
+    <schema:inLanguage>fr</schema:inLanguage>
+    <schema:productID>1650991</schema:productID>
+    <wdrs:describedby>
+      <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/1650991">
+        <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+        <schema:about rdf:resource="http://www.worldcat.org/oclc/1650991"/>
+        <schema:dateModified>2019-03-12</schema:dateModified>
+        <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+      </genont:ContentTypeGenericResource>
+    </wdrs:describedby>
+    <schema:illustrator>
+      <schema:Person rdf:about="http://viaf.org/viaf/88079246">
+        <schema:familyName>Maréchal</schema:familyName>
+        <schema:givenName>Nicolas</schema:givenName>
+        <schema:name>Nicolas Maréchal</schema:name>
+        <schema:deathDate>1803,</schema:deathDate>
+      </schema:Person>
+    </schema:illustrator>
+    <schema:contributor>
+      <schema:Person rdf:about="http://viaf.org/viaf/47048378">
+        <schema:familyName>Agasse</schema:familyName>
+        <schema:givenName>Antoinette-Pauline</schema:givenName>
+        <schema:name>Antoinette-Pauline Agasse</schema:name>
+        <schema:birthDate>1769</schema:birthDate>
+        <schema:deathDate>1843,</schema:deathDate>
+      </schema:Person>
+    </schema:contributor>
+    <schema:genre>Pictorial works</schema:genre>
+    <schema:genre>Dictionaries</schema:genre>
+    <schema:illustrator>
+      <schema:Person rdf:about="http://viaf.org/viaf/71481124">
+        <schema:familyName>Redouté</schema:familyName>
+        <schema:givenName>Henri-Joseph</schema:givenName>
+        <schema:name>Henri-Joseph Redouté</schema:name>
+        <schema:birthDate>1766</schema:birthDate>
+        <schema:deathDate>1852,</schema:deathDate>
+      </schema:Person>
+    </schema:illustrator>
+    <rdfs:seeAlso>
+      <schema:CreativeWork rdf:about="http://experiment.worldcat.org/entity/work/data/4922382315#CreativeWork/encyclopedie_methodique">
+        <schema:name>Encyclopédie méthodique.</schema:name>
+      </schema:CreativeWork>
+    </rdfs:seeAlso>
+    <schema:genre>Encyclopedias</schema:genre>
+    <schema:contributor>
+      <schema:Person rdf:about="http://viaf.org/viaf/64051936">
+        <schema:familyName>Panckoucke</schema:familyName>
+        <schema:givenName>Charles Joseph</schema:givenName>
+        <schema:name>Charles Joseph Panckoucke</schema:name>
+        <schema:birthDate>1736</schema:birthDate>
+        <schema:deathDate>1798,</schema:deathDate>
+      </schema:Person>
+    </schema:contributor>
+    <schema:url>
+      <rdf:Description rdf:about="http://www.biodiversitylibrary.org/bibliography/218">
+        <rdfs:comment>Biodiversity Heritage Library</rdfs:comment>
+      </rdf:Description>
+    </schema:url>
+    <schema:datePublished>1791/1823</schema:datePublished>
+    <schema:contributor>
+      <schema:Person rdf:about="http://viaf.org/viaf/41849820">
+        <schema:familyName>Lamarck</schema:familyName>
+        <schema:givenName>Jean Baptiste Pierre Antoine de Monet de</schema:givenName>
+        <schema:name>Jean Baptiste Pierre Antoine de Monet de Lamarck</schema:name>
+        <schema:birthDate>1744</schema:birthDate>
+        <schema:deathDate>1829</schema:deathDate>
+      </schema:Person>
+    </schema:contributor>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/1065823">
+        <schema:name>Plants</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/4922382315"/>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/4922382315#Topic/plants">
+        <rdfs:seeAlso rdf:resource="http://id.loc.gov/authorities/subjects/sh2010106557"/>
+        <schema:name>Plants</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/4922382315#Topic/botany">
+        <rdfs:seeAlso rdf:resource="http://id.loc.gov/authorities/subjects/sh85015996"/>
+        <schema:name>Botany</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/836869">
+        <schema:name>Botany</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:illustrator>
+      <schema:Person rdf:about="http://viaf.org/viaf/59289318">
+        <schema:familyName>Sève</schema:familyName>
+        <schema:givenName>Jacques Eustache de</schema:givenName>
+        <schema:name>Jacques Eustache de Sève</schema:name>
+      </schema:Person>
+    </schema:illustrator>
+    <schema:contributor>
+      <schema:Person rdf:about="http://viaf.org/viaf/29539330">
+        <schema:familyName>Poiret</schema:familyName>
+        <schema:givenName>Jean Louis Marie</schema:givenName>
+        <schema:name>Jean Louis Marie Poiret</schema:name>
+        <schema:birthDate>1755</schema:birthDate>
+        <schema:deathDate>1834</schema:deathDate>
+      </schema:Person>
+    </schema:contributor>
+    <schema:illustrator>
+      <schema:Person rdf:about="http://viaf.org/viaf/46766391">
+        <schema:familyName>Redouté</schema:familyName>
+        <schema:givenName>Pierre Joseph</schema:givenName>
+        <schema:name>Pierre Joseph Redouté</schema:name>
+        <schema:birthDate>1759</schema:birthDate>
+        <schema:deathDate>1840,</schema:deathDate>
+      </schema:Person>
+    </schema:illustrator>
+    <schema:isPartOf>
+      <bgn:PublicationSeries rdf:about="http://experiment.worldcat.org/entity/work/data/4922382315#Series/encyclopedie_methodique">
+        <schema:hasPart rdf:resource="http://www.worldcat.org/oclc/1650991"/>
+        <schema:name>Encyclopédie méthodique.</schema:name>
+      </bgn:PublicationSeries>
+    </schema:isPartOf>
+  </schema:Book>
+</rdf:RDF>

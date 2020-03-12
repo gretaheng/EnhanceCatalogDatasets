@@ -1,0 +1,144 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <schema:Book rdf:about="http://www.worldcat.org/oclc/6163590">
+    <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/21277466"/>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/811423">
+        <schema:name xml:lang="en">Apocynaceae</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:publisher>
+      <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/21277466#Agent/williams_and_norgate">
+        <schema:name>Williams and Norgate</schema:name>
+      </bgn:Agent>
+    </schema:publisher>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/21277466#Topic/gentianales">
+        <schema:name xml:lang="en">Gentianales</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/21277466#Topic/identification">
+        <schema:name xml:lang="en">identification</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <library:oclcnum>6163590</library:oclcnum>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/21277466#Topic/taxonomy">
+        <schema:name xml:lang="en">taxonomy</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/enk">
+        <dcterms:identifier>enk</dcterms:identifier>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:name xml:lang="en">On the Apocynaceae of South America, with some preliminary remarks on the whole family ...</schema:name>
+    <schema:inLanguage>en</schema:inLanguage>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/836869">
+        <schema:name xml:lang="en">Botany</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/21277466#Topic/identificatie">
+        <schema:name xml:lang="en">identificatie</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:publication>
+      <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/6163590#PublicationEvent/london_williams_and_norgate_1878">
+        <schema:location>
+          <schema:Place rdf:about="http://dbpedia.org/resource/London">
+            <schema:name>London</schema:name>
+          </schema:Place>
+        </schema:location>
+        <schema:organizer rdf:resource="http://experiment.worldcat.org/entity/work/data/21277466#Agent/williams_and_norgate"/>
+        <schema:startDate>1878</schema:startDate>
+      </schema:PublicationEvent>
+    </schema:publication>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/21277466#Topic/plant_taxonomy">
+        <schema:name xml:lang="en">Plant Taxonomy</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:productID>6163590</schema:productID>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.loc.gov/authorities/subjects/sh2009117475">
+        <schema:name xml:lang="en">Botany--South America</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:about>
+      <schema:Place rdf:about="http://id.worldcat.org/fast/1244515">
+        <schema:name>South America.</schema:name>
+      </schema:Place>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/21277466#Topic/south_america">
+        <schema:name xml:lang="en">south america</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <wdrs:describedby>
+      <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/6163590">
+        <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+        <schema:about rdf:resource="http://www.worldcat.org/oclc/6163590"/>
+        <schema:dateModified>2019-08-26</schema:dateModified>
+        <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+      </genont:ContentTypeGenericResource>
+    </wdrs:describedby>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/21277466#Topic/apocynaceae">
+        <schema:name xml:lang="en">apocynaceae</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/21277466#Topic/plantentaxonomie">
+        <schema:name xml:lang="en">Plantentaxonomie</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <library:placeOfPublication rdf:resource="http://dbpedia.org/resource/London"/>
+    <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/21277466#Topic/taxonomie">
+        <schema:name xml:lang="en">taxonomie</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:creator>
+      <schema:Person rdf:about="http://viaf.org/viaf/8154761">
+        <schema:familyName>Miers</schema:familyName>
+        <schema:givenName>John</schema:givenName>
+        <schema:name>John Miers</schema:name>
+        <schema:birthDate>1789</schema:birthDate>
+        <schema:deathDate>1879</schema:deathDate>
+      </schema:Person>
+    </schema:creator>
+    <schema:about>
+      <schema:Intangible rdf:about="http://dewey.info/class/583.72/"/>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/21277466#Topic/zuid_amerika">
+        <schema:name xml:lang="en">zuid-amerika</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/21277466#Topic/keys">
+        <schema:name xml:lang="en">keys</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/21277466#Topic/determinatietabellen">
+        <schema:name xml:lang="en">determinatietabellen</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:datePublished>1878</schema:datePublished>
+  </schema:Book>
+</rdf:RDF>

@@ -1,0 +1,165 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <schema:Book rdf:about="http://www.worldcat.org/oclc/1705680">
+    <schema:publication>
+      <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/1705680#PublicationEvent/london_l_reeve_and_co_1868">
+        <schema:location>
+          <schema:Place rdf:about="http://dbpedia.org/resource/London">
+            <schema:name>London</schema:name>
+          </schema:Place>
+        </schema:location>
+        <schema:organizer>
+          <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/5377523577#Agent/l_reeve_and_co">
+            <schema:name>L. Reeve and Co.</schema:name>
+          </bgn:Agent>
+        </schema:organizer>
+        <schema:startDate>1868-</schema:startDate>
+      </schema:PublicationEvent>
+    </schema:publication>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/5377523577#Topic/tropen">
+        <schema:name xml:lang="en">tropen</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/5377523577#Topic/plants">
+        <schema:name xml:lang="en">plants</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://dewey.info/class/581.967/"/>
+    </schema:about>
+    <schema:isSimilarTo>
+      <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/656871809">
+        <schema:isSimilarTo rdf:resource="http://www.worldcat.org/oclc/1705680"/>
+        <rdfs:label>Flora of tropical Africa.</rdfs:label>
+        <schema:description>Online version:</schema:description>
+      </schema:CreativeWork>
+    </schema:isSimilarTo>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/5377523577#Topic/africa">
+        <schema:name xml:lang="en">africa</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/5377523577#Topic/planten">
+        <schema:name xml:lang="en">planten</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <library:placeOfPublication rdf:resource="http://dbpedia.org/resource/London"/>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/5377523577#Topic/identificatie">
+        <schema:name xml:lang="en">identificatie</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <library:oclcnum>1705680</library:oclcnum>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/enk">
+        <dcterms:identifier>enk</dcterms:identifier>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:datePublished>1868/1999</schema:datePublished>
+    <schema:publisher rdf:resource="http://experiment.worldcat.org/entity/work/data/5377523577#Agent/l_reeve_and_co"/>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/5377523577#Topic/floras_of_africa">
+        <schema:name xml:lang="en">Floras of Africa</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/5377523577#Topic/vascular_plants">
+        <schema:name xml:lang="en">vascular plants</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:description xml:lang="en">v. 1. Ranunculaceae to Connaraceae.--v. 2. Leguminosae to Ficoideae--v. 3. Umbeliferae to Ebenaceae--v. 4. (pt. 1) Olaceae to Gentianeae--v. 4. (pt. 2) Hydrophyllaceae to Pedalineae--v. 5. Acanthaceae to Plantaginaceae.--v. 6 (pt. 1) Nyctagineae to Euphorbiaceae.--v. 6 (pt. 2) Ulmaceae to Cycadaceae.--v. 7. Hydrocharideae to Liliaceae.--v. 8. Pontederiaceae to Cyperaceae.--v. 9. Gramineae.--v. 10 (pt. 1) Gramineae.</schema:description>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/5377523577#Topic/flora_africa">
+        <schema:name xml:lang="en">Flora--África</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:productID>1705680</schema:productID>
+    <schema:name xml:lang="en">Flora of tropical Africa.</schema:name>
+    <schema:creator>
+      <schema:Person rdf:about="http://viaf.org/viaf/66580052">
+        <schema:familyName>Oliver</schema:familyName>
+        <schema:givenName>Daniel</schema:givenName>
+        <schema:name>Daniel Oliver</schema:name>
+        <schema:birthDate>1830</schema:birthDate>
+        <schema:deathDate>1916</schema:deathDate>
+      </schema:Person>
+    </schema:creator>
+    <schema:datePublished>1868/</schema:datePublished>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/5377523577#Topic/botany">
+        <schema:name xml:lang="en">Botany</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/5377523577#Topic/vaatplanten">
+        <schema:name xml:lang="en">vaatplanten</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:about>
+      <schema:Place rdf:about="http://id.worldcat.org/fast/1239509">
+        <schema:name>Africa.</schema:name>
+      </schema:Place>
+    </schema:about>
+    <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/5377523577"/>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/5377523577#Topic/flora">
+        <schema:name xml:lang="en">flora</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/5377523577#Topic/afrika">
+        <schema:name xml:lang="en">afrika</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/5377523577#Topic/tropics">
+        <schema:name xml:lang="en">tropics</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/5377523577#Topic/plantengeografie">
+        <schema:name xml:lang="en">plantengeografie</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/5377523577#Topic/phytogeography">
+        <schema:name xml:lang="en">phytogeography</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/5377523577#Topic/botany_africa">
+        <schema:hasPart rdf:resource="http://id.loc.gov/authorities/subjects/sh85015976"/>
+        <schema:name xml:lang="en">Botany--Africa</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:inLanguage>en</schema:inLanguage>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/5377523577#Topic/identification">
+        <schema:name xml:lang="en">identification</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <wdrs:describedby>
+      <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/1705680">
+        <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+        <schema:about rdf:resource="http://www.worldcat.org/oclc/1705680"/>
+        <schema:dateModified>2019-12-19</schema:dateModified>
+        <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+      </genont:ContentTypeGenericResource>
+    </wdrs:describedby>
+  </schema:Book>
+</rdf:RDF>

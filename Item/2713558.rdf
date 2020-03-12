@@ -1,0 +1,88 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/2713558">
+    <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/5887352"/>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/ilu">
+        <dcterms:identifier>ilu</dcterms:identifier>
+      </schema:Place>
+    </library:placeOfPublication>
+    <wdrs:describedby>
+      <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/2713558">
+        <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+        <schema:about rdf:resource="http://www.worldcat.org/oclc/2713558"/>
+        <schema:dateModified>2019-01-14</schema:dateModified>
+        <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+      </genont:ContentTypeGenericResource>
+    </wdrs:describedby>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/5887352#Place/urbana_ill">
+        <schema:name>Urbana, Ill.</schema:name>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:creator>
+      <schema:Person rdf:about="http://viaf.org/viaf/27853586">
+        <schema:familyName>Trelease</schema:familyName>
+        <schema:givenName>William</schema:givenName>
+        <schema:name>William Trelease</schema:name>
+        <schema:birthDate>1857</schema:birthDate>
+        <schema:deathDate>1945</schema:deathDate>
+      </schema:Person>
+    </schema:creator>
+    <rdf:type rdf:resource="http://schema.org/Book"/>
+    <schema:isSimilarTo>
+      <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/595389108">
+        <schema:isSimilarTo rdf:resource="http://www.worldcat.org/oclc/2713558"/>
+        <rdfs:label>Genus Phoradendron.</rdfs:label>
+        <schema:description>Online version:</schema:description>
+      </schema:CreativeWork>
+    </schema:isSimilarTo>
+    <schema:about>
+      <schema:Intangible rdf:about="http://dewey.info/class/581/"/>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/5887352#Topic/fitopatologia">
+        <schema:name xml:lang="en">Fitopatologia</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:inLanguage>en</schema:inLanguage>
+    <schema:genre xml:lang="en">Festschriften</schema:genre>
+    <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+    <schema:url>
+      <rdf:Description rdf:about="https://archive.org/details/genusphoradendro00trelrich/page/n7">
+        <rdfs:comment>Internet Archive, University of California</rdfs:comment>
+      </rdf:Description>
+    </schema:url>
+    <schema:publisher>
+      <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/5887352#Agent/the_university">
+        <schema:name>The University</schema:name>
+      </bgn:Agent>
+    </schema:publisher>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/1023969">
+        <schema:name xml:lang="en">Mistletoes</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <library:oclcnum>2713558</library:oclcnum>
+    <schema:publication>
+      <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/2713558#PublicationEvent/urbana_ill_the_university_1916">
+        <schema:location rdf:resource="http://experiment.worldcat.org/entity/work/data/5887352#Place/urbana_ill"/>
+        <schema:organizer rdf:resource="http://experiment.worldcat.org/entity/work/data/5887352#Agent/the_university"/>
+        <schema:startDate>1916</schema:startDate>
+      </schema:PublicationEvent>
+    </schema:publication>
+    <schema:name xml:lang="en">The genus Phoradendron; a monographic revision,</schema:name>
+    <schema:datePublished>1916</schema:datePublished>
+    <schema:productID>2713558</schema:productID>
+  </schema:CreativeWork>
+</rdf:RDF>

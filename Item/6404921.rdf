@@ -1,0 +1,84 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/6404921">
+    <schema:productID>6404921</schema:productID>
+    <schema:datePublished>1840/1853</schema:datePublished>
+    <wdrs:describedby>
+      <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/6404921">
+        <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+        <schema:about rdf:resource="http://www.worldcat.org/oclc/6404921"/>
+        <schema:dateModified>2018-11-10</schema:dateModified>
+        <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+      </genont:ContentTypeGenericResource>
+    </wdrs:describedby>
+    <schema:creator>
+      <schema:Person rdf:about="http://viaf.org/viaf/32772286">
+        <schema:familyName>Wight</schema:familyName>
+        <schema:givenName>Robert</schema:givenName>
+        <schema:name>Robert Wight</schema:name>
+        <schema:birthDate>1796</schema:birthDate>
+        <schema:deathDate>1872</schema:deathDate>
+      </schema:Person>
+    </schema:creator>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/ii">
+        <dcterms:identifier>ii</dcterms:identifier>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:name>Icones plantarum Indiae Orientalis : or figures of Indian plants</schema:name>
+    <schema:about>
+      <schema:Place rdf:about="http://id.worldcat.org/fast/1210276">
+        <schema:name>India.</schema:name>
+      </schema:Place>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.loc.gov/authorities/subjects/sh2007102108">
+        <schema:name>Botany--India</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/836869">
+        <schema:name>Botany</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+    <schema:isSimilarTo>
+      <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/659106151">
+        <schema:isSimilarTo rdf:resource="http://www.worldcat.org/oclc/6404921"/>
+        <rdfs:label>Icones plantarum Indiae Orientalis.</rdfs:label>
+        <schema:description>Online version:</schema:description>
+      </schema:CreativeWork>
+    </schema:isSimilarTo>
+    <rdf:type rdf:resource="http://schema.org/Book"/>
+    <schema:publication>
+      <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/6404921#PublicationEvent/madras_published_by_j_b_pharoah_for_the_author_1840_1853">
+        <schema:location>
+          <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/46452672#Place/madras">
+            <schema:name>Madras</schema:name>
+          </schema:Place>
+        </schema:location>
+        <schema:organizer>
+          <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/46452672#Agent/published_by_j_b_pharoah_for_the_author">
+            <schema:name>Published by J.B. Pharoah for the author</schema:name>
+          </bgn:Agent>
+        </schema:organizer>
+        <schema:startDate>1840-1853</schema:startDate>
+      </schema:PublicationEvent>
+    </schema:publication>
+    <schema:inLanguage>la</schema:inLanguage>
+    <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/46452672"/>
+    <library:oclcnum>6404921</library:oclcnum>
+    <schema:publisher rdf:resource="http://experiment.worldcat.org/entity/work/data/46452672#Agent/published_by_j_b_pharoah_for_the_author"/>
+    <library:placeOfPublication rdf:resource="http://experiment.worldcat.org/entity/work/data/46452672#Place/madras"/>
+  </schema:CreativeWork>
+</rdf:RDF>

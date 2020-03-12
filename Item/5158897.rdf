@@ -1,0 +1,86 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/5158897">
+    <schema:about>
+      <schema:Place rdf:about="http://id.worldcat.org/fast/1204616">
+        <schema:name>South Africa.</schema:name>
+      </schema:Place>
+    </schema:about>
+    <schema:creator>
+      <schema:Person rdf:about="http://experiment.worldcat.org/entity/work/data/2286874231#Person/ecklon_christian_frederik_1795_1868">
+        <schema:familyName>Ecklon</schema:familyName>
+        <schema:givenName>Christian Frederik</schema:givenName>
+        <schema:name>Christian Frederik Ecklon</schema:name>
+        <schema:birthDate>1795</schema:birthDate>
+        <schema:deathDate>1868</schema:deathDate>
+      </schema:Person>
+    </schema:creator>
+    <schema:name>Enumeratio plantarum Africae australis extratropicae : quae collectae, determinatae et expositae</schema:name>
+    <schema:datePublished>1834/1837</schema:datePublished>
+    <schema:publication>
+      <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/5158897#PublicationEvent/hamburgi_sumtibus_auctorum_prostat_apud_perthes_&amp;_besser_1835_1837">
+        <schema:location>
+          <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/2286874231#Place/hamburgi">
+            <schema:name>Hamburgi</schema:name>
+          </schema:Place>
+        </schema:location>
+        <schema:organizer>
+          <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/2286874231#Agent/sumtibus_auctorum_prostat_apud_perthes_&amp;_besser">
+            <schema:name>Sumtibus auctorum. Prostat apud Perthes &amp; Besser</schema:name>
+          </bgn:Agent>
+        </schema:organizer>
+        <schema:startDate>1835-1837</schema:startDate>
+      </schema:PublicationEvent>
+    </schema:publication>
+    <schema:contributor>
+      <schema:Person rdf:about="http://viaf.org/viaf/29882971">
+        <schema:familyName>Zeyher</schema:familyName>
+        <schema:givenName>Carl Ludwig Philipp</schema:givenName>
+        <schema:name>Carl Ludwig Philipp Zeyher</schema:name>
+        <schema:birthDate>1799</schema:birthDate>
+        <schema:deathDate>1858</schema:deathDate>
+      </schema:Person>
+    </schema:contributor>
+    <schema:publisher rdf:resource="http://experiment.worldcat.org/entity/work/data/2286874231#Agent/sumtibus_auctorum_prostat_apud_perthes_&amp;_besser"/>
+    <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/2286874231"/>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.loc.gov/authorities/subjects/sh2007102113">
+        <schema:name>Botany--South Africa</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <wdrs:describedby>
+      <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/5158897">
+        <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+        <schema:about rdf:resource="http://www.worldcat.org/oclc/5158897"/>
+        <schema:dateModified>2019-11-23</schema:dateModified>
+        <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+      </genont:ContentTypeGenericResource>
+    </wdrs:describedby>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/gw">
+        <dcterms:identifier>gw</dcterms:identifier>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:datePublished>1835/1837</schema:datePublished>
+    <schema:productID>5158897</schema:productID>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/836869">
+        <schema:name>Botany</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <library:placeOfPublication rdf:resource="http://experiment.worldcat.org/entity/work/data/2286874231#Place/hamburgi"/>
+    <schema:inLanguage>la</schema:inLanguage>
+    <library:oclcnum>5158897</library:oclcnum>
+    <rdf:type rdf:resource="http://schema.org/Book"/>
+    <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+  </schema:CreativeWork>
+</rdf:RDF>

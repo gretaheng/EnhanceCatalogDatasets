@@ -1,0 +1,135 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/11500788">
+    <schema:alternateName>Histoire naturelle. Botanique</schema:alternateName>
+    <rdf:type rdf:resource="http://schema.org/Book"/>
+    <schema:about>
+      <schema:Place rdf:about="http://id.worldcat.org/fast/1205830">
+        <schema:name>Ethiopia.</schema:name>
+      </schema:Place>
+    </schema:about>
+    <library:oclcnum>11500788</library:oclcnum>
+    <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+    <schema:name>Tentamen floræ Abyssinicæ : seu, Enumeratio plantarum hucusque in plerisque Abyssiniæ provinciis detectarum et præcipue a beatis doctoribus Richard Quartin Dillon et Antonio Petit (annis 1838-1843) lectarum</schema:name>
+    <schema:productID>11500788</schema:productID>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/fr">
+        <dcterms:identifier>fr</dcterms:identifier>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/919074035#Topic/botanique_ethiopie">
+        <schema:name>Botanique--Éthiopie</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:publication>
+      <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/11500788#PublicationEvent/parisiis_arthus_bertrand_1847_1851">
+        <schema:location>
+          <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/919074035#Place/parisiis">
+            <schema:name>Parisiis</schema:name>
+          </schema:Place>
+        </schema:location>
+        <schema:organizer>
+          <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/919074035#Agent/arthus_bertrand">
+            <schema:name>Arthus Bertrand</schema:name>
+          </bgn:Agent>
+        </schema:organizer>
+        <schema:startDate></schema:startDate>
+      </schema:PublicationEvent>
+    </schema:publication>
+    <schema:contributor>
+      <schema:Person rdf:about="http://viaf.org/viaf/68401419">
+        <schema:familyName>Quartin-Dillon</schema:familyName>
+        <schema:givenName>Léon Richard</schema:givenName>
+        <schema:name>M. Léon Richard Quartin-Dillon</schema:name>
+        <schema:deathDate>1840</schema:deathDate>
+      </schema:Person>
+    </schema:contributor>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/919074035#Topic/botany_ethiopia">
+        <schema:hasPart rdf:resource="http://id.loc.gov/authorities/subjects/sh85015976"/>
+        <schema:name>Botany--Ethiopia</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:inLanguage>la</schema:inLanguage>
+    <schema:isPartOf>
+      <bgn:PublicationSeries rdf:about="http://experiment.worldcat.org/entity/work/data/919074035#Series/voyage_en_abyssinie">
+        <schema:hasPart rdf:resource="http://www.worldcat.org/oclc/11500788"/>
+        <schema:name>Voyage en Abyssinie.</schema:name>
+      </bgn:PublicationSeries>
+    </schema:isPartOf>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/836869">
+        <schema:name>Botany</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:isSimilarTo>
+      <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/691085540">
+        <schema:isSimilarTo rdf:resource="http://www.worldcat.org/oclc/11500788"/>
+        <rdfs:label>Tentamen floræ Abyssinicæ.</rdfs:label>
+        <schema:description>Online version:</schema:description>
+      </schema:CreativeWork>
+    </schema:isSimilarTo>
+    <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/919074035"/>
+    <schema:creator>
+      <schema:Person rdf:about="http://viaf.org/viaf/68959730">
+        <schema:familyName>Richard</schema:familyName>
+        <schema:givenName>Achille</schema:givenName>
+        <schema:name>Achille Richard</schema:name>
+        <schema:birthDate>1794</schema:birthDate>
+        <schema:deathDate>1852</schema:deathDate>
+      </schema:Person>
+    </schema:creator>
+    <library:placeOfPublication rdf:resource="http://experiment.worldcat.org/entity/work/data/919074035#Place/parisiis"/>
+    <schema:publisher rdf:resource="http://experiment.worldcat.org/entity/work/data/919074035#Agent/arthus_bertrand"/>
+    <schema:datePublished>1847/1851</schema:datePublished>
+    <wdrs:describedby>
+      <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/11500788">
+        <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+        <schema:about rdf:resource="http://www.worldcat.org/oclc/11500788"/>
+        <schema:dateModified>2018-11-07</schema:dateModified>
+        <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+      </genont:ContentTypeGenericResource>
+    </wdrs:describedby>
+    <rdfs:seeAlso>
+      <schema:CreativeWork rdf:about="http://experiment.worldcat.org/entity/work/data/919074035#CreativeWork/voyage_en_abyssinie">
+        <schema:name>Voyage en Abyssinie.</schema:name>
+        <schema:creator>
+          <schema:Person rdf:about="http://viaf.org/viaf/71385140">
+            <schema:familyName>Lefévre</schema:familyName>
+            <schema:givenName>Charlemagne Théophile</schema:givenName>
+            <schema:name>Charlemagne Théophile Lefévre</schema:name>
+            <schema:birthDate>1811</schema:birthDate>
+            <schema:deathDate>1860</schema:deathDate>
+          </schema:Person>
+        </schema:creator>
+      </schema:CreativeWork>
+    </rdfs:seeAlso>
+    <schema:contributor>
+      <schema:Person rdf:about="http://viaf.org/viaf/69274830">
+        <schema:familyName>Petit</schema:familyName>
+        <schema:givenName>A.</schema:givenName>
+        <schema:givenName>Antoine</schema:givenName>
+        <schema:name>Antoine Petit</schema:name>
+        <schema:deathDate>1843</schema:deathDate>
+      </schema:Person>
+    </schema:contributor>
+    <schema:isPartOf>
+      <bgn:PublicationSeries rdf:about="http://experiment.worldcat.org/entity/work/data/919074035#Series/voyage_en_abyssinie_3e_ptie_t_4_&amp;_5_histoire_naturelle_botanique">
+        <schema:hasPart rdf:resource="http://www.worldcat.org/oclc/11500788"/>
+        <schema:name>Voyage en Abyssinie. 3e ptie, t. 4 &amp; 5, Histoire naturelle. Botanique.</schema:name>
+      </bgn:PublicationSeries>
+    </schema:isPartOf>
+    <schema:contributor rdf:resource="http://viaf.org/viaf/71385140"/>
+  </schema:CreativeWork>
+</rdf:RDF>

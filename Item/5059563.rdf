@@ -1,0 +1,84 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <schema:Book rdf:about="http://www.worldcat.org/oclc/5059563">
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/3769974446#Topic/botany_congo_democratic_republic">
+        <schema:hasPart rdf:resource="http://id.loc.gov/authorities/subjects/sh85015976"/>
+        <schema:name>Botany--Congo (Democratic Republic)</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:creator>
+      <schema:Person rdf:about="http://viaf.org/viaf/91930138">
+        <schema:familyName>Wildeman</schema:familyName>
+        <schema:givenName>E. de</schema:givenName>
+        <schema:givenName>Emile</schema:givenName>
+        <schema:name>Emile Wildeman</schema:name>
+        <schema:birthDate>1866</schema:birthDate>
+        <schema:deathDate>1947</schema:deathDate>
+      </schema:Person>
+    </schema:creator>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/836869">
+        <schema:name>Botany</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+    <library:oclcnum>5059563</library:oclcnum>
+    <schema:name>Decades specierum novarum florae Congolensis : (Coll. Dr J. Bequaert)</schema:name>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/be">
+        <dcterms:identifier>be</dcterms:identifier>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:isPartOf>
+      <bgn:PublicationSeries rdf:about="http://experiment.worldcat.org/entity/work/data/3769974446#Series/revue_zoologique_africaine_supplement_botanique">
+        <schema:hasPart rdf:resource="http://www.worldcat.org/oclc/5059563"/>
+        <schema:name>Revue Zoologique Africaine. Supplément Botanique ;</schema:name>
+      </bgn:PublicationSeries>
+    </schema:isPartOf>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/3769974446#Place/bruxelles">
+        <schema:name>Bruxelles</schema:name>
+      </schema:Place>
+    </library:placeOfPublication>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:publication>
+      <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/5059563#PublicationEvent/bruxelles_hayez_1920_1922">
+        <schema:location rdf:resource="http://experiment.worldcat.org/entity/work/data/3769974446#Place/bruxelles"/>
+        <schema:organizer>
+          <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/3769974446#Agent/hayez">
+            <schema:name>Hayez</schema:name>
+          </bgn:Agent>
+        </schema:organizer>
+        <schema:startDate>1920-1922</schema:startDate>
+      </schema:PublicationEvent>
+    </schema:publication>
+    <wdrs:describedby>
+      <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/5059563">
+        <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+        <schema:about rdf:resource="http://www.worldcat.org/oclc/5059563"/>
+        <schema:dateModified>2018-11-10</schema:dateModified>
+        <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+      </genont:ContentTypeGenericResource>
+    </wdrs:describedby>
+    <schema:publisher rdf:resource="http://experiment.worldcat.org/entity/work/data/3769974446#Agent/hayez"/>
+    <schema:productID>5059563</schema:productID>
+    <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/3769974446"/>
+    <schema:datePublished>1920/1922</schema:datePublished>
+    <schema:inLanguage>fr</schema:inLanguage>
+    <schema:about>
+      <schema:Place rdf:about="http://id.worldcat.org/fast/1208723">
+        <schema:name>Congo (Democratic Republic)</schema:name>
+      </schema:Place>
+    </schema:about>
+  </schema:Book>
+</rdf:RDF>

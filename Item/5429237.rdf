@@ -1,0 +1,77 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/5429237">
+    <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+    <schema:about>
+      <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/5429237">
+        <schema:publisher>
+          <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/680250323#Agent/j_edman">
+            <schema:name>J. Edman</schema:name>
+          </bgn:Agent>
+        </schema:publisher>
+        <schema:about>
+          <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/680250323#Topic/botany_south_africa_cape_of_good_hope">
+            <schema:hasPart rdf:resource="http://id.loc.gov/authorities/subjects/sh2007102113"/>
+            <schema:name>Botany--South Africa--Cape of Good Hope</schema:name>
+          </schema:Intangible>
+        </schema:about>
+        <schema:creator>
+          <schema:Person rdf:about="http://viaf.org/viaf/41847187">
+            <schema:familyName>Thunberg</schema:familyName>
+            <schema:givenName>Carl Peter</schema:givenName>
+            <schema:name>Carl Peter Thunberg</schema:name>
+            <schema:birthDate>1743</schema:birthDate>
+            <schema:deathDate>1828</schema:deathDate>
+          </schema:Person>
+        </schema:creator>
+        <schema:productID>5429237</schema:productID>
+        <schema:about>
+          <schema:Intangible rdf:about="http://id.worldcat.org/fast/836869">
+            <schema:name>Botany</schema:name>
+          </schema:Intangible>
+        </schema:about>
+        <library:oclcnum>5429237</library:oclcnum>
+        <schema:publication>
+          <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/5429237#PublicationEvent/upsaliae_j_edman_1794_1800">
+            <schema:location>
+              <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/680250323#Place/upsaliae">
+                <schema:name>Upsaliæ</schema:name>
+              </schema:Place>
+            </schema:location>
+            <schema:organizer rdf:resource="http://experiment.worldcat.org/entity/work/data/680250323#Agent/j_edman"/>
+            <schema:startDate>1794-1800</schema:startDate>
+          </schema:PublicationEvent>
+        </schema:publication>
+        <library:placeOfPublication>
+          <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/sw">
+            <dcterms:identifier>sw</dcterms:identifier>
+          </schema:Place>
+        </library:placeOfPublication>
+        <schema:datePublished>1794/1800</schema:datePublished>
+        <schema:name>Prodromus plantarum Capensium : quas in promontorio Bonæ Spei Africes, annis 1772-1775</schema:name>
+        <library:placeOfPublication rdf:resource="http://experiment.worldcat.org/entity/work/data/680250323#Place/upsaliae"/>
+        <wdrs:describedby rdf:resource="http://www.worldcat.org/title/-/oclc/5429237"/>
+        <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/680250323"/>
+        <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+        <rdf:type rdf:resource="http://schema.org/Book"/>
+        <schema:about>
+          <schema:Place rdf:about="http://id.worldcat.org/fast/1213442">
+            <schema:name>South Africa--Cape of Good Hope.</schema:name>
+          </schema:Place>
+        </schema:about>
+        <schema:inLanguage>la</schema:inLanguage>
+      </schema:CreativeWork>
+    </schema:about>
+    <schema:dateModified>2018-11-11</schema:dateModified>
+    <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+  </genont:ContentTypeGenericResource>
+</rdf:RDF>

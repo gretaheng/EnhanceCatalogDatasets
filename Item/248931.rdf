@@ -1,0 +1,131 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/248931">
+    <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+    <schema:about>
+      <schema:Book rdf:about="http://www.worldcat.org/oclc/248931">
+        <schema:about>
+          <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/4636102#Topic/lepidoptera_georgia">
+            <schema:hasPart rdf:resource="http://id.loc.gov/authorities/subjects/sh85076067"/>
+            <schema:name xml:lang="en">Lepidoptera--Georgia</schema:name>
+          </schema:Intangible>
+        </schema:about>
+        <schema:about>
+          <schema:Intangible rdf:about="http://dewey.info/class/595.78/"/>
+        </schema:about>
+        <schema:datePublished>1797</schema:datePublished>
+        <schema:genre xml:lang="en">Early works to 1800</schema:genre>
+        <wdrs:describedby rdf:resource="http://www.worldcat.org/title/-/oclc/248931"/>
+        <schema:datePublished>MDCCXCVII. 1797</schema:datePublished>
+        <schema:contributor>
+          <schema:Person rdf:about="http://viaf.org/viaf/309833790">
+            <schema:familyName>White</schema:familyName>
+            <schema:givenName>John</schema:givenName>
+            <schema:name>John White</schema:name>
+            <schema:birthDate>active 1785</schema:birthDate>
+            <schema:deathDate>1816,</schema:deathDate>
+          </schema:Person>
+        </schema:contributor>
+        <schema:url rdf:resource="http://www.botanicus.org/Title.aspx?PageID=268914"/>
+        <schema:publication>
+          <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/248931#PublicationEvent/london_printed_by_t_bensley_for_j_edwards_pall_mall_cadell_and_davies_strand_and_j_white_fleet_street_mdccxcvii_1797">
+            <schema:location>
+              <schema:Place rdf:about="http://dbpedia.org/resource/London">
+                <schema:name>London</schema:name>
+              </schema:Place>
+            </schema:location>
+            <schema:organizer>
+              <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/4636102#Agent/printed_by_t_bensley_for_j_edwards_pall_mall_cadell_and_davies_strand_and_j_white_fleet_street">
+                <schema:name>Printed by T. Bensley, for J. Edwards, Pall Mall, Cadell and Davies, Strand, and J. White, Fleet Street</schema:name>
+              </bgn:Agent>
+            </schema:organizer>
+            <schema:startDate>MDCCXCVII. 1797</schema:startDate>
+          </schema:PublicationEvent>
+        </schema:publication>
+        <schema:publisher rdf:resource="http://experiment.worldcat.org/entity/work/data/4636102#Agent/printed_by_t_bensley_for_j_edwards_pall_mall_cadell_and_davies_strand_and_j_white_fleet_street"/>
+        <schema:genre xml:lang="en">Early works</schema:genre>
+        <schema:productID>248931</schema:productID>
+        <schema:alternateName>Histoire naturelle des lépidoptères les plus rares de Georgie</schema:alternateName>
+        <schema:contributor>
+          <schema:Person rdf:about="http://viaf.org/viaf/74083354">
+            <schema:familyName>Edwards</schema:familyName>
+            <schema:givenName>James</schema:givenName>
+            <schema:name>James Edwards</schema:name>
+            <schema:birthDate>1756</schema:birthDate>
+            <schema:deathDate>1816,</schema:deathDate>
+          </schema:Person>
+        </schema:contributor>
+        <schema:name xml:lang="en">The natural history of the rarer lepidopterous insects of Georgia. : Including their systematic characters, the particulars of their several metamorphoses, and the plants on which they feed.</schema:name>
+        <library:oclcnum>248931</library:oclcnum>
+        <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/4636102"/>
+        <library:placeOfPublication rdf:resource="http://dbpedia.org/resource/London"/>
+        <schema:contributor>
+          <schema:Person rdf:about="http://viaf.org/viaf/9900977">
+            <schema:familyName>Bensley</schema:familyName>
+            <schema:givenName>Thomas</schema:givenName>
+            <schema:name>Thomas Bensley</schema:name>
+            <schema:birthDate>approximately 1760</schema:birthDate>
+            <schema:deathDate>1835,</schema:deathDate>
+          </schema:Person>
+        </schema:contributor>
+        <schema:about>
+          <schema:Place rdf:about="http://id.worldcat.org/fast/1204622">
+            <schema:name>Georgia.</schema:name>
+          </schema:Place>
+        </schema:about>
+        <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+        <bgn:translationOfWork>
+          <schema:CreativeWork rdf:about="http://www.worldcat.org/title/-/oclc/248931#CreativeWork/unidentifiedOriginalWork">
+            <schema:inLanguage>en</schema:inLanguage>
+          </schema:CreativeWork>
+        </bgn:translationOfWork>
+        <schema:inLanguage>en</schema:inLanguage>
+        <schema:creator>
+          <schema:Person rdf:about="http://viaf.org/viaf/74922285">
+            <schema:familyName>Abbot</schema:familyName>
+            <schema:givenName>John</schema:givenName>
+            <schema:name>John Abbot</schema:name>
+            <schema:birthDate>1751</schema:birthDate>
+            <schema:deathDate>1840</schema:deathDate>
+          </schema:Person>
+        </schema:creator>
+        <schema:contributor>
+          <schema:Organization rdf:about="http://experiment.worldcat.org/entity/work/data/4636102#Organization/cadell_&amp;_davies">
+            <schema:name>Cadell &amp; Davies,</schema:name>
+          </schema:Organization>
+        </schema:contributor>
+        <library:placeOfPublication>
+          <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/enk">
+            <dcterms:identifier>enk</dcterms:identifier>
+          </schema:Place>
+        </library:placeOfPublication>
+        <schema:about>
+          <schema:Intangible rdf:about="http://id.worldcat.org/fast/996288">
+            <schema:name xml:lang="en">Lepidoptera</schema:name>
+          </schema:Intangible>
+        </schema:about>
+        <schema:editor>
+          <schema:Person rdf:about="http://viaf.org/viaf/98223258">
+            <schema:familyName>Smith</schema:familyName>
+            <schema:givenName>James Edward</schema:givenName>
+            <schema:name>James Edward Smith</schema:name>
+            <schema:birthDate>1759</schema:birthDate>
+            <schema:deathDate>1828,</schema:deathDate>
+          </schema:Person>
+        </schema:editor>
+        <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+      </schema:Book>
+    </schema:about>
+    <schema:dateModified>2019-03-18</schema:dateModified>
+    <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+  </genont:ContentTypeGenericResource>
+</rdf:RDF>

@@ -1,0 +1,84 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/5861199">
+    <schema:productID>5861199</schema:productID>
+    <schema:name>Handleiding tot de kennis der flora van Nederlandsch Indië. Beschrijving van de families en geslachten der Nederl.</schema:name>
+    <schema:description>1. deel. Dicotyledones dialypetalae: 1. stuk. Thalamiflorae. Disciflorae. Fam. 1. Ranunculaceae. Fam. 42. Moringaceae. 2. stuk. Calyciflorae. Fam. 43. Connaraceae. Fam. 66. Cornaceae.--2. deel. Dicotyledones gamopetalae: 1. stuk. Inferae. Heteromerae. Fam. 67. Caprifoliaceae. Fam. 82. Styracaceae. 2. stuk. Bicarpellatae. Fam. 83. Oleaceae. Fam. 102. Plantaginaceae.--3. deel. Dicotyledones monochlamydeae, Monocotyledones en Gymnospermae: 1. stuk. Dicotyledones monochlamydeae. Fam. 103. Nyctaginaceae. Fam. 129. Casuarinaceae.</schema:description>
+    <schema:isSimilarTo>
+      <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/610606261">
+        <schema:isSimilarTo rdf:resource="http://www.worldcat.org/oclc/5861199"/>
+        <rdfs:label>Handleiding tot de kennis der flora van Nederlandsch Indië.</rdfs:label>
+        <schema:description>Online version:</schema:description>
+      </schema:CreativeWork>
+    </schema:isSimilarTo>
+    <schema:about>
+      <schema:Place rdf:about="http://id.worldcat.org/fast/1209242">
+        <schema:name>Indonesia.</schema:name>
+      </schema:Place>
+    </schema:about>
+    <schema:creator>
+      <schema:Person rdf:about="http://viaf.org/viaf/231822158">
+        <schema:familyName>Boerlage</schema:familyName>
+        <schema:givenName>Jacob Gijsbert</schema:givenName>
+        <schema:name>Jacob Gijsbert Boerlage</schema:name>
+        <schema:birthDate>1849</schema:birthDate>
+      </schema:Person>
+    </schema:creator>
+    <schema:inLanguage>nl</schema:inLanguage>
+    <schema:datePublished>1890/1900</schema:datePublished>
+    <wdrs:describedby>
+      <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/5861199">
+        <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+        <schema:about rdf:resource="http://www.worldcat.org/oclc/5861199"/>
+        <schema:dateModified>2018-11-10</schema:dateModified>
+        <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+      </genont:ContentTypeGenericResource>
+    </wdrs:describedby>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.loc.gov/authorities/subjects/sh2009117460">
+        <schema:name>Botany--Indonesia</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:publisher>
+      <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/233540150#Agent/firma_voorheen_e_j_drill">
+        <schema:name>Firma Voorheen E.J. Drill</schema:name>
+      </bgn:Agent>
+    </schema:publisher>
+    <rdf:type rdf:resource="http://schema.org/Book"/>
+    <library:oclcnum>5861199</library:oclcnum>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/836869">
+        <schema:name>Botany</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:publication>
+      <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/5861199#PublicationEvent/leiden_firma_voorheen_e_j_drill_1890_1900">
+        <schema:location>
+          <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/233540150#Place/leiden">
+            <schema:name>Leiden</schema:name>
+          </schema:Place>
+        </schema:location>
+        <schema:organizer rdf:resource="http://experiment.worldcat.org/entity/work/data/233540150#Agent/firma_voorheen_e_j_drill"/>
+        <schema:startDate>1890-1900</schema:startDate>
+      </schema:PublicationEvent>
+    </schema:publication>
+    <library:placeOfPublication rdf:resource="http://experiment.worldcat.org/entity/work/data/233540150#Place/leiden"/>
+    <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/233540150"/>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/ne">
+        <dcterms:identifier>ne</dcterms:identifier>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+  </schema:CreativeWork>
+</rdf:RDF>

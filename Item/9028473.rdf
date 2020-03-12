@@ -1,0 +1,79 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <schema:Book rdf:about="http://www.worldcat.org/oclc/9028473">
+    <library:oclcnum>9028473</library:oclcnum>
+    <schema:datePublished>1815/1840</schema:datePublished>
+    <schema:isSimilarTo>
+      <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/748455905">
+        <schema:isSimilarTo rdf:resource="http://www.worldcat.org/oclc/9028473"/>
+        <rdfs:label>Autikon botanikon.</rdfs:label>
+        <schema:description>Online version:</schema:description>
+      </schema:CreativeWork>
+    </schema:isSimilarTo>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/4160657061#Place/philadelphia">
+        <schema:name>Philadelphia</schema:name>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+    <schema:about>
+      <schema:Place rdf:about="http://id.worldcat.org/fast/1242475">
+        <schema:name>North America.</schema:name>
+      </schema:Place>
+    </schema:about>
+    <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/4160657061"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:publication>
+      <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/9028473#PublicationEvent/philadelphia_1815_1840">
+        <schema:location rdf:resource="http://experiment.worldcat.org/entity/work/data/4160657061#Place/philadelphia"/>
+        <schema:startDate>1815-1840</schema:startDate>
+      </schema:PublicationEvent>
+    </schema:publication>
+    <schema:name xml:lang="en">Autikon botanikon : or botanical illustrations of 2500. New, rare or beautiful Trees, Shrubs, Plants, Vines, Lilies, Grasses, Ferns ...</schema:name>
+    <wdrs:describedby>
+      <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/9028473">
+        <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+        <schema:about rdf:resource="http://www.worldcat.org/oclc/9028473"/>
+        <schema:dateModified>2019-02-26</schema:dateModified>
+        <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+      </genont:ContentTypeGenericResource>
+    </wdrs:describedby>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.loc.gov/authorities/subjects/sh2007102111">
+        <schema:name xml:lang="en">Botany--North America</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:inLanguage>en</schema:inLanguage>
+    <schema:productID>9028473</schema:productID>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/836869">
+        <schema:name xml:lang="en">Botany</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:creator>
+      <schema:Person rdf:about="http://viaf.org/viaf/56642004">
+        <schema:familyName>Rafinesque</schema:familyName>
+        <schema:givenName>C. S.</schema:givenName>
+        <schema:givenName>Constantine Samuel</schema:givenName>
+        <schema:name>Constantine Samuel Rafinesque</schema:name>
+        <schema:birthDate>1783</schema:birthDate>
+        <schema:deathDate>1840</schema:deathDate>
+      </schema:Person>
+    </schema:creator>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/pau">
+        <dcterms:identifier>pau</dcterms:identifier>
+      </schema:Place>
+    </library:placeOfPublication>
+  </schema:Book>
+</rdf:RDF>

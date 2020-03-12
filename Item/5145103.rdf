@@ -1,0 +1,103 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/5145103">
+    <schema:productID>5145103</schema:productID>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/876074491#Place/maurice">
+        <schema:name>Maurice</schema:name>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/1065823">
+        <schema:name>Plants</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:isSimilarTo>
+      <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/714116603">
+        <schema:isSimilarTo rdf:resource="http://www.worldcat.org/oclc/5145103"/>
+        <rdfs:label>Hortus Mauritianus.</rdfs:label>
+        <schema:description>Online version:</schema:description>
+      </schema:CreativeWork>
+    </schema:isSimilarTo>
+    <schema:alternateName>Énumération des plantes, exotiques et indigènes</schema:alternateName>
+    <schema:publisher>
+      <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/876074491#Agent/imprimerie_d_aime_mamarot_et_compagnie">
+        <schema:name>Imprimerie d'Aimé Mamarot et Compagnie</schema:name>
+      </bgn:Agent>
+    </schema:publisher>
+    <schema:publication>
+      <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/5145103#PublicationEvent/maurice_imprimerie_d_aime_mamarot_et_compagnie_1837">
+        <schema:location rdf:resource="http://experiment.worldcat.org/entity/work/data/876074491#Place/maurice"/>
+        <schema:organizer rdf:resource="http://experiment.worldcat.org/entity/work/data/876074491#Agent/imprimerie_d_aime_mamarot_et_compagnie"/>
+        <schema:startDate>1837</schema:startDate>
+      </schema:PublicationEvent>
+    </schema:publication>
+    <schema:inLanguage>fr</schema:inLanguage>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/836869">
+        <schema:name>Botany</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/mf">
+        <dcterms:identifier>mf</dcterms:identifier>
+      </schema:Place>
+    </library:placeOfPublication>
+    <rdf:type rdf:resource="http://schema.org/Book"/>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/876074491#Topic/botany_mauritius">
+        <schema:hasPart rdf:resource="http://id.loc.gov/authorities/subjects/sh85015976"/>
+        <schema:name>Botany--Mauritius</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:about>
+      <schema:Place rdf:about="http://id.worldcat.org/fast/1205325">
+        <schema:name>Mauritius.</schema:name>
+      </schema:Place>
+    </schema:about>
+    <schema:isPartOf>
+      <bgn:PublicationSeries rdf:about="http://experiment.worldcat.org/entity/work/data/876074491#Series/plant_taxonomic_literature_microfiche_collection">
+        <schema:hasPart rdf:resource="http://www.worldcat.org/oclc/5145103"/>
+        <schema:name>Plant taxonomic literature microfiche collection.</schema:name>
+      </bgn:PublicationSeries>
+    </schema:isPartOf>
+    <schema:name>Hortus Mauritianus : ou énumération des plantes, exotiques et indigènes, qui croissent a l'Ile Maurice, disposées d'aprés la méthode naturelle</schema:name>
+    <schema:creator>
+      <schema:Person rdf:about="http://viaf.org/viaf/290477">
+        <schema:familyName>Bojer</schema:familyName>
+        <schema:givenName>Wenzel</schema:givenName>
+        <schema:name>Wenzel Bojer</schema:name>
+        <schema:birthDate>1797</schema:birthDate>
+        <schema:deathDate>1856</schema:deathDate>
+      </schema:Person>
+    </schema:creator>
+    <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/876074491"/>
+    <wdrs:describedby>
+      <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/5145103">
+        <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+        <schema:about rdf:resource="http://www.worldcat.org/oclc/5145103"/>
+        <schema:dateModified>2018-11-11</schema:dateModified>
+        <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+      </genont:ContentTypeGenericResource>
+    </wdrs:describedby>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/876074491#Topic/plants_mauritius">
+        <schema:hasPart rdf:resource="http://id.loc.gov/authorities/subjects/sh85102839"/>
+        <schema:name>Plants--Mauritius</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:datePublished>1837</schema:datePublished>
+    <library:oclcnum>5145103</library:oclcnum>
+  </schema:CreativeWork>
+</rdf:RDF>

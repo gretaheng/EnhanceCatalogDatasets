@@ -1,0 +1,121 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/4557059">
+    <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+    <schema:about>
+      <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/4557059">
+        <wdrs:describedby rdf:resource="http://www.worldcat.org/title/-/oclc/4557059"/>
+        <schema:alternateName>Muscologia recentiorum seu analysis</schema:alternateName>
+        <schema:about>
+          <schema:Intangible rdf:about="http://id.worldcat.org/fast/1026803">
+            <schema:name>Mosses</schema:name>
+          </schema:Intangible>
+        </schema:about>
+        <schema:name>Mvscologia recentiorvm sev analysis, historia et descriptio methodica omnivm muscorvm frondosorvm hvcvsqve cognitorvm ad normam Hedwigii</schema:name>
+        <schema:contributor>
+          <schema:Person rdf:about="http://viaf.org/viaf/10117404">
+            <schema:familyName>Liebe</schema:familyName>
+            <schema:givenName>Gottlob August</schema:givenName>
+            <schema:name>Gottlob August Liebe</schema:name>
+            <schema:birthDate>1746</schema:birthDate>
+            <schema:deathDate>1819,</schema:deathDate>
+          </schema:Person>
+        </schema:contributor>
+        <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/14799797"/>
+        <library:placeOfPublication>
+          <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/14799797#Place/parisiis">
+            <schema:name>Parisiis</schema:name>
+          </schema:Place>
+        </library:placeOfPublication>
+        <schema:datePublished>1797/1803</schema:datePublished>
+        <schema:datePublished>MDCCXCVII/MDCCCIII.</schema:datePublished>
+        <schema:about>
+          <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/14799797#Topic/botanique_ouvrages_avant_1800">
+            <schema:name>Botanique--Ouvrages avant 1800</schema:name>
+          </schema:Intangible>
+        </schema:about>
+        <schema:productID>4557059</schema:productID>
+        <schema:creator>
+          <schema:Person rdf:about="http://viaf.org/viaf/12298652">
+            <schema:familyName>Bridel-Brideri</schema:familyName>
+            <schema:givenName>Samuel Elisée de</schema:givenName>
+            <schema:name>Baron Samuel Elisée de Bridel-Brideri</schema:name>
+            <schema:birthDate>1761</schema:birthDate>
+            <schema:deathDate>1828</schema:deathDate>
+          </schema:Person>
+        </schema:creator>
+        <schema:contributor>
+          <schema:Person rdf:about="http://viaf.org/viaf/9902339">
+            <schema:familyName>Barrois</schema:familyName>
+            <schema:givenName>Charles-Jacques</schema:givenName>
+            <schema:name>Charles-Jacques Barrois</schema:name>
+            <schema:birthDate>1777</schema:birthDate>
+          </schema:Person>
+        </schema:contributor>
+        <schema:about>
+          <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/14799797#Topic/mousses_ouvrages_avant_1800">
+            <schema:name>Mousses--Ouvrages avant 1800</schema:name>
+          </schema:Intangible>
+        </schema:about>
+        <schema:contributor>
+          <schema:Organization rdf:about="http://viaf.org/viaf/132616758">
+            <schema:name>William Campbell Steere Collection.</schema:name>
+          </schema:Organization>
+        </schema:contributor>
+        <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+        <library:placeOfPublication>
+          <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/14799797#Place/gothae">
+            <schema:name>Gothae</schema:name>
+          </schema:Place>
+        </library:placeOfPublication>
+        <rdf:type rdf:resource="http://schema.org/Book"/>
+        <schema:publication>
+          <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/4557059#PublicationEvent/gothae_apud_carolum_guil_ettingerum_parisiis_apud_barrois_iuniorem_mdccxcvii_mdccciii_1797_1803">
+            <schema:location rdf:resource="http://experiment.worldcat.org/entity/work/data/14799797#Place/gothae"/>
+            <schema:location rdf:resource="http://experiment.worldcat.org/entity/work/data/14799797#Place/parisiis"/>
+            <schema:organizer>
+              <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/14799797#Agent/apud_carolum_guil_ettingerum">
+                <schema:name>Apud Carolum Guil. Ettingerum</schema:name>
+              </bgn:Agent>
+            </schema:organizer>
+            <schema:organizer>
+              <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/14799797#Agent/apud_barrois_iuniorem">
+                <schema:name>Apud Barrois iuniorem</schema:name>
+              </bgn:Agent>
+            </schema:organizer>
+            <schema:startDate>MDCCXCVII-MDCCCIII.</schema:startDate>
+          </schema:PublicationEvent>
+        </schema:publication>
+        <schema:inLanguage>la</schema:inLanguage>
+        <schema:publisher rdf:resource="http://experiment.worldcat.org/entity/work/data/14799797#Agent/apud_carolum_guil_ettingerum"/>
+        <schema:contributor>
+          <schema:Person rdf:about="http://viaf.org/viaf/230674387">
+            <schema:familyName>Ettinger</schema:familyName>
+            <schema:givenName>Carl Wilhelm</schema:givenName>
+            <schema:name>Carl Wilhelm Ettinger</schema:name>
+            <schema:birthDate>1742</schema:birthDate>
+            <schema:deathDate>1804,</schema:deathDate>
+          </schema:Person>
+        </schema:contributor>
+        <library:placeOfPublication>
+          <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/gw">
+            <dcterms:identifier>gw</dcterms:identifier>
+          </schema:Place>
+        </library:placeOfPublication>
+        <library:oclcnum>4557059</library:oclcnum>
+        <schema:publisher rdf:resource="http://experiment.worldcat.org/entity/work/data/14799797#Agent/apud_barrois_iuniorem"/>
+      </schema:CreativeWork>
+    </schema:about>
+    <schema:dateModified>2018-11-11</schema:dateModified>
+    <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+  </genont:ContentTypeGenericResource>
+</rdf:RDF>

@@ -1,0 +1,74 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <schema:Book rdf:about="http://www.worldcat.org/oclc/4913670">
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://dbpedia.org/resource/London">
+        <schema:name>London</schema:name>
+      </schema:Place>
+    </library:placeOfPublication>
+    <library:oclcnum>4913670</library:oclcnum>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/enk">
+        <dcterms:identifier>enk</dcterms:identifier>
+      </schema:Place>
+    </library:placeOfPublication>
+    <wdrs:describedby>
+      <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/4913670">
+        <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+        <schema:about rdf:resource="http://www.worldcat.org/oclc/4913670"/>
+        <schema:dateModified>2018-11-10</schema:dateModified>
+        <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+      </genont:ContentTypeGenericResource>
+    </wdrs:describedby>
+    <schema:publication>
+      <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/4913670#PublicationEvent/london_l_reeve_1865_1875">
+        <schema:location rdf:resource="http://dbpedia.org/resource/London"/>
+        <schema:organizer>
+          <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/24502737#Agent/l_reeve">
+            <schema:name>L. Reeve</schema:name>
+          </bgn:Agent>
+        </schema:organizer>
+        <schema:startDate>1865-1875</schema:startDate>
+      </schema:PublicationEvent>
+    </schema:publication>
+    <schema:productID>4913670</schema:productID>
+    <schema:alternateName>Orchidaceous plants</schema:alternateName>
+    <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/24502737"/>
+    <schema:name xml:lang="en">Select orchidaceous plants : second series</schema:name>
+    <schema:datePublished>1865/1875</schema:datePublished>
+    <schema:inLanguage>en</schema:inLanguage>
+    <schema:publisher rdf:resource="http://experiment.worldcat.org/entity/work/data/24502737#Agent/l_reeve"/>
+    <schema:contributor>
+      <schema:Person rdf:about="http://viaf.org/viaf/39125094">
+        <schema:familyName>Williams</schema:familyName>
+        <schema:givenName>Benjamin Samuel</schema:givenName>
+        <schema:name>Benjamin Samuel Williams</schema:name>
+        <schema:birthDate>1822</schema:birthDate>
+        <schema:deathDate>1890</schema:deathDate>
+      </schema:Person>
+    </schema:contributor>
+    <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+    <schema:creator>
+      <schema:Person rdf:about="http://viaf.org/viaf/93657770">
+        <schema:familyName>Warner</schema:familyName>
+        <schema:givenName>Robert</schema:givenName>
+        <schema:name>Robert Warner</schema:name>
+      </schema:Person>
+    </schema:creator>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/1047313">
+        <schema:name xml:lang="en">Orchids</schema:name>
+      </schema:Intangible>
+    </schema:about>
+  </schema:Book>
+</rdf:RDF>

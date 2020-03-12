@@ -1,0 +1,81 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <schema:Book rdf:about="http://www.worldcat.org/oclc/5343978">
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.loc.gov/authorities/subjects/sh2007102111">
+        <schema:name xml:lang="en">Botany--North America</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/18039733#Place/salt_lake_city_utah">
+        <schema:name>Salt Lake City, Utah</schema:name>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:creator>
+      <schema:Person rdf:about="http://viaf.org/viaf/3781189">
+        <schema:familyName>Jones</schema:familyName>
+        <schema:givenName>Marcus E.</schema:givenName>
+        <schema:name>Marcus E. Jones</schema:name>
+      </schema:Person>
+    </schema:creator>
+    <schema:about>
+      <schema:Place rdf:about="http://id.worldcat.org/fast/1242475">
+        <schema:name>North America.</schema:name>
+      </schema:Place>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/836869">
+        <schema:name xml:lang="en">Botany</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:name xml:lang="en">Revision of North-American species of Astragalus,</schema:name>
+    <library:oclcnum>5343978</library:oclcnum>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/819364">
+        <schema:name xml:lang="en">Astragalus (Plants)</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:inLanguage>en</schema:inLanguage>
+    <schema:datePublished>1923</schema:datePublished>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/utu">
+        <dcterms:identifier>utu</dcterms:identifier>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:publication>
+      <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/5343978#PublicationEvent/salt_lake_city_utah_1923">
+        <schema:location rdf:resource="http://experiment.worldcat.org/entity/work/data/18039733#Place/salt_lake_city_utah"/>
+        <schema:startDate>1923</schema:startDate>
+      </schema:PublicationEvent>
+    </schema:publication>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:productID>5343978</schema:productID>
+    <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/18039733"/>
+    <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+    <wdrs:describedby>
+      <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/5343978">
+        <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+        <schema:about rdf:resource="http://www.worldcat.org/oclc/5343978"/>
+        <schema:dateModified>2018-11-10</schema:dateModified>
+        <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+      </genont:ContentTypeGenericResource>
+    </wdrs:describedby>
+    <schema:isSimilarTo>
+      <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/742444855">
+        <schema:isSimilarTo rdf:resource="http://www.worldcat.org/oclc/5343978"/>
+        <rdfs:label>Revision of North-American species of Astragalus.</rdfs:label>
+        <schema:description>Online version:</schema:description>
+      </schema:CreativeWork>
+    </schema:isSimilarTo>
+  </schema:Book>
+</rdf:RDF>

@@ -1,0 +1,96 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <schema:Book rdf:about="http://www.worldcat.org/oclc/1491601">
+    <wdrs:describedby>
+      <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/1491601">
+        <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+        <schema:about rdf:resource="http://www.worldcat.org/oclc/1491601"/>
+        <schema:dateModified>2018-11-07</schema:dateModified>
+        <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+      </genont:ContentTypeGenericResource>
+    </wdrs:describedby>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/836869">
+        <schema:name xml:lang="en">Botany</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:productID>1491601</schema:productID>
+    <schema:publisher>
+      <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/1348749104#Agent/the_author">
+        <schema:name>The author</schema:name>
+      </bgn:Agent>
+    </schema:publisher>
+    <schema:creator>
+      <schema:Person rdf:about="http://viaf.org/viaf/307436">
+        <schema:familyName>Small</schema:familyName>
+        <schema:givenName>John Kunkel</schema:givenName>
+        <schema:name>John Kunkel Small</schema:name>
+        <schema:birthDate>1869</schema:birthDate>
+        <schema:deathDate>1938</schema:deathDate>
+      </schema:Person>
+    </schema:creator>
+    <schema:publication>
+      <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/1491601#PublicationEvent/new_york_the_author_1903">
+        <schema:location>
+          <schema:Place rdf:about="http://dbpedia.org/resource/New_York_City">
+            <schema:name>New York</schema:name>
+          </schema:Place>
+        </schema:location>
+        <schema:organizer rdf:resource="http://experiment.worldcat.org/entity/work/data/1348749104#Agent/the_author"/>
+        <schema:startDate>1903</schema:startDate>
+      </schema:PublicationEvent>
+    </schema:publication>
+    <schema:about>
+      <schema:Place rdf:about="http://id.worldcat.org/fast/1244550">
+        <schema:name>Southern States.</schema:name>
+      </schema:Place>
+    </schema:about>
+    <schema:isSimilarTo>
+      <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/700958559">
+        <schema:isSimilarTo rdf:resource="http://www.worldcat.org/oclc/1491601"/>
+        <rdfs:label>Flora of the southeastern United States.</rdfs:label>
+        <schema:description>Online version:</schema:description>
+      </schema:CreativeWork>
+    </schema:isSimilarTo>
+    <library:placeOfPublication rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/nyu">
+        <dcterms:identifier>nyu</dcterms:identifier>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:about>
+      <schema:Intangible rdf:about="http://dewey.info/class/581.975/"/>
+    </schema:about>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.loc.gov/authorities/subjects/sh2009117437">
+        <schema:name xml:lang="en">Botany--Southern States</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/1348749104"/>
+    <library:oclcnum>1491601</library:oclcnum>
+    <schema:name xml:lang="en">Flora of the southeastern United States : being descriptions of the seed-plants, ferns and fern-allies growing naturally in North Carolina, South Carolina, Georgia, Florida, Tennessee, Alabama, Mississippi, Arkansas, Louisiana and the Indian territory and in Oklahoma and Texas east of the one-hundredth meridian</schema:name>
+    <schema:datePublished>1903</schema:datePublished>
+    <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+    <schema:contributor>
+      <schema:Person rdf:about="http://viaf.org/viaf/17619810">
+        <schema:familyName>Rydberg</schema:familyName>
+        <schema:givenName>Per Axel</schema:givenName>
+        <schema:name>Per Axel Rydberg</schema:name>
+        <schema:birthDate>1860</schema:birthDate>
+        <schema:deathDate>1931</schema:deathDate>
+      </schema:Person>
+    </schema:contributor>
+    <schema:inLanguage>en</schema:inLanguage>
+  </schema:Book>
+</rdf:RDF>

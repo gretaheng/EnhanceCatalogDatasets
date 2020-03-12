@@ -1,0 +1,98 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/4841884">
+    <schema:creator>
+      <schema:Person rdf:about="http://viaf.org/viaf/22260291">
+        <schema:familyName>Jaume Saint-Hilaire</schema:familyName>
+        <schema:givenName>Jean Henri</schema:givenName>
+        <schema:name>Jean Henri Jaume Saint-Hilaire</schema:name>
+        <schema:birthDate>1772</schema:birthDate>
+        <schema:deathDate>1845</schema:deathDate>
+      </schema:Person>
+    </schema:creator>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/292548298#Place/paris">
+        <schema:name>Paris</schema:name>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:publisher>
+      <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/292548298#Agent/de_l_imprimerie_de_firmin_didot">
+        <schema:name>De l'Imprimerie de Firmin Didot</schema:name>
+      </bgn:Agent>
+    </schema:publisher>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/fr">
+        <dcterms:identifier>fr</dcterms:identifier>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:name>Traité des arbres forestiers : ou histoire et description des arbres indigènes ou naturalisés ...</schema:name>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.loc.gov/authorities/subjects/sh2010117038">
+        <schema:name>Trees--France</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:inLanguage>fr</schema:inLanguage>
+    <schema:url rdf:resource="http://www.botanicus.org/Bibliography.aspx?BibID=b11663662"/>
+    <schema:productID>4841884</schema:productID>
+    <library:oclcnum>4841884</library:oclcnum>
+    <schema:contributor>
+      <schema:Person rdf:about="http://viaf.org/viaf/71502471">
+        <schema:familyName>Thouin</schema:familyName>
+        <schema:givenName>André</schema:givenName>
+        <schema:name>André Thouin</schema:name>
+        <schema:birthDate>1747</schema:birthDate>
+        <schema:deathDate>1824</schema:deathDate>
+      </schema:Person>
+    </schema:contributor>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/292548298#Topic/arboriculture_france">
+        <schema:hasPart rdf:resource="http://id.loc.gov/authorities/subjects/sh85006470"/>
+        <schema:name>Arboriculture--France</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:url rdf:resource="http://botanicus.org/title/b11663662"/>
+    <schema:publication>
+      <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/4841884#PublicationEvent/paris_de_l_imprimerie_de_firmin_didot_1824">
+        <schema:location rdf:resource="http://experiment.worldcat.org/entity/work/data/292548298#Place/paris"/>
+        <schema:organizer rdf:resource="http://experiment.worldcat.org/entity/work/data/292548298#Agent/de_l_imprimerie_de_firmin_didot"/>
+        <schema:startDate>1824</schema:startDate>
+      </schema:PublicationEvent>
+    </schema:publication>
+    <wdrs:describedby>
+      <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/4841884">
+        <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+        <schema:about rdf:resource="http://www.worldcat.org/oclc/4841884"/>
+        <schema:dateModified>2018-11-08</schema:dateModified>
+        <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+      </genont:ContentTypeGenericResource>
+    </wdrs:describedby>
+    <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/292548298"/>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/1155984">
+        <schema:name>Trees</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:bookFormat rdf:resource="http://schema.org/EBook"/>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/812823">
+        <schema:name>Arboriculture</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <rdf:type rdf:resource="http://schema.org/Book"/>
+    <schema:datePublished>1824</schema:datePublished>
+    <schema:about>
+      <schema:Place rdf:about="http://id.worldcat.org/fast/1204289">
+        <schema:name>France.</schema:name>
+      </schema:Place>
+    </schema:about>
+  </schema:CreativeWork>
+</rdf:RDF>

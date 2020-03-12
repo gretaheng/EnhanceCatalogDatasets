@@ -1,0 +1,82 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/6231511">
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/923012">
+        <schema:name xml:lang="en">Ferns</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://dbpedia.org/resource/London">
+        <schema:name>London</schema:name>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:inLanguage>en</schema:inLanguage>
+    <schema:isSimilarTo>
+      <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/551416613">
+        <schema:isSimilarTo rdf:resource="http://www.worldcat.org/oclc/6231511"/>
+        <rdfs:label>Historia filicum.</rdfs:label>
+        <schema:description>Online version:</schema:description>
+      </schema:CreativeWork>
+    </schema:isSimilarTo>
+    <library:oclcnum>6231511</library:oclcnum>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/enk">
+        <dcterms:identifier>enk</dcterms:identifier>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:productID>6231511</schema:productID>
+    <wdrs:describedby>
+      <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/6231511">
+        <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+        <schema:about rdf:resource="http://www.worldcat.org/oclc/6231511"/>
+        <schema:dateModified>2018-11-11</schema:dateModified>
+        <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+      </genont:ContentTypeGenericResource>
+    </wdrs:describedby>
+    <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+    <schema:publisher>
+      <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/4854216#Agent/macmillan">
+        <schema:name>Macmillan</schema:name>
+      </bgn:Agent>
+    </schema:publisher>
+    <schema:name xml:lang="en">Historia filicum; an exposition of the nature, number and organography of ferns, and review of the principles upon which genera are founded, and the systems of classification of the principal authors, with a new general arrangement; characters of the genera; remarks on their relationship to one another; their species; reference to authors; geographical distribution; etc., etc.</schema:name>
+    <rdf:type rdf:resource="http://schema.org/Book"/>
+    <schema:creator>
+      <schema:Person rdf:about="http://viaf.org/viaf/43258816">
+        <schema:familyName>Smith</schema:familyName>
+        <schema:givenName>John</schema:givenName>
+        <schema:name>John Smith</schema:name>
+        <schema:birthDate>1798</schema:birthDate>
+        <schema:deathDate>1888</schema:deathDate>
+      </schema:Person>
+    </schema:creator>
+    <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/4854216"/>
+    <schema:datePublished>1875</schema:datePublished>
+    <rdfs:seeAlso>
+      <schema:CreativeWork rdf:about="http://experiment.worldcat.org/entity/work/data/4854216#CreativeWork/history_of_ferns">
+        <schema:name>History of ferns.</schema:name>
+      </schema:CreativeWork>
+    </rdfs:seeAlso>
+    <schema:publication>
+      <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/6231511#PublicationEvent/london_macmillan_1875">
+        <schema:location rdf:resource="http://dbpedia.org/resource/London"/>
+        <schema:organizer rdf:resource="http://experiment.worldcat.org/entity/work/data/4854216#Agent/macmillan"/>
+        <schema:startDate>1875</schema:startDate>
+      </schema:PublicationEvent>
+    </schema:publication>
+    <schema:about>
+      <schema:Intangible rdf:about="http://dewey.info/class/587.3/"/>
+    </schema:about>
+  </schema:CreativeWork>
+</rdf:RDF>

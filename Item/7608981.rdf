@@ -1,0 +1,241 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/7608981">
+    <schema:contributor>
+      <schema:Person rdf:about="http://viaf.org/viaf/25540318">
+        <schema:familyName>Greuter</schema:familyName>
+        <schema:givenName>Johann Friedrich</schema:givenName>
+        <schema:name>Johann Friedrich Greuter</schema:name>
+        <schema:birthDate>1590</schema:birthDate>
+        <schema:deathDate>1662,</schema:deathDate>
+      </schema:Person>
+    </schema:contributor>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/935739">
+        <schema:name>Fruit-culture</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:contributor>
+      <schema:Person rdf:about="http://viaf.org/viaf/73802977">
+        <schema:familyName>Cungi</schema:familyName>
+        <schema:givenName>Camillo</schema:givenName>
+        <schema:name>Camillo Cungi</schema:name>
+        <schema:deathDate>approximately 1649,</schema:deathDate>
+      </schema:Person>
+    </schema:contributor>
+    <schema:publication>
+      <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/7608981#PublicationEvent/romae_sumptibus_hermanni_scheus_mdcxlvi_1646">
+        <schema:location>
+          <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/27885601#Place/romae">
+            <schema:name>Romae</schema:name>
+          </schema:Place>
+        </schema:location>
+        <schema:organizer>
+          <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/27885601#Agent/sumptibus_hermanni_scheus">
+            <schema:name>Sumptibus Hermanni Scheus</schema:name>
+          </bgn:Agent>
+        </schema:organizer>
+        <schema:startDate>MDCXLVI 1646</schema:startDate>
+      </schema:PublicationEvent>
+    </schema:publication>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.loc.gov/authorities/subjects/sh85026225">
+        <schema:name>Citrus</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:contributor>
+      <schema:Person rdf:about="http://viaf.org/viaf/231675160">
+        <schema:familyName>Goyrand</schema:familyName>
+        <schema:givenName>Claude</schema:givenName>
+        <schema:name>Claude Goyrand</schema:name>
+      </schema:Person>
+    </schema:contributor>
+    <schema:illustrator>
+      <schema:Person rdf:about="http://viaf.org/viaf/2588852">
+        <schema:familyName>Perrier</schema:familyName>
+        <schema:givenName>François</schema:givenName>
+        <schema:name>François Perrier</schema:name>
+        <schema:birthDate>1590?</schema:birthDate>
+        <schema:deathDate>1656?,</schema:deathDate>
+      </schema:Person>
+    </schema:illustrator>
+    <schema:contributor>
+      <schema:Person rdf:about="http://viaf.org/viaf/19953181">
+        <schema:familyName>Bloemaert</schema:familyName>
+        <schema:givenName>Cornelis</schema:givenName>
+        <schema:name>Cornelis Bloemaert</schema:name>
+        <schema:birthDate>1603</schema:birthDate>
+        <schema:deathDate>1692,</schema:deathDate>
+      </schema:Person>
+    </schema:contributor>
+    <schema:illustrator>
+      <schema:Person rdf:about="http://viaf.org/viaf/5009959">
+        <schema:familyName>Sacchi</schema:familyName>
+        <schema:givenName>Andrea</schema:givenName>
+        <schema:name>Andrea Sacchi</schema:name>
+        <schema:birthDate>1599?</schema:birthDate>
+        <schema:deathDate>1661,</schema:deathDate>
+      </schema:Person>
+    </schema:illustrator>
+    <library:oclcnum>7608981</library:oclcnum>
+    <schema:genre>Errata lists (Printing)</schema:genre>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/862018">
+        <schema:name>Citrus fruits</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <library:placeOfPublication rdf:resource="http://experiment.worldcat.org/entity/work/data/27885601#Place/romae"/>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.loc.gov/authorities/subjects/sh85052162">
+        <schema:name>Fruit-culture</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:publisher>
+      <schema:Person rdf:about="http://viaf.org/viaf/12016563">
+        <schema:familyName>Scheus</schema:familyName>
+        <schema:givenName>Hermann</schema:givenName>
+        <schema:name>Hermann Scheus</schema:name>
+        <schema:birthDate>active 1638</schema:birthDate>
+        <schema:deathDate>1646,</schema:deathDate>
+      </schema:Person>
+    </schema:publisher>
+    <schema:genre>Armorial bookplates (Provenance)</schema:genre>
+    <schema:name>Hesperides, sive, De malorum aureorum cultura et usu libri quatuor</schema:name>
+    <schema:publisher rdf:resource="http://experiment.worldcat.org/entity/work/data/27885601#Agent/sumptibus_hermanni_scheus"/>
+    <schema:datePublished>1646</schema:datePublished>
+    <schema:inLanguage>la</schema:inLanguage>
+    <wdrs:describedby>
+      <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/7608981">
+        <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+        <schema:about rdf:resource="http://www.worldcat.org/oclc/7608981"/>
+        <schema:dateModified>2018-11-10</schema:dateModified>
+        <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+      </genont:ContentTypeGenericResource>
+    </wdrs:describedby>
+    <rdf:type rdf:resource="http://schema.org/Book"/>
+    <schema:creator>
+      <schema:Person rdf:about="http://viaf.org/viaf/5039977">
+        <schema:familyName>Ferrari</schema:familyName>
+        <schema:givenName>Giovanni Battista</schema:givenName>
+        <schema:name>Giovanni Battista Ferrari</schema:name>
+        <schema:birthDate>1584</schema:birthDate>
+        <schema:deathDate>1655</schema:deathDate>
+      </schema:Person>
+    </schema:creator>
+    <schema:illustrator>
+      <schema:Person rdf:about="http://experiment.worldcat.org/entity/work/data/27885601#Person/gagliardi_philipp">
+        <schema:familyName>Gagliardi</schema:familyName>
+        <schema:givenName>Philipp</schema:givenName>
+        <schema:name>Philipp Gagliardi</schema:name>
+      </schema:Person>
+    </schema:illustrator>
+    <schema:genre>Withdrawn copies (Provenance)</schema:genre>
+    <schema:alternateName>De malorum aureorum cultura et usu libri quatuor</schema:alternateName>
+    <schema:genre>Early works</schema:genre>
+    <schema:contributor>
+      <schema:Person rdf:about="http://viaf.org/viaf/48531591">
+        <schema:familyName>Mascardi</schema:familyName>
+        <schema:givenName>Vitale</schema:givenName>
+        <schema:name>Vitale Mascardi</schema:name>
+      </schema:Person>
+    </schema:contributor>
+    <schema:illustrator>
+      <schema:Person rdf:about="http://viaf.org/viaf/301857299">
+        <schema:familyName>Baldini</schema:familyName>
+        <schema:givenName>Pietro Paolo</schema:givenName>
+        <schema:name>Pietro Paolo Baldini</schema:name>
+      </schema:Person>
+    </schema:illustrator>
+    <schema:illustrator>
+      <schema:Person rdf:about="http://viaf.org/viaf/95204251">
+        <schema:givenName>Pietro</schema:givenName>
+        <schema:name>da Cortona Pietro</schema:name>
+        <schema:birthDate>1597</schema:birthDate>
+        <schema:deathDate>1669,</schema:deathDate>
+      </schema:Person>
+    </schema:illustrator>
+    <schema:numberOfPages>480</schema:numberOfPages>
+    <schema:datePublished>MDCXLVI 1646</schema:datePublished>
+    <schema:genre>Bookplates (Provenance)</schema:genre>
+    <schema:illustrator>
+      <schema:Person rdf:about="http://viaf.org/viaf/56882759">
+        <schema:givenName>Domenico Fiorentino</schema:givenName>
+        <schema:name>Domenico Fiorentino</schema:name>
+        <schema:birthDate>approximately 1506</schema:birthDate>
+        <schema:deathDate>approximately 1565,</schema:deathDate>
+      </schema:Person>
+    </schema:illustrator>
+    <schema:illustrator>
+      <schema:Person rdf:about="http://viaf.org/viaf/69070806">
+        <schema:familyName>Albani</schema:familyName>
+        <schema:givenName>Francesco</schema:givenName>
+        <schema:name>Francesco Albani</schema:name>
+        <schema:birthDate>1578</schema:birthDate>
+        <schema:deathDate>1660,</schema:deathDate>
+      </schema:Person>
+    </schema:illustrator>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/it">
+        <dcterms:identifier>it</dcterms:identifier>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.loc.gov/authorities/subjects/sh85026231">
+        <schema:name>Citrus fruits</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/861971">
+        <schema:name>Citrus</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:genre>Engravings</schema:genre>
+    <schema:illustrator>
+      <schema:Person rdf:about="http://viaf.org/viaf/49288294">
+        <schema:familyName>Reni</schema:familyName>
+        <schema:givenName>Guido</schema:givenName>
+        <schema:name>Guido Reni</schema:name>
+        <schema:birthDate>1575</schema:birthDate>
+        <schema:deathDate>1642,</schema:deathDate>
+      </schema:Person>
+    </schema:illustrator>
+    <schema:illustrator>
+      <schema:Person rdf:about="http://viaf.org/viaf/56618267">
+        <schema:givenName>Domenichino</schema:givenName>
+        <schema:name>Domenichino</schema:name>
+        <schema:birthDate>1581</schema:birthDate>
+        <schema:deathDate>1641,</schema:deathDate>
+      </schema:Person>
+    </schema:illustrator>
+    <schema:productID>7608981</schema:productID>
+    <schema:illustrator>
+      <schema:Person rdf:about="http://viaf.org/viaf/47058305">
+        <schema:familyName>Romanelli</schema:familyName>
+        <schema:givenName>Giovanni Francesco</schema:givenName>
+        <schema:name>Giovanni Francesco Romanelli</schema:name>
+        <schema:birthDate>1610</schema:birthDate>
+        <schema:deathDate>1662,</schema:deathDate>
+      </schema:Person>
+    </schema:illustrator>
+    <schema:illustrator>
+      <schema:Person rdf:about="http://viaf.org/viaf/24606800">
+        <schema:familyName>Poussin</schema:familyName>
+        <schema:givenName>Nicolas</schema:givenName>
+        <schema:name>Nicolas Poussin</schema:name>
+        <schema:birthDate>1594?</schema:birthDate>
+        <schema:deathDate>1665,</schema:deathDate>
+      </schema:Person>
+    </schema:illustrator>
+    <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/27885601"/>
+  </schema:CreativeWork>
+</rdf:RDF>

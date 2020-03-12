@@ -1,0 +1,100 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <schema:Book rdf:about="http://www.worldcat.org/oclc/5161409">
+    <schema:datePublished>1789</schema:datePublished>
+    <schema:about>
+      <schema:Intangible rdf:about="http://dewey.info/class/580.14/"/>
+    </schema:about>
+    <library:oclcnum>5161409</library:oclcnum>
+    <schema:contributor>
+      <schema:Person rdf:about="http://viaf.org/viaf/121567263">
+        <schema:familyName>Hérissant</schema:familyName>
+        <schema:givenName>Marie-Nicole</schema:givenName>
+        <schema:name>Marie-Nicole Hérissant</schema:name>
+        <schema:deathDate>1798,</schema:deathDate>
+      </schema:Person>
+    </schema:contributor>
+    <schema:name>Antonii Laurentii de Jussieu ... Genera plantarum secundum ordines naturales disposita : juxta methodum in horto regio Parisiensi exaratam, anno M.DCC.LXXIV.</schema:name>
+    <schema:publisher>
+      <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/5342589625#Agent/apud_viduam_herissant_typographum_via_nova_b_m_sub_signo_crucis_aureae_et_theophilum_barrois_ad_ripam_augustinianorum">
+        <schema:name>Apud viduam Herissant, typographum, viâ novâ B.M. sub signo Crucis Aureæ. Et Theophilum Barrois, ad ripam Augustinianorum</schema:name>
+      </bgn:Agent>
+    </schema:publisher>
+    <schema:creator>
+      <schema:Person rdf:about="http://viaf.org/viaf/100972099">
+        <schema:familyName>Jussieu</schema:familyName>
+        <schema:givenName>Antoine Laurent de</schema:givenName>
+        <schema:name>Antoine Laurent de Jussieu</schema:name>
+        <schema:birthDate>1748</schema:birthDate>
+        <schema:deathDate>1836</schema:deathDate>
+      </schema:Person>
+    </schema:creator>
+    <schema:alternateName>Genera plantarum secundum ordines naturales disposita</schema:alternateName>
+    <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/5342589625"/>
+    <schema:url rdf:resource="http://hdl.loc.gov/loc.rbc/General.35845.1"/>
+    <schema:productID>5161409</schema:productID>
+    <schema:genre>Classification</schema:genre>
+    <wdrs:describedby>
+      <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/5161409">
+        <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+        <schema:about rdf:resource="http://www.worldcat.org/oclc/5161409"/>
+        <schema:dateModified>2020-02-22</schema:dateModified>
+        <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+      </genont:ContentTypeGenericResource>
+    </wdrs:describedby>
+    <schema:publication>
+      <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/5161409#PublicationEvent/parisiis_apud_viduam_herissant_typographum_via_nova_b_m_sub_signo_crucis_aureae_et_theophilum_barrois_ad_ripam_augustinianorum_1789">
+        <schema:location>
+          <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/5342589625#Place/parisiis">
+            <schema:name>Parisiis,</schema:name>
+          </schema:Place>
+        </schema:location>
+        <schema:organizer rdf:resource="http://experiment.worldcat.org/entity/work/data/5342589625#Agent/apud_viduam_herissant_typographum_via_nova_b_m_sub_signo_crucis_aureae_et_theophilum_barrois_ad_ripam_augustinianorum"/>
+        <schema:startDate>1789</schema:startDate>
+      </schema:PublicationEvent>
+    </schema:publication>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/fr">
+        <dcterms:identifier>fr</dcterms:identifier>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:inLanguage>la</schema:inLanguage>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/1065823">
+        <schema:name>Plants</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:contributor>
+      <schema:Person rdf:about="http://viaf.org/viaf/65117">
+        <schema:familyName>Barrois</schema:familyName>
+        <schema:givenName>Théophile</schema:givenName>
+        <schema:name>Théophile Barrois</schema:name>
+      </schema:Person>
+    </schema:contributor>
+    <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+    <library:placeOfPublication rdf:resource="http://experiment.worldcat.org/entity/work/data/5342589625#Place/parisiis"/>
+    <schema:isSimilarTo>
+      <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/719411235">
+        <schema:isSimilarTo rdf:resource="http://www.worldcat.org/oclc/5161409"/>
+        <rdfs:label>Antonii Laurentii de Jussieu ... Genera plantarum secundum ordines naturales disposita.</rdfs:label>
+        <schema:description>Online version:</schema:description>
+      </schema:CreativeWork>
+    </schema:isSimilarTo>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/5342589625#Topic/plants">
+        <schema:name>Plants</schema:name>
+      </schema:Intangible>
+    </schema:about>
+  </schema:Book>
+</rdf:RDF>

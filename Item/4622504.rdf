@@ -1,0 +1,121 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <schema:Book rdf:about="http://www.worldcat.org/oclc/4622504">
+    <schema:about>
+      <schema:Place rdf:about="http://id.worldcat.org/fast/1205229">
+        <schema:name>Nigeria.</schema:name>
+      </schema:Place>
+    </schema:about>
+    <schema:isSimilarTo>
+      <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/742445195">
+        <schema:isSimilarTo rdf:resource="http://www.worldcat.org/oclc/4622504"/>
+        <rdfs:label>Catalogue of the plants collected by Mr. &amp; Mrs. P.A. Talbot.</rdfs:label>
+        <schema:description>Online version:</schema:description>
+      </schema:CreativeWork>
+    </schema:isSimilarTo>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/26405394#Topic/plants">
+        <schema:name xml:lang="en">Plants</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://dbpedia.org/resource/London">
+        <schema:name>London</schema:name>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/26405394"/>
+    <schema:name xml:lang="en">Catalogue of the plants collected by Mr. &amp; Mrs. P.A. Talbot in the Oban district, South Nigeria,</schema:name>
+    <schema:datePublished>1913</schema:datePublished>
+    <schema:contributor>
+      <schema:Person rdf:about="http://viaf.org/viaf/66861538">
+        <schema:familyName>Wernham</schema:familyName>
+        <schema:givenName>Herbert Fuller</schema:givenName>
+        <schema:name>Herbert Fuller Wernham</schema:name>
+        <schema:birthDate>1879</schema:birthDate>
+      </schema:Person>
+    </schema:contributor>
+    <schema:publisher>
+      <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/26405394#Agent/printed_by_order_of_the_trustees">
+        <schema:name>Printed by order of the Trustees</schema:name>
+      </bgn:Agent>
+    </schema:publisher>
+    <schema:contributor>
+      <schema:Person rdf:about="http://viaf.org/viaf/72173539">
+        <schema:familyName>Rendle</schema:familyName>
+        <schema:givenName>A. B.</schema:givenName>
+        <schema:givenName>Alfred Barton</schema:givenName>
+        <schema:name>Alfred Barton Rendle</schema:name>
+        <schema:birthDate>1865</schema:birthDate>
+        <schema:deathDate>1938</schema:deathDate>
+      </schema:Person>
+    </schema:contributor>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/26405394#Topic/botany_nigeria">
+        <schema:hasPart rdf:resource="http://id.loc.gov/authorities/subjects/sh85015976"/>
+        <schema:name xml:lang="en">Botany--Nigeria</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:creator>
+      <schema:Organization rdf:about="http://viaf.org/viaf/141973873">
+        <schema:name>British Museum (Natural History). Department of Botany.</schema:name>
+      </schema:Organization>
+    </schema:creator>
+    <wdrs:describedby>
+      <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/4622504">
+        <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+        <schema:about rdf:resource="http://www.worldcat.org/oclc/4622504"/>
+        <schema:dateModified>2018-11-12</schema:dateModified>
+        <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+      </genont:ContentTypeGenericResource>
+    </wdrs:describedby>
+    <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+    <schema:contributor>
+      <schema:Person rdf:about="http://experiment.worldcat.org/entity/work/data/26405394#Person/baker_emund_gilbert_1864">
+        <schema:familyName>Baker</schema:familyName>
+        <schema:givenName>Emund Gilbert</schema:givenName>
+        <schema:name>Emund Gilbert Baker</schema:name>
+        <schema:birthDate>1864</schema:birthDate>
+      </schema:Person>
+    </schema:contributor>
+    <schema:contributor>
+      <schema:Person rdf:about="http://viaf.org/viaf/208525485">
+        <schema:familyName>Moore</schema:familyName>
+        <schema:givenName>Spencer Le Marchant</schema:givenName>
+        <schema:name>Spencer Le Marchant Moore</schema:name>
+        <schema:birthDate>1850</schema:birthDate>
+      </schema:Person>
+    </schema:contributor>
+    <library:oclcnum>4622504</library:oclcnum>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/836869">
+        <schema:name xml:lang="en">Botany</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:genre xml:lang="en">Catalogues</schema:genre>
+    <schema:productID>4622504</schema:productID>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/enk">
+        <dcterms:identifier>enk</dcterms:identifier>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:publication>
+      <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/4622504#PublicationEvent/london_printed_by_order_of_the_trustees_1913">
+        <schema:location rdf:resource="http://dbpedia.org/resource/London"/>
+        <schema:organizer rdf:resource="http://experiment.worldcat.org/entity/work/data/26405394#Agent/printed_by_order_of_the_trustees"/>
+        <schema:startDate>1913</schema:startDate>
+      </schema:PublicationEvent>
+    </schema:publication>
+    <schema:inLanguage>en</schema:inLanguage>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+  </schema:Book>
+</rdf:RDF>

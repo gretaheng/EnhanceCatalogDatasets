@@ -1,0 +1,101 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <schema:Book rdf:about="http://www.worldcat.org/oclc/7533179">
+    <schema:datePublished>1788</schema:datePublished>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/613072453#Topic/cornouillers">
+        <schema:name xml:lang="fr">Cornouillers</schema:name>
+        <schema:name>Cornouillers</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:publisher>
+      <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/613072453#Agent/typis_petri_francisci_didot">
+        <schema:name>Typis Petri-Francisci Didot</schema:name>
+      </bgn:Agent>
+    </schema:publisher>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:creator>
+      <schema:Person rdf:about="http://viaf.org/viaf/54253503">
+        <schema:familyName>L'Héritier de Brutelle</schema:familyName>
+        <schema:givenName>Charles Louis</schema:givenName>
+        <schema:name>Charles Louis L'Héritier de Brutelle</schema:name>
+        <schema:birthDate>1746</schema:birthDate>
+        <schema:deathDate>1800</schema:deathDate>
+      </schema:Person>
+    </schema:creator>
+    <schema:inLanguage>la</schema:inLanguage>
+    <wdrs:describedby>
+      <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/7533179">
+        <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+        <schema:about rdf:resource="http://www.worldcat.org/oclc/7533179"/>
+        <schema:dateModified>2018-11-07</schema:dateModified>
+        <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+      </genont:ContentTypeGenericResource>
+    </wdrs:describedby>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/fr">
+        <dcterms:identifier>fr</dcterms:identifier>
+      </schema:Place>
+    </library:placeOfPublication>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/613072453#Place/parisiis">
+        <schema:name>Parisiis</schema:name>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/613072453"/>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/1430214">
+        <schema:name>Dogwoods</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:contributor>
+      <schema:Person rdf:about="http://viaf.org/viaf/46766391">
+        <schema:familyName>Redouté</schema:familyName>
+        <schema:givenName>Pierre Joseph</schema:givenName>
+        <schema:name>Pierre Joseph Redouté</schema:name>
+        <schema:birthDate>1759</schema:birthDate>
+        <schema:deathDate>1840</schema:deathDate>
+      </schema:Person>
+    </schema:contributor>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/879405">
+        <schema:name>Cornaceae</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <library:oclcnum>7533179</library:oclcnum>
+    <schema:productID>7533179</schema:productID>
+    <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+    <schema:publication>
+      <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/7533179#PublicationEvent/parisiis_typis_petri_francisci_didot_1788">
+        <schema:location rdf:resource="http://experiment.worldcat.org/entity/work/data/613072453#Place/parisiis"/>
+        <schema:organizer rdf:resource="http://experiment.worldcat.org/entity/work/data/613072453#Agent/typis_petri_francisci_didot"/>
+        <schema:startDate>1788</schema:startDate>
+      </schema:PublicationEvent>
+    </schema:publication>
+    <schema:name>Cornus : specimen botanicum sistens descriptiones et icones specierum corni minus cognitarum</schema:name>
+    <schema:contributor>
+      <schema:Person rdf:about="http://viaf.org/viaf/51536772">
+        <schema:familyName>Fréret</schema:familyName>
+        <schema:givenName>Louis</schema:givenName>
+        <schema:name>Louis Fréret</schema:name>
+      </schema:Person>
+    </schema:contributor>
+    <schema:isSimilarTo>
+      <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/904797894">
+        <schema:isSimilarTo rdf:resource="http://www.worldcat.org/oclc/7533179"/>
+        <rdfs:label>Cornus.</rdfs:label>
+        <schema:description>Online version:</schema:description>
+      </schema:CreativeWork>
+    </schema:isSimilarTo>
+  </schema:Book>
+</rdf:RDF>

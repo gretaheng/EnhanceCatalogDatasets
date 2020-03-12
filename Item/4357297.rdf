@@ -1,0 +1,99 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/4357297">
+    <schema:inLanguage>la</schema:inLanguage>
+    <schema:publisher>
+      <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/4159977098#Agent/l_reeve_and_co">
+        <schema:name>L. Reeve and Co.</schema:name>
+      </bgn:Agent>
+    </schema:publisher>
+    <schema:datePublished>1863/1878</schema:datePublished>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/836869">
+        <schema:name>Botany</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:productID>4357297</schema:productID>
+    <schema:isSimilarTo>
+      <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/621172286">
+        <schema:isSimilarTo rdf:resource="http://www.worldcat.org/oclc/4357297"/>
+        <rdfs:label>Flora australiensis.</rdfs:label>
+        <schema:description>Online version:</schema:description>
+      </schema:CreativeWork>
+    </schema:isSimilarTo>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://dbpedia.org/resource/London">
+        <schema:name>London</schema:name>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/4159977098"/>
+    <schema:genre>Rare books</schema:genre>
+    <schema:publication>
+      <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/4357297#PublicationEvent/london_l_reeve_and_co_1863_78">
+        <schema:location rdf:resource="http://dbpedia.org/resource/London"/>
+        <schema:organizer rdf:resource="http://experiment.worldcat.org/entity/work/data/4159977098#Agent/l_reeve_and_co"/>
+        <schema:startDate>1863-78</schema:startDate>
+      </schema:PublicationEvent>
+    </schema:publication>
+    <schema:about>
+      <schema:Intangible rdf:about="http://dewey.info/class/581.994/e21/"/>
+    </schema:about>
+    <schema:description>v. 1. Ranunculacea to Anacardiacea.--v. 2. Leguminosœ to Combretacca.--v. 3. Myrtaceæ to Composita.--v. 4. Stylidicæ to Pedalincæ.--v. 5. Myoporinaæ to Proteaceæ.--v. 6. Thymeleæ to Diosrorideæ.--v. 7. Roxburghiaceæ to Filices.</schema:description>
+    <schema:author>
+      <schema:Person rdf:about="http://viaf.org/viaf/95199327">
+        <schema:familyName>Mueller</schema:familyName>
+        <schema:givenName>Ferdinand von</schema:givenName>
+        <schema:name>Ferdinand von Mueller</schema:name>
+        <schema:birthDate>1825</schema:birthDate>
+        <schema:deathDate>1896,</schema:deathDate>
+      </schema:Person>
+    </schema:author>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/enk">
+        <dcterms:identifier>enk</dcterms:identifier>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:name>Flora australiensis: a description of the plants of the Australian territory.</schema:name>
+    <library:oclcnum>4357297</library:oclcnum>
+    <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+    <schema:about>
+      <schema:Place rdf:about="http://id.worldcat.org/fast/1204543">
+        <schema:name>Australia.</schema:name>
+      </schema:Place>
+    </schema:about>
+    <rdf:type rdf:resource="http://schema.org/Book"/>
+    <wdrs:describedby>
+      <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/4357297">
+        <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+        <schema:about rdf:resource="http://www.worldcat.org/oclc/4357297"/>
+        <schema:dateModified>2019-05-03</schema:dateModified>
+        <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+      </genont:ContentTypeGenericResource>
+    </wdrs:describedby>
+    <schema:datePublished>1863/78</schema:datePublished>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.loc.gov/authorities/subjects/sh2009117441">
+        <schema:name>Botany--Australia</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:creator>
+      <schema:Person rdf:about="http://viaf.org/viaf/56714582">
+        <schema:familyName>Bentham</schema:familyName>
+        <schema:givenName>George</schema:givenName>
+        <schema:name>George Bentham</schema:name>
+        <schema:birthDate>1800</schema:birthDate>
+        <schema:deathDate>1884</schema:deathDate>
+      </schema:Person>
+    </schema:creator>
+  </schema:CreativeWork>
+</rdf:RDF>

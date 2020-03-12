@@ -1,0 +1,142 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/4473959">
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/8908703865#Topic/plantenverzamelingen">
+        <schema:name xml:lang="en">plantenverzamelingen</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/8908703865#Place/cambridge">
+        <schema:name>Cambridge</schema:name>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:isSimilarTo>
+      <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/610466245">
+        <schema:isSimilarTo rdf:resource="http://www.worldcat.org/oclc/4473959"/>
+        <rdfs:label>Plantae Wilsonianae.</rdfs:label>
+        <schema:description>Online version:</schema:description>
+      </schema:CreativeWork>
+    </schema:isSimilarTo>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/8908703865#Topic/fytogeografie">
+        <schema:name xml:lang="en">Fytogeografie</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:publisher>
+      <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/8908703865#Agent/university_press">
+        <schema:name>University Press</schema:name>
+      </bgn:Agent>
+    </schema:publisher>
+    <rdf:type rdf:resource="http://schema.org/Book"/>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/8908703865#Topic/plant_collections">
+        <schema:name xml:lang="en">plant collections</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/1155984">
+        <schema:name xml:lang="en">Trees</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:contributor>
+      <schema:Person rdf:about="http://viaf.org/viaf/39484112">
+        <schema:familyName>Wilson</schema:familyName>
+        <schema:givenName>Ernest Henry</schema:givenName>
+        <schema:name>Ernest Henry Wilson</schema:name>
+        <schema:birthDate>1876</schema:birthDate>
+        <schema:deathDate>1930</schema:deathDate>
+      </schema:Person>
+    </schema:contributor>
+    <library:oclcnum>4473959</library:oclcnum>
+    <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/mau">
+        <dcterms:identifier>mau</dcterms:identifier>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:editor>
+      <schema:Person rdf:about="http://viaf.org/viaf/57397076">
+        <schema:familyName>Sargent</schema:familyName>
+        <schema:givenName>Charles Sprague</schema:givenName>
+        <schema:name>Charles Sprague Sargent</schema:name>
+        <schema:birthDate>1841</schema:birthDate>
+        <schema:deathDate>1927,</schema:deathDate>
+      </schema:Person>
+    </schema:editor>
+    <schema:name xml:lang="en">Plantae Wilsonianae; an enumeration of the woody plants collected in western China for the Arnold arboretum of Harvard university during the years 1907, 1908, and 1910,</schema:name>
+    <schema:datePublished>1913/17</schema:datePublished>
+    <schema:about>
+      <schema:Place rdf:about="http://id.worldcat.org/fast/1206073">
+        <schema:name>China.</schema:name>
+      </schema:Place>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/8908703865#Topic/trees_china">
+        <schema:hasPart rdf:resource="http://id.loc.gov/authorities/subjects/sh85137241"/>
+        <schema:name xml:lang="en">Trees--China</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/8908703865#Topic/woody_plants">
+        <schema:name xml:lang="en">woody plants</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/8908703865#Topic/china">
+        <schema:name xml:lang="en">china</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:isPartOf>
+      <bgn:PublicationSeries rdf:about="http://experiment.worldcat.org/entity/work/data/8908703865#Series/publications_of_the_arnold_arboretum">
+        <schema:hasPart rdf:resource="http://www.worldcat.org/oclc/4473959"/>
+        <schema:name>Publications of the Arnold arboretum,</schema:name>
+        <schema:name>Publications of the Arnold Arboretum ;</schema:name>
+      </bgn:PublicationSeries>
+    </schema:isPartOf>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/8908703865#Topic/herbaria">
+        <schema:name xml:lang="en">herbaria</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <wdrs:describedby>
+      <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/4473959">
+        <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+        <schema:about rdf:resource="http://www.worldcat.org/oclc/4473959"/>
+        <schema:dateModified>2019-09-17</schema:dateModified>
+        <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+      </genont:ContentTypeGenericResource>
+    </wdrs:describedby>
+    <schema:inLanguage>en</schema:inLanguage>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/8908703865#Topic/phytogeography">
+        <schema:name xml:lang="en">Phytogeography</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:publication>
+      <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/4473959#PublicationEvent/cambridge_university_press_1913_17">
+        <schema:location rdf:resource="http://experiment.worldcat.org/entity/work/data/8908703865#Place/cambridge"/>
+        <schema:organizer rdf:resource="http://experiment.worldcat.org/entity/work/data/8908703865#Agent/university_press"/>
+        <schema:startDate>1913-17</schema:startDate>
+      </schema:PublicationEvent>
+    </schema:publication>
+    <schema:datePublished>1913/1917</schema:datePublished>
+    <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/8908703865"/>
+    <schema:productID>4473959</schema:productID>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/8908703865#Topic/houtachtige_planten">
+        <schema:name xml:lang="en">houtachtige planten</schema:name>
+      </schema:Intangible>
+    </schema:about>
+  </schema:CreativeWork>
+</rdf:RDF>

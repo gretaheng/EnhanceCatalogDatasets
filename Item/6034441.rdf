@@ -1,0 +1,92 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/6034441">
+    <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+    <schema:about>
+      <schema:Book rdf:about="http://www.worldcat.org/oclc/6034441">
+        <library:placeOfPublication>
+          <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/dk">
+            <dcterms:identifier>dk</dcterms:identifier>
+          </schema:Place>
+        </library:placeOfPublication>
+        <library:oclcnum>6034441</library:oclcnum>
+        <library:placeOfPublication>
+          <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/288466521#Place/copenhague">
+            <schema:name>Copenhague</schema:name>
+          </schema:Place>
+        </library:placeOfPublication>
+        <schema:datePublished>1863</schema:datePublished>
+        <schema:about>
+          <schema:Intangible rdf:about="http://id.loc.gov/authorities/subjects/sh2009117444">
+            <schema:name>Botany--Central America</schema:name>
+          </schema:Intangible>
+        </schema:about>
+        <schema:name>L'Amérique Centrale : recherches sur sa flora et sa géographie physique. Résultats d'un voyage dans les états de Costa Rica et de Nicaragua exécuté pendant les années 1846-1848</schema:name>
+        <schema:creator>
+          <schema:Person rdf:about="http://viaf.org/viaf/18003605">
+            <schema:familyName>Ørsted</schema:familyName>
+            <schema:givenName>A. S.</schema:givenName>
+            <schema:givenName>Anders Sandøe</schema:givenName>
+            <schema:name>Anders Sandøe Ørsted</schema:name>
+            <schema:birthDate>1816</schema:birthDate>
+            <schema:deathDate>1872</schema:deathDate>
+          </schema:Person>
+        </schema:creator>
+        <schema:productID>6034441</schema:productID>
+        <schema:publication>
+          <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/6034441#PublicationEvent/copenhague_imprimerie_de_bianco_luno_par_f_s_muhle_1863">
+            <schema:location rdf:resource="http://experiment.worldcat.org/entity/work/data/288466521#Place/copenhague"/>
+            <schema:organizer>
+              <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/288466521#Agent/imprimerie_de_bianco_luno_par_f_s_muhle">
+                <schema:name>Imprimerie de Bianco Luno par F.S. Muhle</schema:name>
+              </bgn:Agent>
+            </schema:organizer>
+            <schema:startDate>1863</schema:startDate>
+          </schema:PublicationEvent>
+        </schema:publication>
+        <schema:inLanguage>fr</schema:inLanguage>
+        <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+        <schema:about>
+          <schema:Place rdf:about="http://id.worldcat.org/fast/1244535">
+            <schema:name>Central America.</schema:name>
+          </schema:Place>
+        </schema:about>
+        <schema:about>
+          <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/288466521#Topic/plants_central_america">
+            <schema:hasPart rdf:resource="http://id.loc.gov/authorities/subjects/sh85102839"/>
+            <schema:name>Plants--Central America</schema:name>
+          </schema:Intangible>
+        </schema:about>
+        <schema:publisher rdf:resource="http://experiment.worldcat.org/entity/work/data/288466521#Agent/imprimerie_de_bianco_luno_par_f_s_muhle"/>
+        <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/288466521"/>
+        <wdrs:describedby rdf:resource="http://www.worldcat.org/title/-/oclc/6034441"/>
+        <schema:about>
+          <schema:Intangible rdf:about="http://id.worldcat.org/fast/836869">
+            <schema:name>Botany</schema:name>
+          </schema:Intangible>
+        </schema:about>
+        <schema:genre>Pictorial works</schema:genre>
+        <schema:about>
+          <schema:Intangible rdf:about="http://id.worldcat.org/fast/1065823">
+            <schema:name>Plants</schema:name>
+          </schema:Intangible>
+        </schema:about>
+        <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+        <schema:about>
+          <schema:Intangible rdf:about="http://dewey.info/class/581.9728/"/>
+        </schema:about>
+      </schema:Book>
+    </schema:about>
+    <schema:dateModified>2018-11-08</schema:dateModified>
+    <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+  </genont:ContentTypeGenericResource>
+</rdf:RDF>

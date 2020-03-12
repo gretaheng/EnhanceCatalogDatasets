@@ -1,0 +1,145 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <schema:Book rdf:about="http://www.worldcat.org/oclc/3427945">
+    <schema:publication>
+      <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/3427945#PublicationEvent/leipzig_a_felix1891_98">
+        <schema:location>
+          <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/3855635390#Place/leipzig">
+            <schema:name>Leipzig</schema:name>
+          </schema:Place>
+        </schema:location>
+        <schema:organizer>
+          <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/3855635390#Agent/a_felix">
+            <schema:name>A. Felix</schema:name>
+          </bgn:Agent>
+        </schema:organizer>
+        <schema:startDate>1891-98</schema:startDate>
+      </schema:PublicationEvent>
+    </schema:publication>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/3855635390#Topic/plantkunde">
+        <schema:name>plantkunde</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/3855635390#Topic/plant_taxonomy">
+        <schema:name>Plant Taxonomy</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:hasPart>
+      <schema:CreativeWork rdf:about="http://experiment.worldcat.org/entity/work/data/3855635390#CreativeWork/nomenclatorische_publicationen_kritiken_und_repliken">
+        <schema:name>Nomenclatorische Publicationen, kritiken und repliken.</schema:name>
+      </schema:CreativeWork>
+    </schema:hasPart>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/3855635390#Topic/botany">
+        <schema:name>botany</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/3855635390#Topic/plants">
+        <rdfs:seeAlso rdf:resource="http://id.loc.gov/authorities/subjects/sh85015994"/>
+        <schema:name>Plants</schema:name>
+        <rdfs:seeAlso rdf:resource="http://id.loc.gov/authorities/subjects/sh85015982"/>
+      </schema:Intangible>
+    </schema:about>
+    <schema:productID>3427945</schema:productID>
+    <schema:publisher rdf:resource="http://experiment.worldcat.org/entity/work/data/3855635390#Agent/a_felix"/>
+    <schema:hasPart>
+      <schema:CreativeWork rdf:about="http://experiment.worldcat.org/entity/work/data/3855635390#CreativeWork/codex_nomenclaturae_botanicae_emendatus">
+        <schema:name>Codex nomenclaturae botanicae emendatus.</schema:name>
+      </schema:CreativeWork>
+    </schema:hasPart>
+    <schema:isSimilarTo>
+      <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/858256399">
+        <schema:isSimilarTo rdf:resource="http://www.worldcat.org/oclc/3427945"/>
+        <rdfs:label>Revisio generum plantarum.</rdfs:label>
+        <schema:description>Online version:</schema:description>
+      </schema:CreativeWork>
+    </schema:isSimilarTo>
+    <schema:url rdf:resource="http://botanicus.org/title/b11926065"/>
+    <schema:genre>Classification</schema:genre>
+    <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+    <wdrs:describedby>
+      <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/3427945">
+        <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+        <schema:about rdf:resource="http://www.worldcat.org/oclc/3427945"/>
+        <schema:dateModified>2019-07-13</schema:dateModified>
+        <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+      </genont:ContentTypeGenericResource>
+    </wdrs:describedby>
+    <schema:hasPart>
+      <schema:CreativeWork rdf:about="http://experiment.worldcat.org/entity/work/data/3855635390#CreativeWork/verzeichniss_der_botanishcen_schriften_des_verfassers">
+        <schema:name>Verzeichniss der botanishcen Schriften des Verfassers.</schema:name>
+      </schema:CreativeWork>
+    </schema:hasPart>
+    <library:placeOfPublication rdf:resource="http://experiment.worldcat.org/entity/work/data/3855635390#Place/leipzig"/>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/3855635390#Topic/flora">
+        <schema:name>flora</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:datePublished>1891/98</schema:datePublished>
+    <schema:datePublished>1891/1898</schema:datePublished>
+    <schema:inLanguage>la</schema:inLanguage>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/3855635390#Topic/botanical_composition">
+        <schema:name>botanical composition</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:name>Revisio generum plantarum vascularium omnium atque cellularium multarum secundum leges nomeclaturae internationales cum enumeratione plantarum exoticarum in itinere mundi collectarum ...</schema:name>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/3855635390#Topic/biological_nomenclature">
+        <schema:name>biological nomenclature</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/3855635390#Topic/plantentaxonomie">
+        <schema:name>Plantentaxonomie</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <library:oclcnum>3427945</library:oclcnum>
+    <schema:genre>Terminology</schema:genre>
+    <schema:creator>
+      <schema:Person rdf:about="http://viaf.org/viaf/103218676">
+        <schema:familyName>Kuntze</schema:familyName>
+        <schema:givenName>Otto</schema:givenName>
+        <schema:name>Otto Kuntze</schema:name>
+        <schema:birthDate>1843</schema:birthDate>
+        <schema:deathDate>1907</schema:deathDate>
+      </schema:Person>
+    </schema:creator>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/1065823">
+        <schema:name>Plants</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/3855635390#Topic/botanische_samenstelling">
+        <schema:name>botanische samenstelling</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/3855635390#Topic/biologische_naamgeving">
+        <schema:name>biologische naamgeving</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/gw">
+        <dcterms:identifier>gw</dcterms:identifier>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/3855635390"/>
+  </schema:Book>
+</rdf:RDF>

@@ -1,0 +1,114 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/9055054">
+    <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+    <schema:about>
+      <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/9055054">
+        <schema:productID>9055054</schema:productID>
+        <schema:about>
+          <schema:Intangible rdf:about="http://id.worldcat.org/fast/1065823">
+            <schema:name>Plants</schema:name>
+          </schema:Intangible>
+        </schema:about>
+        <schema:datePublished>1797/1804</schema:datePublished>
+        <schema:genre>Pictorial works</schema:genre>
+        <schema:publisher>
+          <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/3376171401#Agent/apud_s_et_j_luchtmans">
+            <schema:name>Apud S. et J. Luchtmans</schema:name>
+          </bgn:Agent>
+        </schema:publisher>
+        <schema:inLanguage>la</schema:inLanguage>
+        <library:placeOfPublication>
+          <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/au">
+            <dcterms:identifier>au</dcterms:identifier>
+          </schema:Place>
+        </library:placeOfPublication>
+        <schema:creator>
+          <schema:Person rdf:about="http://viaf.org/viaf/59120694">
+            <schema:familyName>Jacquin</schema:familyName>
+            <schema:givenName>Nikolaus Joseph</schema:givenName>
+            <schema:name>Freiherr von Nikolaus Joseph Jacquin</schema:name>
+            <schema:birthDate>1727</schema:birthDate>
+            <schema:deathDate>1817</schema:deathDate>
+          </schema:Person>
+        </schema:creator>
+        <schema:name>Plantarum rariorum horti caesarei Schoenbrunnensis descriptiones et icones</schema:name>
+        <library:placeOfPublication>
+          <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/3376171401#Place/londini_london">
+            <schema:name>Londini London</schema:name>
+          </schema:Place>
+        </library:placeOfPublication>
+        <schema:about>
+          <schema:Organization rdf:about="http://experiment.worldcat.org/entity/work/data/3376171401#Organization/schonbrunn_vienna_austria">
+            <schema:name>Schönbrunn (Vienna, Austria)</schema:name>
+          </schema:Organization>
+        </schema:about>
+        <schema:about>
+          <schema:Intangible rdf:about="http://id.worldcat.org/fast/836869">
+            <schema:name>Botany</schema:name>
+          </schema:Intangible>
+        </schema:about>
+        <wdrs:describedby rdf:resource="http://www.worldcat.org/title/-/oclc/9055054"/>
+        <library:placeOfPublication>
+          <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/3376171401#Place/viennae_vienna">
+            <schema:name>Viennae Vienna</schema:name>
+          </schema:Place>
+        </library:placeOfPublication>
+        <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+        <schema:genre>Early works</schema:genre>
+        <schema:publisher>
+          <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/3376171401#Agent/apud_b_et_j_white">
+            <schema:name>Apud B. et J. White</schema:name>
+          </bgn:Agent>
+        </schema:publisher>
+        <library:placeOfPublication>
+          <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/3376171401#Place/lugduni_batavorum_leiden">
+            <schema:name>Lugduni Batavorum Leiden</schema:name>
+          </schema:Place>
+        </library:placeOfPublication>
+        <library:oclcnum>9055054</library:oclcnum>
+        <schema:about>
+          <schema:Organization rdf:about="http://viaf.org/viaf/316593451">
+            <schema:name>Schönbrunn (Vienna, Austria)</schema:name>
+          </schema:Organization>
+        </schema:about>
+        <rdf:type rdf:resource="http://schema.org/Book"/>
+        <schema:publisher>
+          <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/3376171401#Agent/apud_c_f_wappler">
+            <schema:name>Apud C.F. Wappler</schema:name>
+          </bgn:Agent>
+        </schema:publisher>
+        <schema:about>
+          <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/3376171401#Topic/botany">
+            <rdfs:seeAlso rdf:resource="http://id.loc.gov/authorities/subjects/sh85015996"/>
+            <schema:name>Botany</schema:name>
+          </schema:Intangible>
+        </schema:about>
+        <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/3376171401"/>
+        <schema:publication>
+          <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/9055054#PublicationEvent/viennae_vienna_apud_c_f_wappler_londini_london_apud_b_et_j_white_lugduni_batavorum_leiden_apud_s_et_j_luchtmans_1797_1804">
+            <schema:location rdf:resource="http://experiment.worldcat.org/entity/work/data/3376171401#Place/viennae_vienna"/>
+            <schema:location rdf:resource="http://experiment.worldcat.org/entity/work/data/3376171401#Place/londini_london"/>
+            <schema:location rdf:resource="http://experiment.worldcat.org/entity/work/data/3376171401#Place/lugduni_batavorum_leiden"/>
+            <schema:organizer rdf:resource="http://experiment.worldcat.org/entity/work/data/3376171401#Agent/apud_c_f_wappler"/>
+            <schema:organizer rdf:resource="http://experiment.worldcat.org/entity/work/data/3376171401#Agent/apud_b_et_j_white"/>
+            <schema:organizer rdf:resource="http://experiment.worldcat.org/entity/work/data/3376171401#Agent/apud_s_et_j_luchtmans"/>
+            <schema:startDate>1797-1804</schema:startDate>
+          </schema:PublicationEvent>
+        </schema:publication>
+      </schema:CreativeWork>
+    </schema:about>
+    <schema:dateModified>2018-11-08</schema:dateModified>
+    <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+  </genont:ContentTypeGenericResource>
+</rdf:RDF>

@@ -1,0 +1,99 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/4663059">
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/1026803">
+        <schema:name>Mosses</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:publisher>
+      <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/2125355#Agent/sumtu_j_a_barthii">
+        <schema:name>Sumtu J.A. Barthii</schema:name>
+      </bgn:Agent>
+    </schema:publisher>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/2125355#Place/parisiis_a_koenig">
+        <schema:name>Parisiis, A. Koenig</schema:name>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:productID>4663059</schema:productID>
+    <schema:datePublished>1801</schema:datePublished>
+    <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+    <schema:publication>
+      <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/4663059#PublicationEvent/lipsiae_leipzig_sumtu_j_a_barthii_parisiis_a_koenig_1801">
+        <schema:location>
+          <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/2125355#Place/lipsiae_leipzig">
+            <schema:name>Lipsiae (Leipzig)</schema:name>
+          </schema:Place>
+        </schema:location>
+        <schema:location rdf:resource="http://experiment.worldcat.org/entity/work/data/2125355#Place/parisiis_a_koenig"/>
+        <schema:organizer rdf:resource="http://experiment.worldcat.org/entity/work/data/2125355#Agent/sumtu_j_a_barthii"/>
+        <schema:startDate>1801</schema:startDate>
+      </schema:PublicationEvent>
+    </schema:publication>
+    <schema:contributor>
+      <schema:Person rdf:about="http://viaf.org/viaf/24719297">
+        <schema:familyName>Schwägrichen</schema:familyName>
+        <schema:givenName>Christian Friedrich</schema:givenName>
+        <schema:name>Christian Friedrich Schwägrichen</schema:name>
+        <schema:birthDate>1775</schema:birthDate>
+        <schema:deathDate>1853,</schema:deathDate>
+      </schema:Person>
+    </schema:contributor>
+    <rdf:type rdf:resource="http://schema.org/Book"/>
+    <schema:creator>
+      <schema:Person rdf:about="http://viaf.org/viaf/67580194">
+        <schema:familyName>Hedwig</schema:familyName>
+        <schema:givenName>Johannes</schema:givenName>
+        <schema:name>Johannes Hedwig</schema:name>
+        <schema:birthDate>1730</schema:birthDate>
+        <schema:deathDate>1799</schema:deathDate>
+      </schema:Person>
+    </schema:creator>
+    <schema:inLanguage>la</schema:inLanguage>
+    <wdrs:describedby>
+      <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/4663059">
+        <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+        <schema:about rdf:resource="http://www.worldcat.org/oclc/4663059"/>
+        <schema:dateModified>2019-11-24</schema:dateModified>
+        <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+      </genont:ContentTypeGenericResource>
+    </wdrs:describedby>
+    <rdfs:seeAlso>
+      <schema:CreativeWork rdf:about="http://experiment.worldcat.org/entity/work/data/2125355#CreativeWork/supplementum_primum_quartum_scriptum">
+        <schema:name>Supplementum primum-quartum scriptum.</schema:name>
+        <schema:creator rdf:resource="http://viaf.org/viaf/24719297"/>
+      </schema:CreativeWork>
+    </rdfs:seeAlso>
+    <library:placeOfPublication rdf:resource="http://experiment.worldcat.org/entity/work/data/2125355#Place/lipsiae_leipzig"/>
+    <library:oclcnum>4663059</library:oclcnum>
+    <schema:name>Joannis Hedwig ... species muscorum frondosorum descriptae et tabulis aeneis lxxvii coloratis illustratae</schema:name>
+    <schema:exampleOfWork>
+      <rdf:Description rdf:about="http://worldcat.org/entity/work/id/2125355">
+        <schema:name>Species muscorum frondosorum</schema:name>
+      </rdf:Description>
+    </schema:exampleOfWork>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/gw">
+        <dcterms:identifier>gw</dcterms:identifier>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:isSimilarTo>
+      <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/719403549">
+        <schema:isSimilarTo rdf:resource="http://www.worldcat.org/oclc/4663059"/>
+        <rdfs:label>Joannis Hedwig ... species muscorum frondosorum descriptae et tabulis aeneis lxxvii coloratis illustratae.</rdfs:label>
+        <schema:description>Online version:</schema:description>
+      </schema:CreativeWork>
+    </schema:isSimilarTo>
+  </schema:CreativeWork>
+</rdf:RDF>

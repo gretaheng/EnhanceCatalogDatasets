@@ -1,0 +1,98 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <schema:Book rdf:about="http://www.worldcat.org/oclc/3157727">
+    <schema:name>Enumeratio plantarum : in Japonia sponte crescentium hucusque rite cognitarum, adjectis descriptionibus specierum pro regione novarum, quibus accedit determinatio herbarum in libris japonicis So mokou zoussetz xylographice delineatarum</schema:name>
+    <schema:publication>
+      <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/3157727#PublicationEvent/parisiis_f_savy_1875_79">
+        <schema:location>
+          <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/3771485574#Place/parisiis">
+            <schema:name>Parisiis</schema:name>
+          </schema:Place>
+        </schema:location>
+        <schema:organizer>
+          <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/3771485574#Agent/f_savy">
+            <schema:name>F. Savy</schema:name>
+          </bgn:Agent>
+        </schema:organizer>
+        <schema:startDate>1875-79</schema:startDate>
+      </schema:PublicationEvent>
+    </schema:publication>
+    <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+    <wdrs:describedby>
+      <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/3157727">
+        <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+        <schema:about rdf:resource="http://www.worldcat.org/oclc/3157727"/>
+        <schema:dateModified>2018-11-30</schema:dateModified>
+        <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+      </genont:ContentTypeGenericResource>
+    </wdrs:describedby>
+    <library:placeOfPublication rdf:resource="http://experiment.worldcat.org/entity/work/data/3771485574#Place/parisiis"/>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.loc.gov/authorities/subjects/sh2007102109">
+        <schema:name>Botany--Japan</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://dewey.info/class/581.952/"/>
+    </schema:about>
+    <schema:productID>3157727</schema:productID>
+    <schema:datePublished>1875/79</schema:datePublished>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/836869">
+        <schema:name>Botany</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:datePublished>1875</schema:datePublished>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/fr">
+        <dcterms:identifier>fr</dcterms:identifier>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:contributor>
+      <schema:Person rdf:about="http://viaf.org/viaf/44449514">
+        <schema:familyName>Savatier</schema:familyName>
+        <schema:givenName>Ludovic</schema:givenName>
+        <schema:name>Ludovic Savatier</schema:name>
+        <schema:birthDate>1830</schema:birthDate>
+        <schema:deathDate>1891</schema:deathDate>
+      </schema:Person>
+    </schema:contributor>
+    <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/3771485574"/>
+    <library:oclcnum>3157727</library:oclcnum>
+    <schema:inLanguage>fr</schema:inLanguage>
+    <schema:creator>
+      <schema:Person rdf:about="http://viaf.org/viaf/69047569">
+        <schema:familyName>Franchet</schema:familyName>
+        <schema:givenName>A.</schema:givenName>
+        <schema:givenName>Adrien</schema:givenName>
+        <schema:name>Adrien Franchet</schema:name>
+        <schema:birthDate>1834</schema:birthDate>
+        <schema:deathDate>1900</schema:deathDate>
+      </schema:Person>
+    </schema:creator>
+    <schema:about>
+      <schema:Place rdf:about="http://id.worldcat.org/fast/1204082">
+        <schema:name>Japan.</schema:name>
+      </schema:Place>
+    </schema:about>
+    <schema:publisher rdf:resource="http://experiment.worldcat.org/entity/work/data/3771485574#Agent/f_savy"/>
+    <schema:isSimilarTo>
+      <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/659479820">
+        <schema:isSimilarTo rdf:resource="http://www.worldcat.org/oclc/3157727"/>
+        <rdfs:label>Enumeratio plantarum.</rdfs:label>
+        <schema:description>Online version:</schema:description>
+      </schema:CreativeWork>
+    </schema:isSimilarTo>
+  </schema:Book>
+</rdf:RDF>

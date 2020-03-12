@@ -1,0 +1,96 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <schema:Book rdf:about="http://www.worldcat.org/oclc/5861469">
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://dbpedia.org/resource/London">
+        <schema:name>London</schema:name>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:productID>5861469</schema:productID>
+    <schema:publisher>
+      <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/6296064#Agent/parbury_allen_&amp;_co">
+        <schema:name>Parbury, Allen &amp; Co.</schema:name>
+      </bgn:Agent>
+    </schema:publisher>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/enk">
+        <dcterms:identifier>enk</dcterms:identifier>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+    <schema:about>
+      <schema:Intangible rdf:about="http://dewey.info/class/581.954/"/>
+    </schema:about>
+    <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/6296064"/>
+    <schema:publication>
+      <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/5861469#PublicationEvent/london_parbury_allen_&amp;_co_1834">
+        <schema:location rdf:resource="http://dbpedia.org/resource/London"/>
+        <schema:organizer rdf:resource="http://experiment.worldcat.org/entity/work/data/6296064#Agent/parbury_allen_&amp;_co"/>
+        <schema:startDate>1834</schema:startDate>
+      </schema:PublicationEvent>
+    </schema:publication>
+    <schema:contributor>
+      <schema:Person rdf:about="http://viaf.org/viaf/46871728">
+        <schema:familyName>Walker-Arnott</schema:familyName>
+        <schema:givenName>George Arnott</schema:givenName>
+        <schema:name>George Arnott Walker-Arnott</schema:name>
+        <schema:birthDate>1799</schema:birthDate>
+        <schema:deathDate>1868</schema:deathDate>
+      </schema:Person>
+    </schema:contributor>
+    <wdrs:describedby>
+      <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/5861469">
+        <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+        <schema:about rdf:resource="http://www.worldcat.org/oclc/5861469"/>
+        <schema:dateModified>2020-02-04</schema:dateModified>
+        <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+      </genont:ContentTypeGenericResource>
+    </wdrs:describedby>
+    <schema:inLanguage>en</schema:inLanguage>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:name xml:lang="en">Prodromus Florae Peninsulae Indiae Orientalis: containing abridged descriptions of the plants found in the peninsula of British India, arranged according to the natural system,</schema:name>
+    <schema:about>
+      <schema:Place rdf:about="http://id.worldcat.org/fast/1210276">
+        <schema:name>India.</schema:name>
+      </schema:Place>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.loc.gov/authorities/subjects/sh2007102108">
+        <schema:name xml:lang="en">Botany--India</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <library:oclcnum>5861469</library:oclcnum>
+    <schema:creator>
+      <schema:Person rdf:about="http://viaf.org/viaf/32772286">
+        <schema:familyName>Wight</schema:familyName>
+        <schema:givenName>Robert</schema:givenName>
+        <schema:name>Robert Wight</schema:name>
+        <schema:birthDate>1796</schema:birthDate>
+        <schema:deathDate>1872</schema:deathDate>
+      </schema:Person>
+    </schema:creator>
+    <schema:datePublished>1834</schema:datePublished>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/836869">
+        <schema:name xml:lang="en">Botany</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:isSimilarTo>
+      <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/595153042">
+        <schema:isSimilarTo rdf:resource="http://www.worldcat.org/oclc/5861469"/>
+        <rdfs:label>Prodromus Florae Peninsulae Indiae Orientalis.</rdfs:label>
+        <schema:description>Online version:</schema:description>
+      </schema:CreativeWork>
+    </schema:isSimilarTo>
+  </schema:Book>
+</rdf:RDF>

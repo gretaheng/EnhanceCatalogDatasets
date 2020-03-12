@@ -1,0 +1,109 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/1076424478">
+    <schema:name>Catalogus plantarum cubensium exhibens collectionem Wrightianam aliasque minores ex insula Cuba missas,</schema:name>
+    <schema:publication>
+      <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/1076424478#PublicationEvent/lipsae_apud_gulielmum_engelmann_1866">
+        <schema:location>
+          <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/17006980#Place/lipsae">
+            <schema:name>Lipsae</schema:name>
+          </schema:Place>
+        </schema:location>
+        <schema:organizer>
+          <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/17006980#Agent/apud_gulielmum_engelmann">
+            <schema:name>Apud Gulielmum Engelmann</schema:name>
+          </bgn:Agent>
+        </schema:organizer>
+        <schema:startDate>1866</schema:startDate>
+      </schema:PublicationEvent>
+    </schema:publication>
+    <schema:productID>1076424478</schema:productID>
+    <schema:isSimilarTo>
+      <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/595508827">
+        <schema:isSimilarTo rdf:resource="http://www.worldcat.org/oclc/1076424478"/>
+        <rdfs:label>Catalogus plantarum cubensium exhibens collectionem Wrightianam aliasque minores ex insula Cuba missas.</rdfs:label>
+        <schema:description>Online version:</schema:description>
+      </schema:CreativeWork>
+    </schema:isSimilarTo>
+    <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/17006980"/>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/17006980#Topic/botany_cuba">
+        <schema:name>Botany--Cuba</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:datePublished>1866</schema:datePublished>
+    <schema:about>
+      <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/17006980#Place/cuba">
+        <schema:name>Cuba.</schema:name>
+      </schema:Place>
+    </schema:about>
+    <library:oclcnum>1076424478</library:oclcnum>
+    <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+    <rdf:type rdf:resource="http://schema.org/Book"/>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/17006980#Topic/pflanzen">
+        <schema:name>Pflanzen</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <wdrs:describedby>
+      <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/1076424478">
+        <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+        <schema:about rdf:resource="http://www.worldcat.org/oclc/1076424478"/>
+        <schema:dateModified>2019-09-08</schema:dateModified>
+        <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+      </genont:ContentTypeGenericResource>
+    </wdrs:describedby>
+    <library:placeOfPublication rdf:resource="http://experiment.worldcat.org/entity/work/data/17006980#Place/lipsae"/>
+    <schema:url>
+      <rdf:Description rdf:about="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10301667-8">
+        <rdfs:comment>kostenfrei</rdfs:comment>
+      </rdf:Description>
+    </schema:url>
+    <schema:publisher rdf:resource="http://experiment.worldcat.org/entity/work/data/17006980#Agent/apud_gulielmum_engelmann"/>
+    <schema:creator>
+      <schema:Person rdf:about="http://experiment.worldcat.org/entity/work/data/17006980#Person/grisebach_a_august_1814_1879">
+        <schema:familyName>Grisebach</schema:familyName>
+        <schema:givenName>A.</schema:givenName>
+        <schema:givenName>August</schema:givenName>
+        <schema:name>August Grisebach</schema:name>
+        <schema:birthDate>1814</schema:birthDate>
+        <schema:deathDate>1879</schema:deathDate>
+      </schema:Person>
+    </schema:creator>
+    <schema:inLanguage>la</schema:inLanguage>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/17006980#Topic/botany">
+        <schema:name>Botany</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/gw">
+        <dcterms:identifier>gw</dcterms:identifier>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:about>
+      <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/17006980#Place/kuba">
+        <schema:name>Kuba.</schema:name>
+      </schema:Place>
+    </schema:about>
+    <schema:about>
+      <schema:Person rdf:about="http://experiment.worldcat.org/entity/work/data/17006980#Person/cuba">
+        <schema:givenName>CUBA</schema:givenName>
+        <schema:name>CUBA</schema:name>
+      </schema:Person>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://dewey.info/class/746.6/"/>
+    </schema:about>
+  </schema:CreativeWork>
+</rdf:RDF>

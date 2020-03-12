@@ -1,0 +1,98 @@
+<rdf:RDF
+    xmlns:umbel="http://umbel.org/umbel#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <schema:Periodical rdf:about="http://www.worldcat.org/oclc/1755948">
+    <schema:exampleOfWork>
+      <rdf:Description rdf:about="http://worldcat.org/entity/work/id/3372423080">
+        <umbel:isLike>
+          <schema:Periodical rdf:about="http://worldcat.org/issn/0368-2927">
+            <schema:name xml:lang="en">The journal of the Linnean Society. Botany.</schema:name>
+            <schema:issn>0368-2927</schema:issn>
+            <umbel:isLike rdf:resource="http://worldcat.org/entity/work/id/3372423080"/>
+          </schema:Periodical>
+        </umbel:isLike>
+      </rdf:Description>
+    </schema:exampleOfWork>
+    <schema:name xml:lang="en">The journal of the Linnean Society. Botany.</schema:name>
+    <schema:isSimilarTo>
+      <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/76903096">
+        <schema:isSimilarTo rdf:resource="http://www.worldcat.org/oclc/1755948"/>
+        <rdfs:label>Journal of the Linnean Society. Botany</rdfs:label>
+        <schema:description>Online version:</schema:description>
+      </schema:CreativeWork>
+    </schema:isSimilarTo>
+    <library:oclcnum>1755948</library:oclcnum>
+    <schema:workExample rdf:resource="http://worldcat.org/issn/0368-2927"/>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/enk">
+        <dcterms:identifier>enk</dcterms:identifier>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/836869">
+        <schema:name xml:lang="en">Botany</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:datePublished>1865/1968</schema:datePublished>
+    <wdrs:describedby>
+      <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/1755948">
+        <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+        <schema:about rdf:resource="http://www.worldcat.org/oclc/1755948"/>
+        <schema:dateModified>2020-01-17</schema:dateModified>
+        <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+      </genont:ContentTypeGenericResource>
+    </wdrs:describedby>
+    <schema:alternateName>Journal of the proceedings of the Linnean Society of London</schema:alternateName>
+    <schema:productID>1755948</schema:productID>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/3372423080#Topic/plantkunde">
+        <schema:name xml:lang="en">Plantkunde</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:publisher>
+      <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/3372423080#Agent/linnean_society_of_london">
+        <schema:name>Linnean Society of London</schema:name>
+      </bgn:Agent>
+    </schema:publisher>
+    <schema:alternateName>Journal of the Linnean Society of London.</schema:alternateName>
+    <schema:inLanguage>en</schema:inLanguage>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/3372423080#Topic/botany">
+        <schema:name xml:lang="en">Botany</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:publication>
+      <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/1755948#PublicationEvent/london_linnean_society_of_london_1865_1968">
+        <schema:location>
+          <schema:Place rdf:about="http://dbpedia.org/resource/London">
+            <schema:name>London</schema:name>
+          </schema:Place>
+        </schema:location>
+        <schema:organizer rdf:resource="http://experiment.worldcat.org/entity/work/data/3372423080#Agent/linnean_society_of_london"/>
+        <schema:startDate>1865-1968</schema:startDate>
+      </schema:PublicationEvent>
+    </schema:publication>
+    <library:placeOfPublication rdf:resource="http://dbpedia.org/resource/London"/>
+    <schema:about>
+      <schema:Intangible rdf:about="http://dewey.info/class/580.6/"/>
+    </schema:about>
+    <schema:contributor>
+      <schema:Organization rdf:about="http://viaf.org/viaf/148721817">
+        <schema:name>Linnean Society of London.</schema:name>
+      </schema:Organization>
+    </schema:contributor>
+    <schema:genre xml:lang="en">Periodicals</schema:genre>
+    <schema:genre xml:lang="en">Electronic journals</schema:genre>
+  </schema:Periodical>
+</rdf:RDF>

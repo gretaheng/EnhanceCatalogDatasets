@@ -1,0 +1,108 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/6153482">
+    <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+    <schema:about>
+      <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/6153482">
+        <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/428647424"/>
+        <schema:about>
+          <schema:Intangible rdf:about="http://id.worldcat.org/fast/1047313">
+            <schema:name xml:lang="en">Orchids</schema:name>
+          </schema:Intangible>
+        </schema:about>
+        <schema:about>
+          <schema:Intangible rdf:about="http://id.loc.gov/authorities/subjects/sh85094101">
+            <schema:name xml:lang="en">Odontoglossum</schema:name>
+          </schema:Intangible>
+        </schema:about>
+        <schema:publisher>
+          <schema:Organization rdf:about="http://viaf.org/viaf/142360489">
+            <schema:name>Lovell Reeve &amp; Co.,</schema:name>
+          </schema:Organization>
+        </schema:publisher>
+        <schema:contributor>
+          <schema:Organization rdf:about="http://viaf.org/viaf/121291798">
+            <schema:name>Savill and Edwards,</schema:name>
+          </schema:Organization>
+        </schema:contributor>
+        <rdf:type rdf:resource="http://schema.org/Book"/>
+        <schema:contributor>
+          <schema:Person rdf:about="http://viaf.org/viaf/12458289">
+            <schema:familyName>Fitch</schema:familyName>
+            <schema:givenName>W. H.</schema:givenName>
+            <schema:givenName>Walter Hood</schema:givenName>
+            <schema:name>Walter Hood Fitch</schema:name>
+            <schema:birthDate>1817</schema:birthDate>
+            <schema:deathDate>1892,</schema:deathDate>
+          </schema:Person>
+        </schema:contributor>
+        <wdrs:describedby rdf:resource="http://www.worldcat.org/title/-/oclc/6153482"/>
+        <schema:contributor>
+          <schema:Organization rdf:about="http://viaf.org/viaf/124787356">
+            <schema:name>Vincent Brooks, Day &amp; Son,</schema:name>
+          </schema:Organization>
+        </schema:contributor>
+        <schema:contributor>
+          <schema:Person rdf:about="http://viaf.org/viaf/50659308">
+            <schema:familyName>Brooks</schema:familyName>
+            <schema:givenName>Vincent</schema:givenName>
+            <schema:name>Vincent Brooks</schema:name>
+          </schema:Person>
+        </schema:contributor>
+        <schema:inLanguage>en</schema:inLanguage>
+        <schema:creator>
+          <schema:Person rdf:about="http://viaf.org/viaf/28576259">
+            <schema:familyName>Bateman</schema:familyName>
+            <schema:givenName>Jas</schema:givenName>
+            <schema:givenName>James</schema:givenName>
+            <schema:name>James Bateman</schema:name>
+            <schema:birthDate>1811</schema:birthDate>
+            <schema:deathDate>1897</schema:deathDate>
+          </schema:Person>
+        </schema:creator>
+        <schema:contributor>
+          <schema:Person rdf:about="http://viaf.org/viaf/268757034">
+            <schema:givenName>Alexandra</schema:givenName>
+            <schema:name>Queen consort of Edward VII King of Great Britain Alexandra</schema:name>
+            <schema:birthDate>1844</schema:birthDate>
+            <schema:deathDate>1925,</schema:deathDate>
+          </schema:Person>
+        </schema:contributor>
+        <library:placeOfPublication>
+          <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/enk">
+            <dcterms:identifier>enk</dcterms:identifier>
+          </schema:Place>
+        </library:placeOfPublication>
+        <schema:genre xml:lang="en">Pictorial works</schema:genre>
+        <library:oclcnum>6153482</library:oclcnum>
+        <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+        <schema:name xml:lang="en">A monograph of Odontoglossum</schema:name>
+        <schema:about>
+          <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/428647424#Topic/orchids">
+            <rdfs:seeAlso rdf:resource="http://id.loc.gov/authorities/subjects/sh2008108699"/>
+            <schema:name xml:lang="en">Orchids</schema:name>
+          </schema:Intangible>
+        </schema:about>
+        <schema:about>
+          <schema:Intangible rdf:about="http://id.worldcat.org/fast/1043902">
+            <schema:name xml:lang="en">Odontoglossum</schema:name>
+          </schema:Intangible>
+        </schema:about>
+        <schema:datePublished>1874</schema:datePublished>
+        <schema:productID>6153482</schema:productID>
+      </schema:CreativeWork>
+    </schema:about>
+    <schema:dateModified>2018-11-10</schema:dateModified>
+    <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+  </genont:ContentTypeGenericResource>
+</rdf:RDF>

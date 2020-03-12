@@ -1,0 +1,122 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/6546812">
+    <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+    <schema:about>
+      <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/6546812">
+        <schema:about>
+          <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/1910548246#Topic/botany">
+            <schema:name>Botany</schema:name>
+          </schema:Intangible>
+        </schema:about>
+        <schema:about>
+          <schema:Intangible rdf:about="http://dewey.info/class/581.943/"/>
+        </schema:about>
+        <schema:datePublished>1830/1832</schema:datePublished>
+        <schema:about>
+          <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/1910548246#Topic/botany_germany">
+            <schema:name>Botany--Germany</schema:name>
+          </schema:Intangible>
+        </schema:about>
+        <schema:about>
+          <schema:Intangible rdf:about="http://id.loc.gov/authorities/subjects/sh2009117456">
+            <schema:name>Botany--Germany</schema:name>
+          </schema:Intangible>
+        </schema:about>
+        <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/1910548246"/>
+        <schema:about>
+          <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/1910548246#Topic/42_40_botany_general">
+            <schema:name>42.40 botany: general</schema:name>
+          </schema:Intangible>
+        </schema:about>
+        <schema:inLanguage>la</schema:inLanguage>
+        <library:oclcnum>6546812</library:oclcnum>
+        <schema:productID>6546812</schema:productID>
+        <schema:about>
+          <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/1910548246#Topic/phytogeography">
+            <schema:name>Phytogeography</schema:name>
+          </schema:Intangible>
+        </schema:about>
+        <schema:name>Flora germanica excursoria ex affinitate regni vegetabilis naturali disposita, sive principia synopseos plantarum in Germania terrisque in Europa media adjacentibus sponte nascentium cultarumque frequentius</schema:name>
+        <schema:publisher>
+          <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/1910548246#Agent/apud_carolum_cnobloch">
+            <schema:name>Apud Carolum Cnobloch</schema:name>
+          </bgn:Agent>
+        </schema:publisher>
+        <library:placeOfPublication>
+          <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/gw">
+            <dcterms:identifier>gw</dcterms:identifier>
+          </schema:Place>
+        </library:placeOfPublication>
+        <library:placeOfPublication>
+          <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/1910548246#Place/lepsiae">
+            <schema:name>Lepsiae</schema:name>
+          </schema:Place>
+        </library:placeOfPublication>
+        <schema:about>
+          <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/1910548246#Topic/flora_biologie">
+            <schema:name>Flora (biologie)</schema:name>
+          </schema:Intangible>
+        </schema:about>
+        <schema:publisher>
+          <schema:Person rdf:about="http://viaf.org/viaf/59840217">
+            <schema:familyName>Cnobloch</schema:familyName>
+            <schema:givenName>C.</schema:givenName>
+            <schema:givenName>Carl</schema:givenName>
+            <schema:name>Carl Cnobloch</schema:name>
+            <schema:birthDate>1778</schema:birthDate>
+            <schema:deathDate>1834,</schema:deathDate>
+          </schema:Person>
+        </schema:publisher>
+        <rdf:type rdf:resource="http://schema.org/Book"/>
+        <schema:creator>
+          <schema:Person rdf:about="http://viaf.org/viaf/3198169">
+            <schema:familyName>Reichenbach</schema:familyName>
+            <schema:givenName>H. G. Ludwig</schema:givenName>
+            <schema:givenName>Heinrich Gottlieb Ludwig</schema:givenName>
+            <schema:name>Heinrich Gottlieb Ludwig Reichenbach</schema:name>
+            <schema:birthDate>1793</schema:birthDate>
+            <schema:deathDate>1879</schema:deathDate>
+          </schema:Person>
+        </schema:creator>
+        <schema:about>
+          <schema:Place rdf:about="http://id.worldcat.org/fast/1210272">
+            <schema:name>Germany.</schema:name>
+          </schema:Place>
+        </schema:about>
+        <schema:about>
+          <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/1910548246#Topic/phytogeography_germany">
+            <schema:hasPart rdf:resource="http://id.loc.gov/authorities/subjects/sh85101689"/>
+            <schema:name>Phytogeography--Germany</schema:name>
+          </schema:Intangible>
+        </schema:about>
+        <schema:description>T.p. dl. [1]: 1830. -- Insunt plantae Acroblastiae et Phylloblastiae. Dl. [2]: 1830-1832. -- [id.] Acc. I. Conspectus generum et clavis e systemate sexuali Linnæano. II. Exposito methodi naturalis cum tabulâ, [etc.]</schema:description>
+        <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+        <wdrs:describedby rdf:resource="http://www.worldcat.org/title/-/oclc/6546812"/>
+        <schema:publication>
+          <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/6546812#PublicationEvent/lepsiae_apud_carolum_cnobloch_1830_1832">
+            <schema:location rdf:resource="http://experiment.worldcat.org/entity/work/data/1910548246#Place/lepsiae"/>
+            <schema:organizer rdf:resource="http://experiment.worldcat.org/entity/work/data/1910548246#Agent/apud_carolum_cnobloch"/>
+            <schema:startDate>1830-1832</schema:startDate>
+          </schema:PublicationEvent>
+        </schema:publication>
+        <schema:about>
+          <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/1910548246#Topic/plantkunde">
+            <schema:name>Plantkunde</schema:name>
+          </schema:Intangible>
+        </schema:about>
+      </schema:CreativeWork>
+    </schema:about>
+    <schema:dateModified>2020-02-18</schema:dateModified>
+    <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+  </genont:ContentTypeGenericResource>
+</rdf:RDF>

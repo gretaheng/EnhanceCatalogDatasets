@@ -1,0 +1,107 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/1076419284">
+    <schema:inLanguage>es</schema:inLanguage>
+    <library:oclcnum>1076419284</library:oclcnum>
+    <schema:editor>
+      <schema:Person rdf:about="http://experiment.worldcat.org/entity/work/data/2116723#Person/ramirez_ricardo">
+        <schema:familyName>Ramirez</schema:familyName>
+        <schema:givenName>Ricardo</schema:givenName>
+        <schema:name>Ricardo Ramirez</schema:name>
+      </schema:Person>
+    </schema:editor>
+    <wdrs:describedby>
+      <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/1076419284">
+        <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+        <schema:about rdf:resource="http://www.worldcat.org/oclc/1076419284"/>
+        <schema:dateModified>2019-01-04</schema:dateModified>
+        <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+      </genont:ContentTypeGenericResource>
+    </wdrs:describedby>
+    <schema:datePublished>1894</schema:datePublished>
+    <schema:creator>
+      <schema:Person rdf:about="http://experiment.worldcat.org/entity/work/data/2116723#Person/sesse_martin_1809">
+        <schema:familyName>Sessé</schema:familyName>
+        <schema:givenName>Martín</schema:givenName>
+        <schema:name>Martín Sessé</schema:name>
+        <schema:deathDate>1809</schema:deathDate>
+      </schema:Person>
+    </schema:creator>
+    <schema:isSimilarTo>
+      <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/702115972">
+        <schema:isSimilarTo rdf:resource="http://www.worldcat.org/oclc/1076419284"/>
+        <rdfs:label>Flora mexicana.</rdfs:label>
+        <schema:description>Online version:</schema:description>
+      </schema:CreativeWork>
+    </schema:isSimilarTo>
+    <schema:publication>
+      <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/1076419284#PublicationEvent/mexico_oficina_tip_de_la_secretaria_de_fomento_1894">
+        <schema:location>
+          <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/2116723#Place/mexico">
+            <schema:name>México</schema:name>
+            <schema:name>Mexico.</schema:name>
+          </schema:Place>
+        </schema:location>
+        <schema:organizer>
+          <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/2116723#Agent/oficina_tip_de_la_secretaria_de_fomento">
+            <schema:name>Oficina tip. de la Secretaría de fomento</schema:name>
+          </bgn:Agent>
+        </schema:organizer>
+        <schema:startDate>1894</schema:startDate>
+      </schema:PublicationEvent>
+    </schema:publication>
+    <schema:contributor>
+      <schema:Organization rdf:about="http://experiment.worldcat.org/entity/work/data/2116723#Organization/mexico_ministerio_de_fomento">
+        <schema:name>Mexico. Ministerio de Fomento.</schema:name>
+      </schema:Organization>
+    </schema:contributor>
+    <schema:bookEdition>Ed. 2.</schema:bookEdition>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/mx">
+        <dcterms:identifier>mx</dcterms:identifier>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:author>
+      <schema:Person rdf:about="http://experiment.worldcat.org/entity/work/data/2116723#Person/mozino_jose_mariano_1757_1820">
+        <schema:familyName>Moziño</schema:familyName>
+        <schema:givenName>José Mariano</schema:givenName>
+        <schema:name>José Mariano Moziño</schema:name>
+        <schema:birthDate>1757</schema:birthDate>
+        <schema:deathDate>1820?,</schema:deathDate>
+      </schema:Person>
+    </schema:author>
+    <schema:publisher rdf:resource="http://experiment.worldcat.org/entity/work/data/2116723#Agent/oficina_tip_de_la_secretaria_de_fomento"/>
+    <library:placeOfPublication rdf:resource="http://experiment.worldcat.org/entity/work/data/2116723#Place/mexico"/>
+    <schema:name>Flora mexicana a Martino Sesse et Josepho Marianno Mociño exarata.</schema:name>
+    <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/2116723"/>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/2116723#Topic/botany_mexico">
+        <schema:name>Botany--Mexico</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/2116723#Topic/botany">
+        <schema:name>Botany</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <rdf:type rdf:resource="http://schema.org/Book"/>
+    <schema:productID>1076419284</schema:productID>
+    <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/2116723#Topic/botanique_mexique">
+        <schema:name>Botanique--Mexique</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:about rdf:resource="http://experiment.worldcat.org/entity/work/data/2116723#Place/mexico"/>
+  </schema:CreativeWork>
+</rdf:RDF>

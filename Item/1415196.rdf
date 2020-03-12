@@ -1,0 +1,104 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <schema:Book rdf:about="http://www.worldcat.org/oclc/1076421797">
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/1346136#Topic/botany">
+        <schema:name xml:lang="en">Botany</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:productID>1076421797</schema:productID>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/1346136#Topic/42_40_botany_general">
+        <schema:name xml:lang="en">42.40 botany: general</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/pau">
+        <dcterms:identifier>pau</dcterms:identifier>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:url rdf:resource="http://nolan.acnatsci.org/search/o?SEARCH=1415196"/>
+    <schema:datePublished>1818</schema:datePublished>
+    <schema:publisher>
+      <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/1346136#Agent/printed_for_the_author_by_d_heartt">
+        <schema:name>Printed for the author by D. Heartt.</schema:name>
+      </bgn:Agent>
+    </schema:publisher>
+    <schema:about>
+      <schema:Intangible rdf:about="http://dewey.info/class/580/"/>
+    </schema:about>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/1346136#Place/philadelphia">
+        <schema:name>Philadelphia</schema:name>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:name xml:lang="en">The genera of North American plants, and a catalogue of the species, to the year 1817.</schema:name>
+    <library:oclcnum>1076421797</library:oclcnum>
+    <schema:about>
+      <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/1346136#Place/north_america">
+        <schema:name>North America.</schema:name>
+      </schema:Place>
+    </schema:about>
+    <schema:creator>
+      <schema:Person rdf:about="http://experiment.worldcat.org/entity/work/data/1346136#Person/nuttall_thomas_1786_1859">
+        <schema:familyName>Nuttall</schema:familyName>
+        <schema:givenName>Thomas</schema:givenName>
+        <schema:name>Thomas Nuttall</schema:name>
+        <schema:birthDate>1786</schema:birthDate>
+        <schema:deathDate>1859</schema:deathDate>
+      </schema:Person>
+    </schema:creator>
+    <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+    <schema:genre xml:lang="en">Catalogs</schema:genre>
+    <schema:isSimilarTo>
+      <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/659439337">
+        <schema:isSimilarTo rdf:resource="http://www.worldcat.org/oclc/1076421797"/>
+        <rdfs:label>Genera of North American plants.</rdfs:label>
+        <schema:description>Online version:</schema:description>
+      </schema:CreativeWork>
+    </schema:isSimilarTo>
+    <schema:publication>
+      <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/1076421797#PublicationEvent/philadelphia_printed_for_the_author_by_d_heartt_1818">
+        <schema:location rdf:resource="http://experiment.worldcat.org/entity/work/data/1346136#Place/philadelphia"/>
+        <schema:organizer rdf:resource="http://experiment.worldcat.org/entity/work/data/1346136#Agent/printed_for_the_author_by_d_heartt"/>
+        <schema:startDate>1818</schema:startDate>
+      </schema:PublicationEvent>
+    </schema:publication>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/1346136#Topic/botanique_amerique_du_nord">
+        <schema:name xml:lang="fr">Botanique--Amérique du Nord</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:inLanguage>en</schema:inLanguage>
+    <wdrs:describedby>
+      <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/1076421797">
+        <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+        <schema:about rdf:resource="http://www.worldcat.org/oclc/1076421797"/>
+        <schema:dateModified>2020-02-18</schema:dateModified>
+        <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+      </genont:ContentTypeGenericResource>
+    </wdrs:describedby>
+    <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/1346136"/>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/1346136#Topic/botany_north_america">
+        <schema:name xml:lang="en">Botany--North America</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/1346136#Topic/plant_species">
+        <schema:name xml:lang="en">Plant species</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+  </schema:Book>
+</rdf:RDF>

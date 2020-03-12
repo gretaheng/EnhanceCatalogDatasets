@@ -1,0 +1,83 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <schema:Book rdf:about="http://www.worldcat.org/oclc/3800753">
+    <schema:productID>3800753</schema:productID>
+    <schema:inLanguage>la</schema:inLanguage>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/11319204#Place/berolini">
+        <schema:name>Berolini</schema:name>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+    <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/11319204"/>
+    <schema:isSimilarTo>
+      <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/659240593">
+        <schema:isSimilarTo rdf:resource="http://www.worldcat.org/oclc/3800753"/>
+        <rdfs:label>Enumeratio plantarum Horti regii botanici berolinensis altera.</rdfs:label>
+        <schema:description>Online version:</schema:description>
+      </schema:CreativeWork>
+    </schema:isSimilarTo>
+    <schema:name>Enumeratio plantarum Horti regii botanici berolinensis altera.</schema:name>
+    <wdrs:describedby>
+      <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/3800753">
+        <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+        <schema:about rdf:resource="http://www.worldcat.org/oclc/3800753"/>
+        <schema:dateModified>2018-11-15</schema:dateModified>
+        <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+      </genont:ContentTypeGenericResource>
+    </wdrs:describedby>
+    <schema:datePublished>1821/1822</schema:datePublished>
+    <schema:datePublished>1821/22</schema:datePublished>
+    <library:oclcnum>3800753</library:oclcnum>
+    <schema:about>
+      <schema:Organization rdf:about="http://viaf.org/viaf/159934161">
+        <schema:name>Humboldt-Universität zu Berlin. Botanischer Garten.</schema:name>
+      </schema:Organization>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/836869">
+        <schema:name>Botany</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/gw">
+        <dcterms:identifier>gw</dcterms:identifier>
+      </schema:Place>
+    </library:placeOfPublication>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:publisher>
+      <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/11319204#Agent/apud_g_reimer">
+        <schema:name>apud G. Reimer</schema:name>
+      </bgn:Agent>
+    </schema:publisher>
+    <schema:publication>
+      <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/3800753#PublicationEvent/berolini_apud_g_reimer_1821_22">
+        <schema:location rdf:resource="http://experiment.worldcat.org/entity/work/data/11319204#Place/berolini"/>
+        <schema:organizer rdf:resource="http://experiment.worldcat.org/entity/work/data/11319204#Agent/apud_g_reimer"/>
+        <schema:startDate>1821-22</schema:startDate>
+      </schema:PublicationEvent>
+    </schema:publication>
+    <schema:about>
+      <schema:Intangible rdf:about="http://dewey.info/class/580.743/"/>
+    </schema:about>
+    <schema:creator>
+      <schema:Person rdf:about="http://viaf.org/viaf/49339478">
+        <schema:familyName>Link</schema:familyName>
+        <schema:givenName>Heinrich Friedrich</schema:givenName>
+        <schema:name>Heinrich Friedrich Link</schema:name>
+        <schema:birthDate>1767</schema:birthDate>
+        <schema:deathDate>1851</schema:deathDate>
+      </schema:Person>
+    </schema:creator>
+  </schema:Book>
+</rdf:RDF>

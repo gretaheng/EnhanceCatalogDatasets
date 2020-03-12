@@ -1,0 +1,101 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <schema:Book rdf:about="http://www.worldcat.org/oclc/3428907">
+    <schema:creator>
+      <schema:Person rdf:about="http://viaf.org/viaf/35230910">
+        <schema:familyName>Urban</schema:familyName>
+        <schema:givenName>Ignaz</schema:givenName>
+        <schema:name>Ignaz Urban</schema:name>
+        <schema:birthDate>1848</schema:birthDate>
+        <schema:deathDate>1931</schema:deathDate>
+      </schema:Person>
+    </schema:creator>
+    <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+    <schema:publisher>
+      <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/4389266#Agent/paul_klincksieck">
+        <schema:name>Paul Klincksieck</schema:name>
+      </bgn:Agent>
+    </schema:publisher>
+    <schema:about>
+      <schema:Place rdf:about="http://id.worldcat.org/fast/1243265">
+        <schema:name>West Indies.</schema:name>
+      </schema:Place>
+    </schema:about>
+    <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/4389266"/>
+    <library:oclcnum>3428907</library:oclcnum>
+    <schema:publisher>
+      <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/4389266#Agent/fratres_borntraeger">
+        <schema:name>Fratres Borntraeger</schema:name>
+      </bgn:Agent>
+    </schema:publisher>
+    <schema:name>Symbolae Antillanae : seu fundamenta florae Indiae Occidentalis</schema:name>
+    <schema:about>
+      <schema:Intangible rdf:about="http://dewey.info/class/581.9729/"/>
+    </schema:about>
+    <schema:datePublished>1898/1928</schema:datePublished>
+    <schema:inLanguage>de</schema:inLanguage>
+    <schema:isSimilarTo>
+      <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/646876792">
+        <schema:isSimilarTo rdf:resource="http://www.worldcat.org/oclc/3428907"/>
+        <rdfs:label>Symbolae Antillanae.</rdfs:label>
+        <schema:description>Online version:</schema:description>
+      </schema:CreativeWork>
+    </schema:isSimilarTo>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/836869">
+        <schema:name>Botany</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/gw">
+        <dcterms:identifier>gw</dcterms:identifier>
+      </schema:Place>
+    </library:placeOfPublication>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:productID>3428907</schema:productID>
+    <schema:alternateName>Fundamenta florae Indiae Occidentalis</schema:alternateName>
+    <schema:publication>
+      <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/3428907#PublicationEvent/berolini_fratres_borntraeger_parisiis_paul_klincksieck_1898_1928">
+        <schema:location>
+          <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/4389266#Place/berolini">
+            <schema:name>Berolini</schema:name>
+          </schema:Place>
+        </schema:location>
+        <schema:location>
+          <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/4389266#Place/parisiis">
+            <schema:name>Parisiis</schema:name>
+          </schema:Place>
+        </schema:location>
+        <schema:organizer rdf:resource="http://experiment.worldcat.org/entity/work/data/4389266#Agent/fratres_borntraeger"/>
+        <schema:organizer rdf:resource="http://experiment.worldcat.org/entity/work/data/4389266#Agent/paul_klincksieck"/>
+        <schema:startDate>1898-1928</schema:startDate>
+      </schema:PublicationEvent>
+    </schema:publication>
+    <library:placeOfPublication rdf:resource="http://experiment.worldcat.org/entity/work/data/4389266#Place/berolini"/>
+    <wdrs:describedby>
+      <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/3428907">
+        <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+        <schema:about rdf:resource="http://www.worldcat.org/oclc/3428907"/>
+        <schema:dateModified>2018-11-11</schema:dateModified>
+        <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+      </genont:ContentTypeGenericResource>
+    </wdrs:describedby>
+    <library:placeOfPublication rdf:resource="http://experiment.worldcat.org/entity/work/data/4389266#Place/parisiis"/>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/4389266#Topic/botany_west_indies">
+        <schema:hasPart rdf:resource="http://id.loc.gov/authorities/subjects/sh85015976"/>
+        <schema:name>Botany--West Indies</schema:name>
+      </schema:Intangible>
+    </schema:about>
+  </schema:Book>
+</rdf:RDF>

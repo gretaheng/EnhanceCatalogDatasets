@@ -1,0 +1,137 @@
+<rdf:RDF
+    xmlns:umbel="http://umbel.org/umbel#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <schema:Periodical rdf:about="http://worldcat.org/issn/0006-8152">
+    <schema:name>Botanische Jahrbücher für Systematik, Pflanzengeschichte und Pflanzengeographie.</schema:name>
+    <schema:issn>0006-8152</schema:issn>
+    <umbel:isLike>
+      <rdf:Description rdf:about="http://worldcat.org/entity/work/id/1081097957">
+        <umbel:isLike rdf:resource="http://worldcat.org/issn/0006-8152"/>
+      </rdf:Description>
+    </umbel:isLike>
+  </schema:Periodical>
+  <schema:Periodical rdf:about="http://www.worldcat.org/oclc/1536907">
+    <schema:genre>Zeitschrift</schema:genre>
+    <umbel:isLike rdf:resource="http://d-nb.info/011276002"/>
+    <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/1081097957"/>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/1081097957#Topic/plantes_migration_periodiques">
+        <schema:name xml:lang="fr">Plantes--Migration--Périodiques</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <library:oclcnum>1536907</library:oclcnum>
+    <schema:inLanguage>de</schema:inLanguage>
+    <schema:url rdf:resource="http://www.biodiversitylibrary.org/bibliography/60"/>
+    <schema:name>Botanische Jahrbücher für Systematik, Pflanzengeschichte und Pflanzengeographie.</schema:name>
+    <schema:about>
+      <schema:Intangible rdf:about="http://dewey.info/class/580.5/"/>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/1081097957#Topic/pflanzen">
+        <schema:name>Pflanzen</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/1081097957#Topic/botany_periodicals">
+        <schema:name>Botany--periodicals</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <wdrs:describedby>
+      <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/1536907">
+        <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+        <schema:about rdf:resource="http://www.worldcat.org/oclc/1536907"/>
+        <schema:dateModified>2019-09-08</schema:dateModified>
+        <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+      </genont:ContentTypeGenericResource>
+    </wdrs:describedby>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/836869">
+        <schema:name>Botany</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/1081097957#Topic/taxonomie">
+        <schema:name>Taxonomie</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:datePublished>1881/2009</schema:datePublished>
+    <schema:publisher>
+      <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/1081097957#Agent/schweizerbart">
+        <schema:name>Schweizerbart</schema:name>
+      </bgn:Agent>
+    </schema:publisher>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/1081097957#Topic/paleobotanie">
+        <schema:name>Paleobotanie</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:isSimilarTo>
+      <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/700633614">
+        <schema:isSimilarTo rdf:resource="http://www.worldcat.org/oclc/1536907"/>
+        <rdfs:label>Botanische Jahrbücher für Systematik, Pflanzengeschichte und Pflanzengeographie</rdfs:label>
+        <schema:description>Online version:</schema:description>
+      </schema:CreativeWork>
+    </schema:isSimilarTo>
+    <schema:about>
+      <schema:Thing rdf:about="http://experiment.worldcat.org/entity/work/data/1081097957#Thing/plant_morphology">
+        <schema:name>Plant morphology</schema:name>
+      </schema:Thing>
+    </schema:about>
+    <schema:publication>
+      <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/1536907#PublicationEvent/stuttgart_schweizerbart_1881_2009">
+        <schema:location>
+          <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/1081097957#Place/stuttgart">
+            <schema:name>Stuttgart</schema:name>
+          </schema:Place>
+        </schema:location>
+        <schema:organizer rdf:resource="http://experiment.worldcat.org/entity/work/data/1081097957#Agent/schweizerbart"/>
+        <schema:startDate>1881-2009</schema:startDate>
+      </schema:PublicationEvent>
+    </schema:publication>
+    <schema:workExample rdf:resource="http://worldcat.org/issn/0006-8152"/>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/gw">
+        <dcterms:identifier>gw</dcterms:identifier>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/1081097957#Topic/botany">
+        <rdfs:seeAlso rdf:resource="http://id.loc.gov/authorities/subjects/sh2007102112"/>
+        <schema:name>Botany</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:genre>Periodicals</schema:genre>
+    <schema:contributor>
+      <schema:Person rdf:about="http://viaf.org/viaf/73914023">
+        <schema:familyName>Engler</schema:familyName>
+        <schema:givenName>Adolf</schema:givenName>
+        <schema:name>Adolf Engler</schema:name>
+        <schema:birthDate>1844</schema:birthDate>
+        <schema:deathDate>1930</schema:deathDate>
+      </schema:Person>
+    </schema:contributor>
+    <schema:productID>1536907</schema:productID>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/1081097957#Topic/botanique">
+        <schema:name xml:lang="fr">Botanique</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/1081097957#Topic/plantengeografie">
+        <schema:name>Plantengeografie</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <library:placeOfPublication rdf:resource="http://experiment.worldcat.org/entity/work/data/1081097957#Place/stuttgart"/>
+  </schema:Periodical>
+</rdf:RDF>

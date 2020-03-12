@@ -1,0 +1,104 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:library="http://purl.org/library/"
+    xmlns:bgn="http://bibliograph.net/"
+    xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:genont="http://www.w3.org/2006/gen/ont#"
+    xmlns:pto="http://www.productontology.org/id/"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/5837123">
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/20167201#Topic/botany_belgium">
+        <schema:hasPart rdf:resource="http://id.loc.gov/authorities/subjects/sh85015976"/>
+        <schema:name>Botany--Belgium</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:inLanguage>fr</schema:inLanguage>
+    <library:oclcnum>5837123</library:oclcnum>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/20167201#Topic/plantkunde">
+        <schema:name>Plantkunde</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/836869">
+        <schema:name>Botany</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:creator>
+      <schema:Person rdf:about="http://viaf.org/viaf/67212305">
+        <schema:familyName>Du Mortier</schema:familyName>
+        <schema:givenName>B.-C</schema:givenName>
+        <schema:givenName>Barthélemy-Charles</schema:givenName>
+        <schema:name>Barthélemy-Charles Du Mortier</schema:name>
+        <schema:birthDate>1797</schema:birthDate>
+        <schema:deathDate>1878</schema:deathDate>
+      </schema:Person>
+    </schema:creator>
+    <schema:about>
+      <schema:Intangible rdf:about="http://experiment.worldcat.org/entity/work/data/20167201#Topic/grassen">
+        <schema:name>Grassen</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <schema:datePublished>1823</schema:datePublished>
+    <schema:about>
+      <schema:Intangible rdf:about="http://dewey.info/class/582/"/>
+    </schema:about>
+    <schema:publication>
+      <schema:PublicationEvent rdf:about="http://www.worldcat.org/title/-/oclc/5837123#PublicationEvent/tournay_impr_de_j_casterman_1823">
+        <schema:location>
+          <schema:Place rdf:about="http://experiment.worldcat.org/entity/work/data/20167201#Place/tournay">
+            <schema:name>Tournay</schema:name>
+          </schema:Place>
+        </schema:location>
+        <schema:organizer>
+          <bgn:Agent rdf:about="http://experiment.worldcat.org/entity/work/data/20167201#Agent/impr_de_j_casterman">
+            <schema:name>Impr. de J. Casterman</schema:name>
+          </bgn:Agent>
+        </schema:organizer>
+        <schema:startDate>1823</schema:startDate>
+      </schema:PublicationEvent>
+    </schema:publication>
+    <schema:about>
+      <schema:Place rdf:about="http://id.worldcat.org/fast/1210278">
+        <schema:name>Belgium.</schema:name>
+      </schema:Place>
+    </schema:about>
+    <schema:about>
+      <schema:Intangible rdf:about="http://id.worldcat.org/fast/946724">
+        <schema:name>Grasses</schema:name>
+      </schema:Intangible>
+    </schema:about>
+    <library:placeOfPublication>
+      <schema:Place rdf:about="http://id.loc.gov/vocabulary/countries/be">
+        <dcterms:identifier>be</dcterms:identifier>
+      </schema:Place>
+    </library:placeOfPublication>
+    <schema:bookFormat rdf:resource="http://bibliograph.net/PrintBook"/>
+    <schema:name>Observations sur les graminées de la flore belgique,</schema:name>
+    <schema:productID>5837123</schema:productID>
+    <schema:isSimilarTo>
+      <schema:CreativeWork rdf:about="http://www.worldcat.org/oclc/659370591">
+        <schema:isSimilarTo rdf:resource="http://www.worldcat.org/oclc/5837123"/>
+        <rdfs:label>Observations sur les graminées de la flore belgique.</rdfs:label>
+        <schema:description>Online version:</schema:description>
+      </schema:CreativeWork>
+    </schema:isSimilarTo>
+    <schema:exampleOfWork rdf:resource="http://worldcat.org/entity/work/id/20167201"/>
+    <rdf:type rdf:resource="http://schema.org/Book"/>
+    <schema:publisher rdf:resource="http://experiment.worldcat.org/entity/work/data/20167201#Agent/impr_de_j_casterman"/>
+    <wdrs:describedby>
+      <genont:ContentTypeGenericResource rdf:about="http://www.worldcat.org/title/-/oclc/5837123">
+        <rdf:type rdf:resource="http://www.w3.org/2006/gen/ont#InformationResource"/>
+        <schema:about rdf:resource="http://www.worldcat.org/oclc/5837123"/>
+        <schema:dateModified>2018-11-07</schema:dateModified>
+        <void:inDataset rdf:resource="http://purl.oclc.org/dataset/WorldCat"/>
+      </genont:ContentTypeGenericResource>
+    </wdrs:describedby>
+    <library:placeOfPublication rdf:resource="http://experiment.worldcat.org/entity/work/data/20167201#Place/tournay"/>
+  </schema:CreativeWork>
+</rdf:RDF>
