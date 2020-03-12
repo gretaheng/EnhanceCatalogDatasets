@@ -1,8 +1,8 @@
 # Enhance Catalog Datasets with linked data
 Given OCLC numbers, this Python script generates a 'Result.csv' file and an "errors.txt". In 'Result.csv', each row has an OCLC number, the LCSH links, GeoName links, VIAF links and types for the creator(s), contributer(s), and subject(s). If any errors occur while downloading .rdf files, the OCLC number will be added to "errors.txt". The script could also generate reports for given OCLC numbers' creators, contributors, and subjects seperatly in three .txt files.  
 ## Requirements
-Python 3
-A .txt file of OCLC numbers (example, "test_100.txt")
+- Python 3
+- A .txt file of OCLC numbers (example, "test_100.txt")
 ## Usage
 1. Put the scirpt(**"GET_LCSH_VIAF.py"**) and your input .txt file (**[TXT]**) in the same folder
 2. Create two folders to  store 
