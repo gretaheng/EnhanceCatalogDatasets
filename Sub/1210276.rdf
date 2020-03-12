@@ -1,0 +1,82 @@
+<rdf:RDF xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:norm="http://whatever/java/org.oclc.marc.NormalFormC" xmlns:dct="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:schema="http://schema.org/" xmlns:void="http://rdfs.org/ns/void#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:coord="http://whatever/java/org.oclc.marc.CoordToDecimal" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:mx="http://www.loc.gov/MARC21/slim" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="http://id.worldcat.org/fast/">
+<rdf:Description rdf:about="1210276">
+<dct:identifier>1210276</dct:identifier>
+<skos:inScheme rdf:resource="ontology/1.0/#fast"/>
+<rdf:type rdf:resource="http://schema.org/Place"/>
+<skos:inScheme rdf:resource="ontology/1.0/#facet-Geographic"/>
+<skos:prefLabel>India</skos:prefLabel>
+<schema:name>India</schema:name>
+<skos:altLabel>Bharat</skos:altLabel>
+<schema:name>Bharat</schema:name>
+<skos:altLabel>Bhārata</skos:altLabel>
+<schema:name>Bhārata</schema:name>
+<skos:altLabel>Government of India</skos:altLabel>
+<schema:name>Government of India</schema:name>
+<skos:altLabel>Ḣindiston Respublikasi</skos:altLabel>
+<schema:name>Ḣindiston Respublikasi</schema:name>
+<skos:altLabel>Inde</skos:altLabel>
+<schema:name>Inde</schema:name>
+<skos:altLabel>Indië</skos:altLabel>
+<schema:name>Indië</schema:name>
+<skos:altLabel>Indien</skos:altLabel>
+<schema:name>Indien</schema:name>
+<skos:altLabel>Indii︠a︡</skos:altLabel>
+<schema:name>Indii︠a︡</schema:name>
+<skos:altLabel>Indland</skos:altLabel>
+<schema:name>Indland</schema:name>
+<skos:altLabel>Indo</skos:altLabel>
+<schema:name>Indo</schema:name>
+<skos:altLabel>Republic of India</skos:altLabel>
+<schema:name>Republic of India</schema:name>
+<skos:altLabel>Sāthāranarat ʻIndīa</skos:altLabel>
+<schema:name>Sāthāranarat ʻIndīa</schema:name>
+<skos:altLabel>Yin-tu</skos:altLabel>
+<schema:name>Yin-tu</schema:name>
+<schema:sameAs>
+<rdf:Description rdf:about="http://id.loc.gov/authorities/names/n80125948">
+<rdfs:label>India</rdfs:label>
+</rdf:Description>
+</schema:sameAs>
+<schema:sameAs>
+<rdf:Description rdf:about="http://www.geonames.org/6269134">
+<rdfs:label>Indian Subcontinent</rdfs:label>
+</rdf:Description>
+</schema:sameAs>
+<schema:sameAs>
+<rdf:Description rdf:about="https://viaf.org/viaf/135375457">
+<rdfs:label>India</rdfs:label>
+</rdf:Description>
+</schema:sameAs>
+<schema:geo>
+<schema:GeoCoordinates>
+<schema:latitude>22.20778</schema:latitude>
+<schema:longitude>76.97028</schema:longitude>
+</schema:GeoCoordinates>
+</schema:geo>
+</rdf:Description>
+<rdf:Description rdf:about="fst01210276">
+<rdfs:comment>This identifier is deprecated. See the rdfs:seeAlso link for the new identifier.</rdfs:comment>
+<rdfs:seeAlso rdf:resource="1210276"/>
+</rdf:Description>
+<foaf:Document rdf:about="1210276/rdf.xml">
+<void:inDataset rdf:resource="http://id.worldcat.org/fast/void/0.1"/>
+<foaf:primaryTopic rdf:resource="1210276"/>
+<dc:format>application/rdf+xml</dc:format>
+<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2006-06-20T00:00:00.0</dct:created>
+<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-08-06T16:14:33.0</dct:modified>
+<dct:language rdf:resource="http://lexvo.org/id/iso639-3/eng"/>
+<skos:changeNote xml:lang="en">Cataloged by agency: OCoLC</skos:changeNote>
+<skos:changeNote xml:lang="en">Transcribed by agency: OCoLC</skos:changeNote>
+</foaf:Document>
+<void:Dataset rdf:about="http://id.worldcat.org/fast/void/0.1">
+<dct:title>FAST (Faceted Application of Subject Terminology) Data</dct:title>
+<dct:license>
+<rdf:Description rdf:about="http://www.oclc.org/research/activities/fast/odcby.htm">
+<dct:title>Open Data Commons Attribution License (ODC-By) v1.0</dct:title>
+<rdfs:comment>This is OCLC's "local copy" of the ODC-By license</rdfs:comment>
+<rdfs:seeAlso rdf:resource="http://opendatacommons.org/licenses/by/#toc-anchor-337-3"/>
+<owl:sameAs rdf:resource="http://opendatacommons.org/licenses/by/1-0/"/>
+</rdf:Description>
+</dct:license>
+</void:Dataset>
+</rdf:RDF>

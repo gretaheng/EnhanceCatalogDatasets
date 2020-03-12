@@ -1,0 +1,158 @@
+<rdf:RDF xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:norm="http://whatever/java/org.oclc.marc.NormalFormC" xmlns:dct="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:schema="http://schema.org/" xmlns:void="http://rdfs.org/ns/void#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:coord="http://whatever/java/org.oclc.marc.CoordToDecimal" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:mx="http://www.loc.gov/MARC21/slim" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="http://id.worldcat.org/fast/">
+<rdf:Description rdf:about="1204543">
+<dct:identifier>1204543</dct:identifier>
+<skos:inScheme rdf:resource="ontology/1.0/#fast"/>
+<rdf:type rdf:resource="http://schema.org/Place"/>
+<skos:inScheme rdf:resource="ontology/1.0/#facet-Geographic"/>
+<skos:prefLabel>Australia</skos:prefLabel>
+<schema:name>Australia</schema:name>
+<skos:altLabel>Ahitereiria</skos:altLabel>
+<schema:name>Ahitereiria</schema:name>
+<skos:altLabel>Aostralia</skos:altLabel>
+<schema:name>Aostralia</schema:name>
+<skos:altLabel>Ástralía</skos:altLabel>
+<schema:name>Ástralía</schema:name>
+<skos:altLabel>ʻAukekulelia</skos:altLabel>
+<schema:name>ʻAukekulelia</schema:name>
+<skos:altLabel>Austraalia</skos:altLabel>
+<schema:name>Austraalia</schema:name>
+<skos:altLabel>Austraalia Ühendus</skos:altLabel>
+<schema:name>Austraalia Ühendus</schema:name>
+<skos:altLabel>Australian Government</skos:altLabel>
+<schema:name>Australian Government</schema:name>
+<skos:altLabel>Australie</skos:altLabel>
+<schema:name>Australie</schema:name>
+<skos:altLabel>Australien</skos:altLabel>
+<schema:name>Australien</schema:name>
+<skos:altLabel>Australiese Gemenebes</skos:altLabel>
+<schema:name>Australiese Gemenebes</schema:name>
+<skos:altLabel>Aŭstralii︠a︡</skos:altLabel>
+<schema:name>Aŭstralii︠a︡</schema:name>
+<skos:altLabel>Australija</skos:altLabel>
+<schema:name>Australija</schema:name>
+<skos:altLabel>Austrālijas Savienība</skos:altLabel>
+<schema:name>Austrālijas Savienība</schema:name>
+<skos:altLabel>Australijos Sandrauga</skos:altLabel>
+<schema:name>Australijos Sandrauga</schema:name>
+<skos:altLabel>Aŭstralio</skos:altLabel>
+<schema:name>Aŭstralio</schema:name>
+<skos:altLabel>Australské společenství</skos:altLabel>
+<schema:name>Australské společenství</schema:name>
+<skos:altLabel>Ausztrál Államszövetség</skos:altLabel>
+<schema:name>Ausztrál Államszövetség</schema:name>
+<skos:altLabel>Ausztrália</skos:altLabel>
+<schema:name>Ausztrália</schema:name>
+<skos:altLabel>Avstralii︠a︡</skos:altLabel>
+<schema:name>Avstralii︠a︡</schema:name>
+<skos:altLabel>Avstraliĭski sŭi︠u︡z</skos:altLabel>
+<schema:name>Avstraliĭski sŭi︠u︡z</schema:name>
+<skos:altLabel>Avstraliĭskiĭ Soi︠u︡z</skos:altLabel>
+<schema:name>Avstraliĭskiĭ Soi︠u︡z</schema:name>
+<skos:altLabel>Avstraliĭskii︠a︡t sŭi︠u︡z</skos:altLabel>
+<schema:name>Avstraliĭskii︠a︡t sŭi︠u︡z</schema:name>
+<skos:altLabel>Avstralija</skos:altLabel>
+<schema:name>Avstralija</schema:name>
+<skos:altLabel>Awstralia</skos:altLabel>
+<schema:name>Awstralia</schema:name>
+<skos:altLabel>Awstralja</skos:altLabel>
+<schema:name>Awstralja</schema:name>
+<skos:altLabel>Awstralya</skos:altLabel>
+<schema:name>Awstralya</schema:name>
+<skos:altLabel>Aystralia</skos:altLabel>
+<schema:name>Aystralia</schema:name>
+<skos:altLabel>Commonwealth of Australia</skos:altLabel>
+<schema:name>Commonwealth of Australia</schema:name>
+<skos:altLabel>Cymanwlad Awstralia</skos:altLabel>
+<schema:name>Cymanwlad Awstralia</schema:name>
+<skos:altLabel>Državna zaednica Avstralija</skos:altLabel>
+<schema:name>Državna zaednica Avstralija</schema:name>
+<skos:altLabel>Government of Australia</skos:altLabel>
+<schema:name>Government of Australia</schema:name>
+<skos:altLabel>Ḳehiliyat Osṭralyah</skos:altLabel>
+<schema:name>Ḳehiliyat Osṭralyah</schema:name>
+<skos:altLabel>Koinopoliteia tēs Aystralias</skos:altLabel>
+<schema:name>Koinopoliteia tēs Aystralias</schema:name>
+<skos:altLabel>Komanwel Australia</skos:altLabel>
+<schema:name>Komanwel Australia</schema:name>
+<skos:altLabel>Komonveltot na Avstralija</skos:altLabel>
+<schema:name>Komonveltot na Avstralija</schema:name>
+<skos:altLabel>Komonwelt sa Awstralya</skos:altLabel>
+<schema:name>Komonwelt sa Awstralya</schema:name>
+<skos:altLabel>Komunaĵo de Aŭstralio</skos:altLabel>
+<schema:name>Komunaĵo de Aŭstralio</schema:name>
+<skos:altLabel>Komunejo de Aŭstralio</skos:altLabel>
+<schema:name>Komunejo de Aŭstralio</schema:name>
+<skos:altLabel>Kūmunwālth al-Usturālī</skos:altLabel>
+<schema:name>Kūmunwālth al-Usturālī</schema:name>
+<skos:altLabel>Mancomunidad de Australia</skos:altLabel>
+<schema:name>Mancomunidad de Australia</schema:name>
+<skos:altLabel>Mancomunitat d'Austràlia</skos:altLabel>
+<schema:name>Mancomunitat d'Austràlia</schema:name>
+<skos:altLabel>Negara Persemakmuran Australia</skos:altLabel>
+<schema:name>Negara Persemakmuran Australia</schema:name>
+<skos:altLabel>New Holland</skos:altLabel>
+<schema:name>New Holland</schema:name>
+<skos:altLabel>Nova Hollandia</skos:altLabel>
+<schema:name>Nova Hollandia</schema:name>
+<skos:altLabel>Osṭralyah</skos:altLabel>
+<schema:name>Osṭralyah</schema:name>
+<skos:altLabel>Ōsutoraria</skos:altLabel>
+<schema:name>Ōsutoraria</schema:name>
+<skos:altLabel>Persemakmuran Australia</skos:altLabel>
+<schema:name>Persemakmuran Australia</schema:name>
+<skos:altLabel>Samveldið Ástralía</skos:altLabel>
+<schema:name>Samveldið Ástralía</schema:name>
+<skos:altLabel>Usṭralyah</skos:altLabel>
+<schema:name>Usṭralyah</schema:name>
+<skos:altLabel>Usturāliyā</skos:altLabel>
+<schema:name>Usturāliyā</schema:name>
+<skos:altLabel>Whakaminenga o Ahitereiria</skos:altLabel>
+<schema:name>Whakaminenga o Ahitereiria</schema:name>
+<schema:sameAs>
+<rdf:Description rdf:about="http://id.loc.gov/authorities/names/n79021326">
+<rdfs:label>Australia</rdfs:label>
+</rdf:Description>
+</schema:sameAs>
+<schema:sameAs>
+<rdf:Description rdf:about="http://www.geonames.org/2077456">
+<rdfs:label>Commonwealth of Australia</rdfs:label>
+</rdf:Description>
+</schema:sameAs>
+<schema:sameAs>
+<rdf:Description rdf:about="https://viaf.org/viaf/128919823">
+<rdfs:label>Australia</rdfs:label>
+</rdf:Description>
+</schema:sameAs>
+<schema:geo>
+<schema:GeoCoordinates>
+<schema:latitude>-25.00000</schema:latitude>
+<schema:longitude>135.00000</schema:longitude>
+</schema:GeoCoordinates>
+</schema:geo>
+</rdf:Description>
+<rdf:Description rdf:about="fst01204543">
+<rdfs:comment>This identifier is deprecated. See the rdfs:seeAlso link for the new identifier.</rdfs:comment>
+<rdfs:seeAlso rdf:resource="1204543"/>
+</rdf:Description>
+<foaf:Document rdf:about="1204543/rdf.xml">
+<void:inDataset rdf:resource="http://id.worldcat.org/fast/void/0.1"/>
+<foaf:primaryTopic rdf:resource="1204543"/>
+<dc:format>application/rdf+xml</dc:format>
+<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2006-06-20T00:00:00.0</dct:created>
+<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-08-06T16:14:33.0</dct:modified>
+<dct:language rdf:resource="http://lexvo.org/id/iso639-3/eng"/>
+<skos:changeNote xml:lang="en">Cataloged by agency: OCoLC</skos:changeNote>
+<skos:changeNote xml:lang="en">Transcribed by agency: OCoLC</skos:changeNote>
+</foaf:Document>
+<void:Dataset rdf:about="http://id.worldcat.org/fast/void/0.1">
+<dct:title>FAST (Faceted Application of Subject Terminology) Data</dct:title>
+<dct:license>
+<rdf:Description rdf:about="http://www.oclc.org/research/activities/fast/odcby.htm">
+<dct:title>Open Data Commons Attribution License (ODC-By) v1.0</dct:title>
+<rdfs:comment>This is OCLC's "local copy" of the ODC-By license</rdfs:comment>
+<rdfs:seeAlso rdf:resource="http://opendatacommons.org/licenses/by/#toc-anchor-337-3"/>
+<owl:sameAs rdf:resource="http://opendatacommons.org/licenses/by/1-0/"/>
+</rdf:Description>
+</dct:license>
+</void:Dataset>
+</rdf:RDF>

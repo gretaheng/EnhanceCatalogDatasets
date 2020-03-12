@@ -1,0 +1,231 @@
+<rdf:RDF xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:norm="http://whatever/java/org.oclc.marc.NormalFormC" xmlns:dct="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:schema="http://schema.org/" xmlns:void="http://rdfs.org/ns/void#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:coord="http://whatever/java/org.oclc.marc.CoordToDecimal" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:mx="http://www.loc.gov/MARC21/slim" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="http://id.worldcat.org/fast/">
+<rdf:Description rdf:about="1210278">
+<dct:identifier>1210278</dct:identifier>
+<skos:inScheme rdf:resource="ontology/1.0/#fast"/>
+<rdf:type rdf:resource="http://schema.org/Place"/>
+<skos:inScheme rdf:resource="ontology/1.0/#facet-Geographic"/>
+<skos:prefLabel>Belgium</skos:prefLabel>
+<schema:name>Belgium</schema:name>
+<skos:altLabel>Bäigien</skos:altLabel>
+<schema:name>Bäigien</schema:name>
+<skos:altLabel>Baljīkā</skos:altLabel>
+<schema:name>Baljīkā</schema:name>
+<skos:altLabel>Belchica</skos:altLabel>
+<schema:name>Belchica</schema:name>
+<skos:altLabel>Belçika</skos:altLabel>
+<schema:name>Belçika</schema:name>
+<skos:altLabel>Belçika Krallığı</skos:altLabel>
+<schema:name>Belçika Krallığı</schema:name>
+<skos:altLabel>Beldjym</skos:altLabel>
+<schema:name>Beldjym</schema:name>
+<skos:altLabel>Belezi</skos:altLabel>
+<schema:name>Belezi</schema:name>
+<skos:altLabel>Belga Királyság</skos:altLabel>
+<schema:name>Belga Királyság</schema:name>
+<skos:altLabel>Beļgeja</skos:altLabel>
+<schema:name>Beļgeja</schema:name>
+<skos:altLabel>Belghia</skos:altLabel>
+<schema:name>Belghia</schema:name>
+<skos:altLabel>Belʹgi</skos:altLabel>
+<schema:name>Belʹgi</schema:name>
+<skos:altLabel>Bèlgia</skos:altLabel>
+<schema:name>Bèlgia</schema:name>
+<skos:altLabel>Belgia Kuningriik</skos:altLabel>
+<schema:name>Belgia Kuningriik</schema:name>
+<skos:altLabel>Bélgica</skos:altLabel>
+<schema:name>Bélgica</schema:name>
+<skos:altLabel>Belgice</skos:altLabel>
+<schema:name>Belgice</schema:name>
+<skos:altLabel>Belgice Cynerīce</skos:altLabel>
+<schema:name>Belgice Cynerīce</schema:name>
+<skos:altLabel>Belgické království</skos:altLabel>
+<schema:name>Belgické království</schema:name>
+<skos:altLabel>België</skos:altLabel>
+<schema:name>België</schema:name>
+<skos:altLabel>Belgien</skos:altLabel>
+<schema:name>Belgien</schema:name>
+<skos:altLabel>Bélgii Bikéyah</skos:altLabel>
+<schema:name>Bélgii Bikéyah</schema:name>
+<skos:altLabel>Belgii︠a︡</skos:altLabel>
+<schema:name>Belgii︠a︡</schema:name>
+<skos:altLabel>Belʹgii︠a︡ Korollege</skos:altLabel>
+<schema:name>Belʹgii︠a︡ Korollege</schema:name>
+<skos:altLabel>Belgija</skos:altLabel>
+<schema:name>Belgija</schema:name>
+<skos:altLabel>Beļg̓ijas Karaliste</skos:altLabel>
+<schema:name>Beļg̓ijas Karaliste</schema:name>
+<skos:altLabel>Belgijos Karalystė</skos:altLabel>
+<schema:name>Belgijos Karalystė</schema:name>
+<skos:altLabel>Belgijskô</skos:altLabel>
+<schema:name>Belgijskô</schema:name>
+<skos:altLabel>Belgika</skos:altLabel>
+<schema:name>Belgika</schema:name>
+<skos:altLabel>Belgio</skos:altLabel>
+<schema:name>Belgio</schema:name>
+<skos:altLabel>Belgique</skos:altLabel>
+<schema:name>Belgique</schema:name>
+<skos:altLabel>Belgiska</skos:altLabel>
+<schema:name>Belgiska</schema:name>
+<skos:altLabel>Belgiya</skos:altLabel>
+<schema:name>Belgiya</schema:name>
+<skos:altLabel>Belgiyah</skos:altLabel>
+<schema:name>Belgiyah</schema:name>
+<skos:altLabel>Belgje</skos:altLabel>
+<schema:name>Belgje</schema:name>
+<skos:altLabel>Belgjiche</skos:altLabel>
+<schema:name>Belgjiche</schema:name>
+<skos:altLabel>Belgjo</skos:altLabel>
+<schema:name>Belgjo</schema:name>
+<skos:altLabel>Belgujo</skos:altLabel>
+<schema:name>Belgujo</schema:name>
+<skos:altLabel>Belʹhii︠a︡</skos:altLabel>
+<schema:name>Belʹhii︠a︡</schema:name>
+<skos:altLabel>Belhika</skos:altLabel>
+<schema:name>Belhika</schema:name>
+<skos:altLabel>Bèljik</skos:altLabel>
+<schema:name>Bèljik</schema:name>
+<skos:altLabel>Beljika</skos:altLabel>
+<schema:name>Beljika</schema:name>
+<skos:altLabel>Belʹjmudin Nutg</skos:altLabel>
+<schema:name>Belʹjmudin Nutg</schema:name>
+<skos:altLabel>Belsch</skos:altLabel>
+<schema:name>Belsch</schema:name>
+<skos:altLabel>Belsj</skos:altLabel>
+<schema:name>Belsj</schema:name>
+<skos:altLabel>Bélxica</skos:altLabel>
+<schema:name>Bélxica</schema:name>
+<skos:altLabel>Berugī</skos:altLabel>
+<schema:name>Berugī</schema:name>
+<skos:altLabel>Bheilg</skos:altLabel>
+<schema:name>Bheilg</schema:name>
+<skos:altLabel>Bilgasuyu</skos:altLabel>
+<schema:name>Bilgasuyu</schema:name>
+<skos:altLabel>Bilhika Qhapaqsuyu</skos:altLabel>
+<schema:name>Bilhika Qhapaqsuyu</schema:name>
+<skos:altLabel>Bilkiya</skos:altLabel>
+<schema:name>Bilkiya</schema:name>
+<skos:altLabel>Gwlad Belg</skos:altLabel>
+<schema:name>Gwlad Belg</schema:name>
+<skos:altLabel>Igihugu cyʼUbubirigi</skos:altLabel>
+<schema:name>Igihugu cyʼUbubirigi</schema:name>
+<skos:altLabel>Karaleŭstva Belʹhii︠a︡</skos:altLabel>
+<schema:name>Karaleŭstva Belʹhii︠a︡</schema:name>
+<skos:altLabel>Keuninkriek Belsj</skos:altLabel>
+<schema:name>Keuninkriek Belsj</schema:name>
+<skos:altLabel>Kingdom of Belgium</skos:altLabel>
+<schema:name>Kingdom of Belgium</schema:name>
+<skos:altLabel>Kinigraich Bäigien</skos:altLabel>
+<schema:name>Kinigraich Bäigien</schema:name>
+<skos:altLabel>Kinnekräich Belsch</skos:altLabel>
+<schema:name>Kinnekräich Belsch</schema:name>
+<skos:altLabel>Kongeriget Belgien</skos:altLabel>
+<schema:name>Kongeriget Belgien</schema:name>
+<skos:altLabel>Königreich Belgien</skos:altLabel>
+<schema:name>Königreich Belgien</schema:name>
+<skos:altLabel>Königriich Belgie</skos:altLabel>
+<schema:name>Königriich Belgie</schema:name>
+<skos:altLabel>Koninkrijk België</skos:altLabel>
+<schema:name>Koninkrijk België</schema:name>
+<skos:altLabel>Koninkrijk van België</skos:altLabel>
+<schema:name>Koninkrijk van België</schema:name>
+<skos:altLabel>Koninkryk van België</skos:altLabel>
+<schema:name>Koninkryk van België</schema:name>
+<skos:altLabel>Kraljevina Belgija</skos:altLabel>
+<schema:name>Kraljevina Belgija</schema:name>
+<skos:altLabel>Kralojstwo Belgiskej</skos:altLabel>
+<schema:name>Kralojstwo Belgiskej</schema:name>
+<skos:altLabel>Mamlakat Baljīkā</skos:altLabel>
+<schema:name>Mamlakat Baljīkā</schema:name>
+<skos:altLabel>Mamlekhet Belgiyah</skos:altLabel>
+<schema:name>Mamlekhet Belgiyah</schema:name>
+<skos:altLabel>Nsi ya ntotila ya Belezi</skos:altLabel>
+<schema:name>Nsi ya ntotila ya Belezi</schema:name>
+<skos:altLabel>Pelekiuma</skos:altLabel>
+<schema:name>Pelekiuma</schema:name>
+<skos:altLabel>Pow Belg</skos:altLabel>
+<schema:name>Pow Belg</schema:name>
+<skos:altLabel>Reeriaght ny Belg</skos:altLabel>
+<schema:name>Reeriaght ny Belg</schema:name>
+<skos:altLabel>Reĝlando Belgio</skos:altLabel>
+<schema:name>Reĝlando Belgio</schema:name>
+<skos:altLabel>Regne de Bèlgica</skos:altLabel>
+<schema:name>Regne de Bèlgica</schema:name>
+<skos:altLabel>Regno del Belgio</skos:altLabel>
+<schema:name>Regno del Belgio</schema:name>
+<skos:altLabel>Reino de Belchica</skos:altLabel>
+<schema:name>Reino de Belchica</schema:name>
+<skos:altLabel>Reino de Bélgica</skos:altLabel>
+<schema:name>Reino de Bélgica</schema:name>
+<skos:altLabel>Reinu de Bélxica</skos:altLabel>
+<schema:name>Reinu de Bélxica</schema:name>
+<skos:altLabel>Ríocht na Beilge</skos:altLabel>
+<schema:name>Ríocht na Beilge</schema:name>
+<skos:altLabel>Rìoghachd na Beilge</skos:altLabel>
+<schema:name>Rìoghachd na Beilge</schema:name>
+<skos:altLabel>Royaume de Belgique</skos:altLabel>
+<schema:name>Royaume de Belgique</schema:name>
+<skos:altLabel>Royômo de Bèlg·ique</skos:altLabel>
+<schema:name>Royômo de Bèlg·ique</schema:name>
+<skos:altLabel>Ruwvaneth Belgek</skos:altLabel>
+<schema:name>Ruwvaneth Belgek</schema:name>
+<skos:altLabel>Teyrnas Gwlad Belg</skos:altLabel>
+<schema:name>Teyrnas Gwlad Belg</schema:name>
+<skos:altLabel>Ubelgiji</skos:altLabel>
+<schema:name>Ubelgiji</schema:name>
+<skos:altLabel>Ububiligi</skos:altLabel>
+<schema:name>Ububiligi</schema:name>
+<skos:altLabel>Ububirigi</skos:altLabel>
+<schema:name>Ububirigi</schema:name>
+<skos:altLabel>Ufalme wa Ubelgiji</skos:altLabel>
+<schema:name>Ufalme wa Ubelgiji</schema:name>
+<skos:altLabel>Vasileio tou Velgiou</skos:altLabel>
+<schema:name>Vasileio tou Velgiou</schema:name>
+<skos:altLabel>Vãsilia di Belghia</skos:altLabel>
+<schema:name>Vãsilia di Belghia</schema:name>
+<skos:altLabel>Velg</skos:altLabel>
+<schema:name>Velg</schema:name>
+<skos:altLabel>Velgio</skos:altLabel>
+<schema:name>Velgio</schema:name>
+<schema:sameAs>
+<rdf:Description rdf:about="http://id.loc.gov/authorities/names/n80126041">
+<rdfs:label>Belgium</rdfs:label>
+</rdf:Description>
+</schema:sameAs>
+<schema:sameAs>
+<rdf:Description rdf:about="https://viaf.org/viaf/144248059">
+<rdfs:label>Belgium</rdfs:label>
+</rdf:Description>
+</schema:sameAs>
+<schema:geo>
+<schema:GeoCoordinates>
+<schema:latitude>50.83333</schema:latitude>
+<schema:longitude>4.00000</schema:longitude>
+</schema:GeoCoordinates>
+</schema:geo>
+</rdf:Description>
+<rdf:Description rdf:about="fst01210278">
+<rdfs:comment>This identifier is deprecated. See the rdfs:seeAlso link for the new identifier.</rdfs:comment>
+<rdfs:seeAlso rdf:resource="1210278"/>
+</rdf:Description>
+<foaf:Document rdf:about="1210278/rdf.xml">
+<void:inDataset rdf:resource="http://id.worldcat.org/fast/void/0.1"/>
+<foaf:primaryTopic rdf:resource="1210278"/>
+<dc:format>application/rdf+xml</dc:format>
+<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2006-06-20T00:00:00.0</dct:created>
+<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-10-04T10:55:34.0</dct:modified>
+<dct:language rdf:resource="http://lexvo.org/id/iso639-3/eng"/>
+<skos:changeNote xml:lang="en">Cataloged by agency: OCoLC</skos:changeNote>
+<skos:changeNote xml:lang="en">Transcribed by agency: OCoLC</skos:changeNote>
+</foaf:Document>
+<void:Dataset rdf:about="http://id.worldcat.org/fast/void/0.1">
+<dct:title>FAST (Faceted Application of Subject Terminology) Data</dct:title>
+<dct:license>
+<rdf:Description rdf:about="http://www.oclc.org/research/activities/fast/odcby.htm">
+<dct:title>Open Data Commons Attribution License (ODC-By) v1.0</dct:title>
+<rdfs:comment>This is OCLC's "local copy" of the ODC-By license</rdfs:comment>
+<rdfs:seeAlso rdf:resource="http://opendatacommons.org/licenses/by/#toc-anchor-337-3"/>
+<owl:sameAs rdf:resource="http://opendatacommons.org/licenses/by/1-0/"/>
+</rdf:Description>
+</dct:license>
+</void:Dataset>
+</rdf:RDF>

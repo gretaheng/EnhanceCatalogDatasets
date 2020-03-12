@@ -1,0 +1,95 @@
+<rdf:RDF xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:norm="http://whatever/java/org.oclc.marc.NormalFormC" xmlns:dct="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:schema="http://schema.org/" xmlns:void="http://rdfs.org/ns/void#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:coord="http://whatever/java/org.oclc.marc.CoordToDecimal" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:mx="http://www.loc.gov/MARC21/slim" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="http://id.worldcat.org/fast/">
+<rdf:Description rdf:about="895423">
+<dct:identifier>895423</dct:identifier>
+<skos:inScheme rdf:resource="ontology/1.0/#fast"/>
+<rdf:type rdf:resource="http://schema.org/Intangible"/>
+<skos:inScheme rdf:resource="ontology/1.0/#facet-Topical"/>
+<skos:prefLabel>Dissertations, Academic</skos:prefLabel>
+<schema:name>Dissertations, Academic</schema:name>
+<skos:altLabel>Academic dissertations</skos:altLabel>
+<schema:name>Academic dissertations</schema:name>
+<skos:altLabel>Programs, Academic</skos:altLabel>
+<schema:name>Programs, Academic</schema:name>
+<skos:altLabel>Theses</skos:altLabel>
+<schema:name>Theses</schema:name>
+<skos:altLabel>Thesis writing</skos:altLabel>
+<schema:name>Thesis writing</schema:name>
+<skos:altLabel>Universities and colleges--Dissertations</skos:altLabel>
+<schema:name>Universities and colleges--Dissertations</schema:name>
+<skos:related>
+<rdf:Description rdf:about="1741784">
+<rdfs:label>Academic disputations</rdfs:label>
+</rdf:Description>
+</skos:related>
+<schema:sameAs>
+<rdf:Description rdf:about="http://id.loc.gov/authorities/subjects/sh85038494">
+<rdfs:label>Dissertations, Academic</rdfs:label>
+</rdf:Description>
+</schema:sameAs>
+<foaf:focus>
+<rdf:Description rdf:about="http://en.wikipedia.org/wiki/Thesis">
+<rdfs:label>Thesis</rdfs:label>
+</rdf:Description>
+</foaf:focus>
+<foaf:focus>
+<rdf:Description rdf:about="https://www.wikidata.org/wiki/Q1266946">
+<rdfs:label>Thesis</rdfs:label>
+</rdf:Description>
+</foaf:focus>
+<skos:relatedMatch>
+<skos:Concept rdf:about="http://d-nb.info/gnd/4730978-7">
+<rdfs:label>Breitblättrige Stendelwurz</rdfs:label>
+</skos:Concept>
+</skos:relatedMatch>
+<skos:relatedMatch>
+<skos:Concept rdf:about="http://d-nb.info/gnd/4012400-9">
+<rdfs:label>Diplomarbeit</rdfs:label>
+</skos:Concept>
+</skos:relatedMatch>
+<skos:relatedMatch>
+<skos:Concept rdf:about="http://d-nb.info/gnd/4012494-0">
+<rdfs:label>Dissertation</rdfs:label>
+</skos:Concept>
+</skos:relatedMatch>
+<skos:relatedMatch>
+<skos:Concept rdf:about="http://d-nb.info/gnd/4113937-9">
+<rdfs:label>Hochschulschrift</rdfs:label>
+</skos:Concept>
+</skos:relatedMatch>
+<skos:relatedMatch>
+<skos:Concept rdf:about="http://d-nb.info/gnd/4180970-1">
+<rdfs:label>Seminararbeit</rdfs:label>
+</skos:Concept>
+</skos:relatedMatch>
+<skos:relatedMatch>
+<skos:Concept rdf:about="http://data.bnf.fr/ark:/12148/cb119336105">
+<rdfs:label>Thèses et écrits académiques</rdfs:label>
+</skos:Concept>
+</skos:relatedMatch>
+</rdf:Description>
+<rdf:Description rdf:about="fst00895423">
+<rdfs:comment>This identifier is deprecated. See the rdfs:seeAlso link for the new identifier.</rdfs:comment>
+<rdfs:seeAlso rdf:resource="895423"/>
+</rdf:Description>
+<foaf:Document rdf:about="895423/rdf.xml">
+<void:inDataset rdf:resource="http://id.worldcat.org/fast/void/0.1"/>
+<foaf:primaryTopic rdf:resource="895423"/>
+<dc:format>application/rdf+xml</dc:format>
+<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2004-10-24T00:00:00.0</dct:created>
+<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-12-08T14:20:50.0</dct:modified>
+<dct:language rdf:resource="http://lexvo.org/id/iso639-3/eng"/>
+<skos:changeNote xml:lang="en">Cataloged by agency: OCoLC</skos:changeNote>
+<skos:changeNote xml:lang="en">Transcribed by agency: OCoLC</skos:changeNote>
+</foaf:Document>
+<void:Dataset rdf:about="http://id.worldcat.org/fast/void/0.1">
+<dct:title>FAST (Faceted Application of Subject Terminology) Data</dct:title>
+<dct:license>
+<rdf:Description rdf:about="http://www.oclc.org/research/activities/fast/odcby.htm">
+<dct:title>Open Data Commons Attribution License (ODC-By) v1.0</dct:title>
+<rdfs:comment>This is OCLC's "local copy" of the ODC-By license</rdfs:comment>
+<rdfs:seeAlso rdf:resource="http://opendatacommons.org/licenses/by/#toc-anchor-337-3"/>
+<owl:sameAs rdf:resource="http://opendatacommons.org/licenses/by/1-0/"/>
+</rdf:Description>
+</dct:license>
+</void:Dataset>
+</rdf:RDF>

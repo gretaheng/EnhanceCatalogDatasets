@@ -1,0 +1,83 @@
+<rdf:RDF xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:norm="http://whatever/java/org.oclc.marc.NormalFormC" xmlns:dct="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:schema="http://schema.org/" xmlns:void="http://rdfs.org/ns/void#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:coord="http://whatever/java/org.oclc.marc.CoordToDecimal" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:mx="http://www.loc.gov/MARC21/slim" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="http://id.worldcat.org/fast/">
+<rdf:Description rdf:about="1208723">
+<dct:identifier>1208723</dct:identifier>
+<skos:inScheme rdf:resource="ontology/1.0/#fast"/>
+<rdf:type rdf:resource="http://schema.org/Place"/>
+<skos:inScheme rdf:resource="ontology/1.0/#facet-Geographic"/>
+<skos:prefLabel>Congo (Democratic Republic)</skos:prefLabel>
+<schema:name>Congo (Democratic Republic)</schema:name>
+<skos:altLabel>Belgian Congo</skos:altLabel>
+<schema:name>Belgian Congo</schema:name>
+<skos:altLabel>Congo--Kinshasa</skos:altLabel>
+<schema:name>Congo--Kinshasa</schema:name>
+<skos:altLabel>Congo--Leopoldville</skos:altLabel>
+<schema:name>Congo--Leopoldville</schema:name>
+<skos:altLabel>Democratic Republic of Congo</skos:altLabel>
+<schema:name>Democratic Republic of Congo</schema:name>
+<skos:altLabel>Democratic Republic of the Congo</skos:altLabel>
+<schema:name>Democratic Republic of the Congo</schema:name>
+<skos:altLabel>Demokraticheskai︠a︡ Respublika Kongo</skos:altLabel>
+<schema:name>Demokraticheskai︠a︡ Respublika Kongo</schema:name>
+<skos:altLabel>DR Congo</skos:altLabel>
+<schema:name>DR Congo</schema:name>
+<skos:altLabel>DRC--Democratic Republic of the Congo</skos:altLabel>
+<schema:name>DRC--Democratic Republic of the Congo</schema:name>
+<skos:altLabel>DRK--Demokraticheskai︠a︡ Respublika Kongo</skos:altLabel>
+<schema:name>DRK--Demokraticheskai︠a︡ Respublika Kongo</schema:name>
+<skos:altLabel>Kongo</skos:altLabel>
+<schema:name>Kongo</schema:name>
+<skos:altLabel>RD Congo</skos:altLabel>
+<schema:name>RD Congo</schema:name>
+<skos:altLabel>RDC--République démocratique du Congo</skos:altLabel>
+<schema:name>RDC--République démocratique du Congo</schema:name>
+<skos:altLabel>Republic of Congo--Leopoldville</skos:altLabel>
+<schema:name>Republic of Congo--Leopoldville</schema:name>
+<skos:altLabel>Republic of the Congo--Leopoldville</skos:altLabel>
+<schema:name>Republic of the Congo--Leopoldville</schema:name>
+<skos:altLabel>République démocratique du Congo</skos:altLabel>
+<schema:name>République démocratique du Congo</schema:name>
+<skos:altLabel>République du Congo--Leopoldville</skos:altLabel>
+<schema:name>République du Congo--Leopoldville</schema:name>
+<schema:sameAs>
+<rdf:Description rdf:about="http://id.loc.gov/authorities/names/n80061022">
+<rdfs:label>Congo (Democratic Republic)</rdfs:label>
+</rdf:Description>
+</schema:sameAs>
+<schema:sameAs>
+<rdf:Description rdf:about="https://viaf.org/viaf/134864542">
+<rdfs:label>Congo (Democratic Republic)</rdfs:label>
+</rdf:Description>
+</schema:sameAs>
+<schema:geo>
+<schema:GeoCoordinates>
+<schema:latitude>-1.00000</schema:latitude>
+<schema:longitude>15.00000</schema:longitude>
+</schema:GeoCoordinates>
+</schema:geo>
+</rdf:Description>
+<rdf:Description rdf:about="fst01208723">
+<rdfs:comment>This identifier is deprecated. See the rdfs:seeAlso link for the new identifier.</rdfs:comment>
+<rdfs:seeAlso rdf:resource="1208723"/>
+</rdf:Description>
+<foaf:Document rdf:about="1208723/rdf.xml">
+<void:inDataset rdf:resource="http://id.worldcat.org/fast/void/0.1"/>
+<foaf:primaryTopic rdf:resource="1208723"/>
+<dc:format>application/rdf+xml</dc:format>
+<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2006-06-20T00:00:00.0</dct:created>
+<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-07-06T16:17:30.0</dct:modified>
+<dct:language rdf:resource="http://lexvo.org/id/iso639-3/eng"/>
+<skos:changeNote xml:lang="en">Cataloged by agency: OCoLC</skos:changeNote>
+<skos:changeNote xml:lang="en">Transcribed by agency: OCoLC</skos:changeNote>
+</foaf:Document>
+<void:Dataset rdf:about="http://id.worldcat.org/fast/void/0.1">
+<dct:title>FAST (Faceted Application of Subject Terminology) Data</dct:title>
+<dct:license>
+<rdf:Description rdf:about="http://www.oclc.org/research/activities/fast/odcby.htm">
+<dct:title>Open Data Commons Attribution License (ODC-By) v1.0</dct:title>
+<rdfs:comment>This is OCLC's "local copy" of the ODC-By license</rdfs:comment>
+<rdfs:seeAlso rdf:resource="http://opendatacommons.org/licenses/by/#toc-anchor-337-3"/>
+<owl:sameAs rdf:resource="http://opendatacommons.org/licenses/by/1-0/"/>
+</rdf:Description>
+</dct:license>
+</void:Dataset>
+</rdf:RDF>

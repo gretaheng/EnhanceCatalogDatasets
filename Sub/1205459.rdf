@@ -1,0 +1,100 @@
+<rdf:RDF xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:norm="http://whatever/java/org.oclc.marc.NormalFormC" xmlns:dct="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:schema="http://schema.org/" xmlns:void="http://rdfs.org/ns/void#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:coord="http://whatever/java/org.oclc.marc.CoordToDecimal" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:mx="http://www.loc.gov/MARC21/slim" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="http://id.worldcat.org/fast/">
+<rdf:Description rdf:about="1205459">
+<dct:identifier>1205459</dct:identifier>
+<skos:inScheme rdf:resource="ontology/1.0/#fast"/>
+<rdf:type rdf:resource="http://schema.org/Place"/>
+<skos:inScheme rdf:resource="ontology/1.0/#facet-Geographic"/>
+<skos:prefLabel>Algeria</skos:prefLabel>
+<schema:name>Algeria</schema:name>
+<skos:altLabel>1958-1962--Algeria (Provisional Government)</skos:altLabel>
+<schema:name>1958-1962--Algeria (Provisional Government)</schema:name>
+<skos:altLabel>al-Dzāyīr</skos:altLabel>
+<schema:name>al-Dzāyīr</schema:name>
+<skos:altLabel>al-Jazāʼir</skos:altLabel>
+<schema:name>al-Jazāʼir</schema:name>
+<skos:altLabel>Algérie</skos:altLabel>
+<schema:name>Algérie</schema:name>
+<skos:altLabel>Algerien</skos:altLabel>
+<schema:name>Algerien</schema:name>
+<skos:altLabel>Algeriet</skos:altLabel>
+<schema:name>Algeriet</schema:name>
+<skos:altLabel>Alg'eryah</skos:altLabel>
+<schema:name>Alg'eryah</schema:name>
+<skos:altLabel>Algieria</skos:altLabel>
+<schema:name>Algieria</schema:name>
+<skos:altLabel>Algierska Republika Ludowo-Demokratyczna</skos:altLabel>
+<schema:name>Algierska Republika Ludowo-Demokratyczna</schema:name>
+<skos:altLabel>Alg'iryah</skos:altLabel>
+<schema:name>Alg'iryah</schema:name>
+<skos:altLabel>Alzhir</skos:altLabel>
+<schema:name>Alzhir</schema:name>
+<skos:altLabel>Alžir</skos:altLabel>
+<schema:name>Alžir</schema:name>
+<skos:altLabel>Argelia</skos:altLabel>
+<schema:name>Argelia</schema:name>
+<skos:altLabel>Cezayir</skos:altLabel>
+<schema:name>Cezayir</schema:name>
+<skos:altLabel>Democratic and Popular Republic of Algeria</skos:altLabel>
+<schema:name>Democratic and Popular Republic of Algeria</schema:name>
+<skos:altLabel>Democratic Republic of Algeria</skos:altLabel>
+<schema:name>Democratic Republic of Algeria</schema:name>
+<skos:altLabel>Dżumhurija al-Dżazajrija asz-Szaabija ad-Dimukratija</skos:altLabel>
+<schema:name>Dżumhurija al-Dżazajrija asz-Szaabija ad-Dimukratija</schema:name>
+<skos:altLabel>Gouvernement général de l'Algérie</skos:altLabel>
+<schema:name>Gouvernement général de l'Algérie</schema:name>
+<skos:altLabel>Jumhūrīyah al-Jazāʼirīyah al-Dīmuqrāṭīyah wa-al-Shaʻbīyah</skos:altLabel>
+<schema:name>Jumhūrīyah al-Jazāʼirīyah al-Dīmuqrāṭīyah wa-al-Shaʻbīyah</schema:name>
+<skos:altLabel>Jumhūrīyah al Jazāʼirīyah ash Shaʻbīyah</skos:altLabel>
+<schema:name>Jumhūrīyah al Jazāʼirīyah ash Shaʻbīyah</schema:name>
+<skos:altLabel>People's Democratic Republic of Algeria</skos:altLabel>
+<schema:name>People's Democratic Republic of Algeria</schema:name>
+<skos:altLabel>République algérienne démocratique et populaire</skos:altLabel>
+<schema:name>République algérienne démocratique et populaire</schema:name>
+<schema:sameAs>
+<rdf:Description rdf:about="http://id.loc.gov/authorities/names/n79064760">
+<rdfs:label>Algeria</rdfs:label>
+</rdf:Description>
+</schema:sameAs>
+<schema:sameAs>
+<rdf:Description rdf:about="http://www.geonames.org/2589581">
+<rdfs:label>People's Democratic Republic of Algeria</rdfs:label>
+</rdf:Description>
+</schema:sameAs>
+<schema:sameAs>
+<rdf:Description rdf:about="https://viaf.org/viaf/1144898516950291388">
+<rdfs:label>Algeria</rdfs:label>
+</rdf:Description>
+</schema:sameAs>
+<schema:geo>
+<schema:GeoCoordinates>
+<schema:latitude>28.00000</schema:latitude>
+<schema:longitude>3.00000</schema:longitude>
+</schema:GeoCoordinates>
+</schema:geo>
+</rdf:Description>
+<rdf:Description rdf:about="fst01205459">
+<rdfs:comment>This identifier is deprecated. See the rdfs:seeAlso link for the new identifier.</rdfs:comment>
+<rdfs:seeAlso rdf:resource="1205459"/>
+</rdf:Description>
+<foaf:Document rdf:about="1205459/rdf.xml">
+<void:inDataset rdf:resource="http://id.worldcat.org/fast/void/0.1"/>
+<foaf:primaryTopic rdf:resource="1205459"/>
+<dc:format>application/rdf+xml</dc:format>
+<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2006-06-20T00:00:00.0</dct:created>
+<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-17T09:25:32.0</dct:modified>
+<dct:language rdf:resource="http://lexvo.org/id/iso639-3/eng"/>
+<skos:changeNote xml:lang="en">Cataloged by agency: OCoLC</skos:changeNote>
+<skos:changeNote xml:lang="en">Transcribed by agency: OCoLC</skos:changeNote>
+</foaf:Document>
+<void:Dataset rdf:about="http://id.worldcat.org/fast/void/0.1">
+<dct:title>FAST (Faceted Application of Subject Terminology) Data</dct:title>
+<dct:license>
+<rdf:Description rdf:about="http://www.oclc.org/research/activities/fast/odcby.htm">
+<dct:title>Open Data Commons Attribution License (ODC-By) v1.0</dct:title>
+<rdfs:comment>This is OCLC's "local copy" of the ODC-By license</rdfs:comment>
+<rdfs:seeAlso rdf:resource="http://opendatacommons.org/licenses/by/#toc-anchor-337-3"/>
+<owl:sameAs rdf:resource="http://opendatacommons.org/licenses/by/1-0/"/>
+</rdf:Description>
+</dct:license>
+</void:Dataset>
+</rdf:RDF>

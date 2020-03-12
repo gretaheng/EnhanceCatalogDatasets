@@ -1,0 +1,115 @@
+<rdf:RDF xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:norm="http://whatever/java/org.oclc.marc.NormalFormC" xmlns:dct="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:schema="http://schema.org/" xmlns:void="http://rdfs.org/ns/void#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:coord="http://whatever/java/org.oclc.marc.CoordToDecimal" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:mx="http://www.loc.gov/MARC21/slim" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="http://id.worldcat.org/fast/">
+<rdf:Description rdf:about="1204623">
+<dct:identifier>1204623</dct:identifier>
+<skos:inScheme rdf:resource="ontology/1.0/#fast"/>
+<rdf:type rdf:resource="http://schema.org/Place"/>
+<skos:inScheme rdf:resource="ontology/1.0/#facet-Geographic"/>
+<skos:prefLabel>Great Britain</skos:prefLabel>
+<schema:name>Great Britain</schema:name>
+<skos:altLabel>Anglia</skos:altLabel>
+<schema:name>Anglia</schema:name>
+<skos:altLabel>Angliyah</skos:altLabel>
+<schema:name>Angliyah</schema:name>
+<skos:altLabel>Briṭanyah</skos:altLabel>
+<schema:name>Briṭanyah</schema:name>
+<skos:altLabel>England and Wales</skos:altLabel>
+<schema:name>England and Wales</schema:name>
+<skos:altLabel>Förenade kungariket</skos:altLabel>
+<schema:name>Förenade kungariket</schema:name>
+<skos:altLabel>Grã-Bretanha</skos:altLabel>
+<schema:name>Grã-Bretanha</schema:name>
+<skos:altLabel>Grande-Bretagne</skos:altLabel>
+<schema:name>Grande-Bretagne</schema:name>
+<skos:altLabel>Grossbritannien</skos:altLabel>
+<schema:name>Grossbritannien</schema:name>
+<skos:altLabel>Igirisu</skos:altLabel>
+<schema:name>Igirisu</schema:name>
+<skos:altLabel>Iso-Britannia</skos:altLabel>
+<schema:name>Iso-Britannia</schema:name>
+<skos:altLabel>Marea Britanie</skos:altLabel>
+<schema:name>Marea Britanie</schema:name>
+<skos:altLabel>Nagy-Britannia</skos:altLabel>
+<schema:name>Nagy-Britannia</schema:name>
+<skos:altLabel>Prydain Fawr</skos:altLabel>
+<schema:name>Prydain Fawr</schema:name>
+<skos:altLabel>Royaume-Uni</skos:altLabel>
+<schema:name>Royaume-Uni</schema:name>
+<skos:altLabel>Saharātchaʻānāčhak</skos:altLabel>
+<schema:name>Saharātchaʻānāčhak</schema:name>
+<skos:altLabel>Storbritannien</skos:altLabel>
+<schema:name>Storbritannien</schema:name>
+<skos:altLabel>United Kingdom</skos:altLabel>
+<schema:name>United Kingdom</schema:name>
+<skos:altLabel>United Kingdom of Great Britain and Ireland</skos:altLabel>
+<schema:name>United Kingdom of Great Britain and Ireland</schema:name>
+<skos:altLabel>United Kingdom of Great Britain and Northern Ireland</skos:altLabel>
+<schema:name>United Kingdom of Great Britain and Northern Ireland</schema:name>
+<skos:altLabel>Velikobritanii︠a︡</skos:altLabel>
+<schema:name>Velikobritanii︠a︡</schema:name>
+<skos:altLabel>Wielka Brytania</skos:altLabel>
+<schema:name>Wielka Brytania</schema:name>
+<skos:altLabel>Yhdistynyt kuningaskunta</skos:altLabel>
+<schema:name>Yhdistynyt kuningaskunta</schema:name>
+<skos:related>
+<rdf:Description rdf:about="1205215">
+<rdfs:label>Northern Ireland</rdfs:label>
+</rdf:Description>
+</skos:related>
+<skos:related>
+<rdf:Description rdf:about="1206715">
+<rdfs:label>Scotland</rdfs:label>
+</rdf:Description>
+</skos:related>
+<skos:related>
+<rdf:Description rdf:about="1207649">
+<rdfs:label>Wales</rdfs:label>
+</rdf:Description>
+</skos:related>
+<schema:sameAs>
+<rdf:Description rdf:about="http://id.loc.gov/authorities/names/n79023147">
+<rdfs:label>Great Britain</rdfs:label>
+</rdf:Description>
+</schema:sameAs>
+<schema:sameAs>
+<rdf:Description rdf:about="http://www.geonames.org/6618604">
+<rdfs:label>Great Britain</rdfs:label>
+</rdf:Description>
+</schema:sameAs>
+<schema:sameAs>
+<rdf:Description rdf:about="https://viaf.org/viaf/127756949">
+<rdfs:label>Great Britain</rdfs:label>
+</rdf:Description>
+</schema:sameAs>
+<schema:geo>
+<schema:GeoCoordinates>
+<schema:latitude>52.16139</schema:latitude>
+<schema:longitude>-0.70306</schema:longitude>
+</schema:GeoCoordinates>
+</schema:geo>
+</rdf:Description>
+<rdf:Description rdf:about="fst01204623">
+<rdfs:comment>This identifier is deprecated. See the rdfs:seeAlso link for the new identifier.</rdfs:comment>
+<rdfs:seeAlso rdf:resource="1204623"/>
+</rdf:Description>
+<foaf:Document rdf:about="1204623/rdf.xml">
+<void:inDataset rdf:resource="http://id.worldcat.org/fast/void/0.1"/>
+<foaf:primaryTopic rdf:resource="1204623"/>
+<dc:format>application/rdf+xml</dc:format>
+<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2006-06-20T00:00:00.0</dct:created>
+<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-17T09:25:32.0</dct:modified>
+<dct:language rdf:resource="http://lexvo.org/id/iso639-3/eng"/>
+<skos:changeNote xml:lang="en">Cataloged by agency: OCoLC</skos:changeNote>
+<skos:changeNote xml:lang="en">Transcribed by agency: OCoLC</skos:changeNote>
+</foaf:Document>
+<void:Dataset rdf:about="http://id.worldcat.org/fast/void/0.1">
+<dct:title>FAST (Faceted Application of Subject Terminology) Data</dct:title>
+<dct:license>
+<rdf:Description rdf:about="http://www.oclc.org/research/activities/fast/odcby.htm">
+<dct:title>Open Data Commons Attribution License (ODC-By) v1.0</dct:title>
+<rdfs:comment>This is OCLC's "local copy" of the ODC-By license</rdfs:comment>
+<rdfs:seeAlso rdf:resource="http://opendatacommons.org/licenses/by/#toc-anchor-337-3"/>
+<owl:sameAs rdf:resource="http://opendatacommons.org/licenses/by/1-0/"/>
+</rdf:Description>
+</dct:license>
+</void:Dataset>
+</rdf:RDF>

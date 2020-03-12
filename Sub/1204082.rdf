@@ -1,0 +1,108 @@
+<rdf:RDF xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:norm="http://whatever/java/org.oclc.marc.NormalFormC" xmlns:dct="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:schema="http://schema.org/" xmlns:void="http://rdfs.org/ns/void#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:coord="http://whatever/java/org.oclc.marc.CoordToDecimal" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:mx="http://www.loc.gov/MARC21/slim" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="http://id.worldcat.org/fast/">
+<rdf:Description rdf:about="1204082">
+<dct:identifier>1204082</dct:identifier>
+<skos:inScheme rdf:resource="ontology/1.0/#fast"/>
+<rdf:type rdf:resource="http://schema.org/Place"/>
+<skos:inScheme rdf:resource="ontology/1.0/#facet-Geographic"/>
+<skos:prefLabel>Japan</skos:prefLabel>
+<schema:name>Japan</schema:name>
+<skos:altLabel>al-Yābān</skos:altLabel>
+<schema:name>al-Yābān</schema:name>
+<skos:altLabel>Giappone</skos:altLabel>
+<schema:name>Giappone</schema:name>
+<skos:altLabel>Government of Japan</skos:altLabel>
+<schema:name>Government of Japan</schema:name>
+<skos:altLabel>Iapōnia</skos:altLabel>
+<schema:name>Iapōnia</schema:name>
+<skos:altLabel>I︠A︡ponii︠a︡</skos:altLabel>
+<schema:name>I︠A︡ponii︠a︡</schema:name>
+<skos:altLabel>Japam</skos:altLabel>
+<schema:name>Japam</schema:name>
+<skos:altLabel>Japani</skos:altLabel>
+<schema:name>Japani</schema:name>
+<skos:altLabel>Japão</skos:altLabel>
+<schema:name>Japão</schema:name>
+<skos:altLabel>Japon</skos:altLabel>
+<schema:name>Japon</schema:name>
+<skos:altLabel>Japonia</skos:altLabel>
+<schema:name>Japonia</schema:name>
+<skos:altLabel>Japonsko</skos:altLabel>
+<schema:name>Japonsko</schema:name>
+<skos:altLabel>Japonya</skos:altLabel>
+<schema:name>Japonya</schema:name>
+<skos:altLabel>Jih-pen</skos:altLabel>
+<schema:name>Jih-pen</schema:name>
+<skos:altLabel>Mư̄ang Yīpun</skos:altLabel>
+<schema:name>Mư̄ang Yīpun</schema:name>
+<skos:altLabel>Nihon</skos:altLabel>
+<schema:name>Nihon</schema:name>
+<skos:altLabel>Nihonkoku</skos:altLabel>
+<schema:name>Nihonkoku</schema:name>
+<skos:altLabel>Nippon</skos:altLabel>
+<schema:name>Nippon</schema:name>
+<skos:altLabel>Nippon-koku</skos:altLabel>
+<schema:name>Nippon-koku</schema:name>
+<skos:altLabel>Nipponkoku</skos:altLabel>
+<schema:name>Nipponkoku</schema:name>
+<skos:altLabel>Prathēt Yīpun</skos:altLabel>
+<schema:name>Prathēt Yīpun</schema:name>
+<skos:altLabel>Riben</skos:altLabel>
+<schema:name>Riben</schema:name>
+<skos:altLabel>State of Japan</skos:altLabel>
+<schema:name>State of Japan</schema:name>
+<skos:altLabel>Yābān</skos:altLabel>
+<schema:name>Yābān</schema:name>
+<skos:altLabel>Yapan</skos:altLabel>
+<schema:name>Yapan</schema:name>
+<skos:altLabel>Yīpun</skos:altLabel>
+<schema:name>Yīpun</schema:name>
+<skos:altLabel>Zhāpān</skos:altLabel>
+<schema:name>Zhāpān</schema:name>
+<schema:sameAs>
+<rdf:Description rdf:about="http://id.loc.gov/authorities/names/n78089021">
+<rdfs:label>Japan</rdfs:label>
+</rdf:Description>
+</schema:sameAs>
+<schema:sameAs>
+<rdf:Description rdf:about="http://www.geonames.org/1861060">
+<rdfs:label>Japan</rdfs:label>
+</rdf:Description>
+</schema:sameAs>
+<schema:sameAs>
+<rdf:Description rdf:about="https://viaf.org/viaf/159367111">
+<rdfs:label>Japan</rdfs:label>
+</rdf:Description>
+</schema:sameAs>
+<schema:geo>
+<schema:GeoCoordinates>
+<schema:latitude>35.68528</schema:latitude>
+<schema:longitude>139.75305</schema:longitude>
+</schema:GeoCoordinates>
+</schema:geo>
+</rdf:Description>
+<rdf:Description rdf:about="fst01204082">
+<rdfs:comment>This identifier is deprecated. See the rdfs:seeAlso link for the new identifier.</rdfs:comment>
+<rdfs:seeAlso rdf:resource="1204082"/>
+</rdf:Description>
+<foaf:Document rdf:about="1204082/rdf.xml">
+<void:inDataset rdf:resource="http://id.worldcat.org/fast/void/0.1"/>
+<foaf:primaryTopic rdf:resource="1204082"/>
+<dc:format>application/rdf+xml</dc:format>
+<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2006-06-20T00:00:00.0</dct:created>
+<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-10-04T10:55:34.0</dct:modified>
+<dct:language rdf:resource="http://lexvo.org/id/iso639-3/eng"/>
+<skos:changeNote xml:lang="en">Cataloged by agency: OCoLC</skos:changeNote>
+<skos:changeNote xml:lang="en">Transcribed by agency: OCoLC</skos:changeNote>
+</foaf:Document>
+<void:Dataset rdf:about="http://id.worldcat.org/fast/void/0.1">
+<dct:title>FAST (Faceted Application of Subject Terminology) Data</dct:title>
+<dct:license>
+<rdf:Description rdf:about="http://www.oclc.org/research/activities/fast/odcby.htm">
+<dct:title>Open Data Commons Attribution License (ODC-By) v1.0</dct:title>
+<rdfs:comment>This is OCLC's "local copy" of the ODC-By license</rdfs:comment>
+<rdfs:seeAlso rdf:resource="http://opendatacommons.org/licenses/by/#toc-anchor-337-3"/>
+<owl:sameAs rdf:resource="http://opendatacommons.org/licenses/by/1-0/"/>
+</rdf:Description>
+</dct:license>
+</void:Dataset>
+</rdf:RDF>

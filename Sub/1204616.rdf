@@ -1,0 +1,98 @@
+<rdf:RDF xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:norm="http://whatever/java/org.oclc.marc.NormalFormC" xmlns:dct="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:schema="http://schema.org/" xmlns:void="http://rdfs.org/ns/void#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:coord="http://whatever/java/org.oclc.marc.CoordToDecimal" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:mx="http://www.loc.gov/MARC21/slim" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="http://id.worldcat.org/fast/">
+<rdf:Description rdf:about="1204616">
+<dct:identifier>1204616</dct:identifier>
+<skos:inScheme rdf:resource="ontology/1.0/#fast"/>
+<rdf:type rdf:resource="http://schema.org/Place"/>
+<skos:inScheme rdf:resource="ontology/1.0/#facet-Geographic"/>
+<skos:prefLabel>South Africa</skos:prefLabel>
+<schema:name>South Africa</schema:name>
+<skos:altLabel>Afrika Selatan</skos:altLabel>
+<schema:name>Afrika Selatan</schema:name>
+<skos:altLabel>Azania--Country</skos:altLabel>
+<schema:name>Azania--Country</schema:name>
+<skos:altLabel>Derom Afriḳah</skos:altLabel>
+<schema:name>Derom Afriḳah</schema:name>
+<skos:altLabel>Dorem-Afriḳe</skos:altLabel>
+<schema:name>Dorem-Afriḳe</schema:name>
+<skos:altLabel>Iriphabhuliki Yaseningizimu Afrika</skos:altLabel>
+<schema:name>Iriphabhuliki Yaseningizimu Afrika</schema:name>
+<skos:altLabel>I︠U︡.A.R.</skos:altLabel>
+<schema:name>I︠U︡.A.R.</schema:name>
+<skos:altLabel>I︠U︡AR</skos:altLabel>
+<schema:name>I︠U︡AR</schema:name>
+<skos:altLabel>I︠U︡zhno-Afrikanskai︠a︡ Respublika</skos:altLabel>
+<schema:name>I︠U︡zhno-Afrikanskai︠a︡ Respublika</schema:name>
+<skos:altLabel>I︠U︡zhno-Afrikanskiĭ Soi︠u︡z</skos:altLabel>
+<schema:name>I︠U︡zhno-Afrikanskiĭ Soi︠u︡z</schema:name>
+<skos:altLabel>Južnoafrički savez</skos:altLabel>
+<schema:name>Južnoafrički savez</schema:name>
+<skos:altLabel>Nan Fei</skos:altLabel>
+<schema:name>Nan Fei</schema:name>
+<skos:altLabel>Nanfei</skos:altLabel>
+<schema:name>Nanfei</schema:name>
+<skos:altLabel>Republic of South Africa</skos:altLabel>
+<schema:name>Republic of South Africa</schema:name>
+<skos:altLabel>República da Africa do Sul</skos:altLabel>
+<schema:name>República da Africa do Sul</schema:name>
+<skos:altLabel>Republika Południowej Afryki</skos:altLabel>
+<schema:name>Republika Południowej Afryki</schema:name>
+<skos:altLabel>RSA</skos:altLabel>
+<schema:name>RSA</schema:name>
+<skos:altLabel>Sud Africa</skos:altLabel>
+<schema:name>Sud Africa</schema:name>
+<skos:altLabel>Sudafrica</skos:altLabel>
+<schema:name>Sudafrica</schema:name>
+<skos:altLabel>Suid-Afrika</skos:altLabel>
+<schema:name>Suid-Afrika</schema:name>
+<skos:altLabel>Unie van Suid-Afrika</skos:altLabel>
+<schema:name>Unie van Suid-Afrika</schema:name>
+<skos:altLabel>Union of South Africa</skos:altLabel>
+<schema:name>Union of South Africa</schema:name>
+<schema:sameAs>
+<rdf:Description rdf:about="http://id.loc.gov/authorities/names/n79023005">
+<rdfs:label>South Africa</rdfs:label>
+</rdf:Description>
+</schema:sameAs>
+<schema:sameAs>
+<rdf:Description rdf:about="http://www.geonames.org/953987">
+<rdfs:label>South Africa</rdfs:label>
+</rdf:Description>
+</schema:sameAs>
+<schema:sameAs>
+<rdf:Description rdf:about="https://viaf.org/viaf/159069376">
+<rdfs:label>South Africa</rdfs:label>
+</rdf:Description>
+</schema:sameAs>
+<schema:geo>
+<schema:GeoCoordinates>
+<schema:latitude>-30.00000</schema:latitude>
+<schema:longitude>26.00000</schema:longitude>
+</schema:GeoCoordinates>
+</schema:geo>
+</rdf:Description>
+<rdf:Description rdf:about="fst01204616">
+<rdfs:comment>This identifier is deprecated. See the rdfs:seeAlso link for the new identifier.</rdfs:comment>
+<rdfs:seeAlso rdf:resource="1204616"/>
+</rdf:Description>
+<foaf:Document rdf:about="1204616/rdf.xml">
+<void:inDataset rdf:resource="http://id.worldcat.org/fast/void/0.1"/>
+<foaf:primaryTopic rdf:resource="1204616"/>
+<dc:format>application/rdf+xml</dc:format>
+<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2008-08-29T00:00:00.0</dct:created>
+<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-17T09:25:32.0</dct:modified>
+<dct:language rdf:resource="http://lexvo.org/id/iso639-3/eng"/>
+<skos:changeNote xml:lang="en">Cataloged by agency: OCoLC</skos:changeNote>
+<skos:changeNote xml:lang="en">Transcribed by agency: OCoLC</skos:changeNote>
+</foaf:Document>
+<void:Dataset rdf:about="http://id.worldcat.org/fast/void/0.1">
+<dct:title>FAST (Faceted Application of Subject Terminology) Data</dct:title>
+<dct:license>
+<rdf:Description rdf:about="http://www.oclc.org/research/activities/fast/odcby.htm">
+<dct:title>Open Data Commons Attribution License (ODC-By) v1.0</dct:title>
+<rdfs:comment>This is OCLC's "local copy" of the ODC-By license</rdfs:comment>
+<rdfs:seeAlso rdf:resource="http://opendatacommons.org/licenses/by/#toc-anchor-337-3"/>
+<owl:sameAs rdf:resource="http://opendatacommons.org/licenses/by/1-0/"/>
+</rdf:Description>
+</dct:license>
+</void:Dataset>
+</rdf:RDF>

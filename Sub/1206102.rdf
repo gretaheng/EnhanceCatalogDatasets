@@ -1,0 +1,114 @@
+<rdf:RDF xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:norm="http://whatever/java/org.oclc.marc.NormalFormC" xmlns:dct="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:schema="http://schema.org/" xmlns:void="http://rdfs.org/ns/void#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:coord="http://whatever/java/org.oclc.marc.CoordToDecimal" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:mx="http://www.loc.gov/MARC21/slim" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="http://id.worldcat.org/fast/">
+<rdf:Description rdf:about="1206102">
+<dct:identifier>1206102</dct:identifier>
+<skos:inScheme rdf:resource="ontology/1.0/#fast"/>
+<rdf:type rdf:resource="http://schema.org/Place"/>
+<skos:inScheme rdf:resource="ontology/1.0/#facet-Geographic"/>
+<skos:prefLabel>Nepal</skos:prefLabel>
+<schema:name>Nepal</schema:name>
+<skos:altLabel>Cộng hòa dân chủ liên bang Nepal</skos:altLabel>
+<schema:name>Cộng hòa dân chủ liên bang Nepal</schema:name>
+<skos:altLabel>Demokratische Bundesrepublik Nepal</skos:altLabel>
+<schema:name>Demokratische Bundesrepublik Nepal</schema:name>
+<skos:altLabel>Federacia Demokratia Respubliko Nepalo</skos:altLabel>
+<schema:name>Federacia Demokratia Respubliko Nepalo</schema:name>
+<skos:altLabel>Federal Democratic Republic of Nepal</skos:altLabel>
+<schema:name>Federal Democratic Republic of Nepal</schema:name>
+<skos:altLabel>Federale Democratische Republiek Nepal</skos:altLabel>
+<schema:name>Federale Democratische Republiek Nepal</schema:name>
+<skos:altLabel>Federativnai︠a︡ Demokraticheskai︠a︡ Respublika Nepal</skos:altLabel>
+<schema:name>Federativnai︠a︡ Demokraticheskai︠a︡ Respublika Nepal</schema:name>
+<skos:altLabel>Federatyvna Demokratychna Respublika Nepal</skos:altLabel>
+<schema:name>Federatyvna Demokratychna Respublika Nepal</schema:name>
+<skos:altLabel>Kingdom of Nepal</skos:altLabel>
+<schema:name>Kingdom of Nepal</schema:name>
+<skos:altLabel>Kongeriget Nepal</skos:altLabel>
+<schema:name>Kongeriget Nepal</schema:name>
+<skos:altLabel>Nepāḥ</skos:altLabel>
+<schema:name>Nepāḥ</schema:name>
+<skos:altLabel>Nepal Adhirajya</skos:altLabel>
+<schema:name>Nepal Adhirajya</schema:name>
+<skos:altLabel>Nepāla</skos:altLabel>
+<schema:name>Nepāla</schema:name>
+<skos:altLabel>Nepālas Federālā Demokrātiskā Republika</skos:altLabel>
+<schema:name>Nepālas Federālā Demokrātiskā Republika</schema:name>
+<skos:altLabel>Nepalgo Errepublika Demokratiko Federala</skos:altLabel>
+<schema:name>Nepalgo Errepublika Demokratiko Federala</schema:name>
+<skos:altLabel>Nepali Demokraatlik Liitvabariik</skos:altLabel>
+<schema:name>Nepali Demokraatlik Liitvabariik</schema:name>
+<skos:altLabel>Nepalia</skos:altLabel>
+<schema:name>Nepalia</schema:name>
+<skos:altLabel>Nepalin demokraattinen liittotasavalta</skos:altLabel>
+<schema:name>Nepalin demokraattinen liittotasavalta</schema:name>
+<skos:altLabel>Nepalo</skos:altLabel>
+<schema:name>Nepalo</schema:name>
+<skos:altLabel>Nepāru</skos:altLabel>
+<schema:name>Nepāru</schema:name>
+<skos:altLabel>Ni-po-erh</skos:altLabel>
+<schema:name>Ni-po-erh</schema:name>
+<skos:altLabel>Nibo'er</skos:altLabel>
+<schema:name>Nibo'er</schema:name>
+<skos:altLabel>Nīpāl</skos:altLabel>
+<schema:name>Nīpāl</schema:name>
+<skos:altLabel>República Federal Democrática de Nepal</skos:altLabel>
+<schema:name>República Federal Democrática de Nepal</schema:name>
+<skos:altLabel>República Federal Democràtica del Nepal</skos:altLabel>
+<schema:name>República Federal Democràtica del Nepal</schema:name>
+<skos:altLabel>République démocratique fédérale du Népal</skos:altLabel>
+<schema:name>République démocratique fédérale du Népal</schema:name>
+<skos:altLabel>Respublika Nepal</skos:altLabel>
+<schema:name>Respublika Nepal</schema:name>
+<skos:altLabel>Sambandslýðveldið Nepal</skos:altLabel>
+<schema:name>Sambandslýðveldið Nepal</schema:name>
+<skos:altLabel>Sanghiya Loktāntrik Ganatantra Nepāl</skos:altLabel>
+<schema:name>Sanghiya Loktāntrik Ganatantra Nepāl</schema:name>
+<skos:altLabel>Savezna Demokratska Republika Nepal</skos:altLabel>
+<schema:name>Savezna Demokratska Republika Nepal</schema:name>
+<schema:sameAs>
+<rdf:Description rdf:about="http://id.loc.gov/authorities/names/n79091522">
+<rdfs:label>Nepal</rdfs:label>
+</rdf:Description>
+</schema:sameAs>
+<schema:sameAs>
+<rdf:Description rdf:about="http://www.geonames.org/1282988">
+<rdfs:label>Kingdom of Nepal</rdfs:label>
+</rdf:Description>
+</schema:sameAs>
+<schema:sameAs>
+<rdf:Description rdf:about="https://viaf.org/viaf/138363788">
+<rdfs:label>Nepal</rdfs:label>
+</rdf:Description>
+</schema:sameAs>
+<schema:geo>
+<schema:GeoCoordinates>
+<schema:latitude>28.00000</schema:latitude>
+<schema:longitude>84.00000</schema:longitude>
+</schema:GeoCoordinates>
+</schema:geo>
+</rdf:Description>
+<rdf:Description rdf:about="fst01206102">
+<rdfs:comment>This identifier is deprecated. See the rdfs:seeAlso link for the new identifier.</rdfs:comment>
+<rdfs:seeAlso rdf:resource="1206102"/>
+</rdf:Description>
+<foaf:Document rdf:about="1206102/rdf.xml">
+<void:inDataset rdf:resource="http://id.worldcat.org/fast/void/0.1"/>
+<foaf:primaryTopic rdf:resource="1206102"/>
+<dc:format>application/rdf+xml</dc:format>
+<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2006-06-20T00:00:00.0</dct:created>
+<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-08-06T16:14:33.0</dct:modified>
+<dct:language rdf:resource="http://lexvo.org/id/iso639-3/eng"/>
+<skos:changeNote xml:lang="en">Cataloged by agency: OCoLC</skos:changeNote>
+<skos:changeNote xml:lang="en">Transcribed by agency: OCoLC</skos:changeNote>
+</foaf:Document>
+<void:Dataset rdf:about="http://id.worldcat.org/fast/void/0.1">
+<dct:title>FAST (Faceted Application of Subject Terminology) Data</dct:title>
+<dct:license>
+<rdf:Description rdf:about="http://www.oclc.org/research/activities/fast/odcby.htm">
+<dct:title>Open Data Commons Attribution License (ODC-By) v1.0</dct:title>
+<rdfs:comment>This is OCLC's "local copy" of the ODC-By license</rdfs:comment>
+<rdfs:seeAlso rdf:resource="http://opendatacommons.org/licenses/by/#toc-anchor-337-3"/>
+<owl:sameAs rdf:resource="http://opendatacommons.org/licenses/by/1-0/"/>
+</rdf:Description>
+</dct:license>
+</void:Dataset>
+</rdf:RDF>

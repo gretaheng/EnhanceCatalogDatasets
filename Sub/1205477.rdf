@@ -1,0 +1,75 @@
+<rdf:RDF xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:norm="http://whatever/java/org.oclc.marc.NormalFormC" xmlns:dct="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:schema="http://schema.org/" xmlns:void="http://rdfs.org/ns/void#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:coord="http://whatever/java/org.oclc.marc.CoordToDecimal" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:mx="http://www.loc.gov/MARC21/slim" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="http://id.worldcat.org/fast/">
+<rdf:Description rdf:about="1205477">
+<dct:identifier>1205477</dct:identifier>
+<skos:inScheme rdf:resource="ontology/1.0/#fast"/>
+<rdf:type rdf:resource="http://schema.org/Place"/>
+<skos:inScheme rdf:resource="ontology/1.0/#facet-Geographic"/>
+<skos:prefLabel>Tunisia</skos:prefLabel>
+<schema:name>Tunisia</schema:name>
+<skos:altLabel>Chunijia</skos:altLabel>
+<schema:name>Chunijia</schema:name>
+<skos:altLabel>Chunijia Kyōwakoku</skos:altLabel>
+<schema:name>Chunijia Kyōwakoku</schema:name>
+<skos:altLabel>Jumhuriya at-Tunisiya</skos:altLabel>
+<schema:name>Jumhuriya at-Tunisiya</schema:name>
+<skos:altLabel>Jumhūrīyah al-Tūnisīyah</skos:altLabel>
+<schema:name>Jumhūrīyah al-Tūnisīyah</schema:name>
+<skos:altLabel>Republic of Tunisia</skos:altLabel>
+<schema:name>Republic of Tunisia</schema:name>
+<skos:altLabel>République tunisienne</skos:altLabel>
+<schema:name>République tunisienne</schema:name>
+<skos:altLabel>Tunesien</skos:altLabel>
+<schema:name>Tunesien</schema:name>
+<skos:altLabel>Túnez</skos:altLabel>
+<schema:name>Túnez</schema:name>
+<skos:altLabel>Tunis--Protectorate</skos:altLabel>
+<schema:name>Tunis--Protectorate</schema:name>
+<skos:altLabel>Tunisie</skos:altLabel>
+<schema:name>Tunisie</schema:name>
+<skos:altLabel>Tunisskai︠a︡ Respublika</skos:altLabel>
+<schema:name>Tunisskai︠a︡ Respublika</schema:name>
+<skos:altLabel>Tunisyah</skos:altLabel>
+<schema:name>Tunisyah</schema:name>
+<schema:sameAs>
+<rdf:Description rdf:about="http://id.loc.gov/authorities/names/n79065220">
+<rdfs:label>Tunisia</rdfs:label>
+</rdf:Description>
+</schema:sameAs>
+<schema:sameAs>
+<rdf:Description rdf:about="https://viaf.org/viaf/151897393">
+<rdfs:label>Tunisia</rdfs:label>
+</rdf:Description>
+</schema:sameAs>
+<schema:geo>
+<schema:GeoCoordinates>
+<schema:latitude>34.00000</schema:latitude>
+<schema:longitude>9.00000</schema:longitude>
+</schema:GeoCoordinates>
+</schema:geo>
+</rdf:Description>
+<rdf:Description rdf:about="fst01205477">
+<rdfs:comment>This identifier is deprecated. See the rdfs:seeAlso link for the new identifier.</rdfs:comment>
+<rdfs:seeAlso rdf:resource="1205477"/>
+</rdf:Description>
+<foaf:Document rdf:about="1205477/rdf.xml">
+<void:inDataset rdf:resource="http://id.worldcat.org/fast/void/0.1"/>
+<foaf:primaryTopic rdf:resource="1205477"/>
+<dc:format>application/rdf+xml</dc:format>
+<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2006-06-20T00:00:00.0</dct:created>
+<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-07-06T16:17:30.0</dct:modified>
+<dct:language rdf:resource="http://lexvo.org/id/iso639-3/eng"/>
+<skos:changeNote xml:lang="en">Cataloged by agency: OCoLC</skos:changeNote>
+<skos:changeNote xml:lang="en">Transcribed by agency: OCoLC</skos:changeNote>
+</foaf:Document>
+<void:Dataset rdf:about="http://id.worldcat.org/fast/void/0.1">
+<dct:title>FAST (Faceted Application of Subject Terminology) Data</dct:title>
+<dct:license>
+<rdf:Description rdf:about="http://www.oclc.org/research/activities/fast/odcby.htm">
+<dct:title>Open Data Commons Attribution License (ODC-By) v1.0</dct:title>
+<rdfs:comment>This is OCLC's "local copy" of the ODC-By license</rdfs:comment>
+<rdfs:seeAlso rdf:resource="http://opendatacommons.org/licenses/by/#toc-anchor-337-3"/>
+<owl:sameAs rdf:resource="http://opendatacommons.org/licenses/by/1-0/"/>
+</rdf:Description>
+</dct:license>
+</void:Dataset>
+</rdf:RDF>

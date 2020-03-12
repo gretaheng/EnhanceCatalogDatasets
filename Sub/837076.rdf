@@ -1,0 +1,143 @@
+<rdf:RDF xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:norm="http://whatever/java/org.oclc.marc.NormalFormC" xmlns:dct="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:schema="http://schema.org/" xmlns:void="http://rdfs.org/ns/void#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:coord="http://whatever/java/org.oclc.marc.CoordToDecimal" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:mx="http://www.loc.gov/MARC21/slim" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="http://id.worldcat.org/fast/">
+<rdf:Description rdf:about="837076">
+<dct:identifier>837076</dct:identifier>
+<skos:inScheme rdf:resource="ontology/1.0/#fast"/>
+<rdf:type rdf:resource="http://schema.org/Intangible"/>
+<skos:inScheme rdf:resource="ontology/1.0/#facet-Topical"/>
+<skos:prefLabel>Boundaries</skos:prefLabel>
+<schema:name>Boundaries</schema:name>
+<skos:altLabel>Borders (Geography)</skos:altLabel>
+<schema:name>Borders (Geography)</schema:name>
+<skos:altLabel>Boundary lines</skos:altLabel>
+<schema:name>Boundary lines</schema:name>
+<skos:altLabel>Frontiers</skos:altLabel>
+<schema:name>Frontiers</schema:name>
+<skos:altLabel>Geographical boundaries</skos:altLabel>
+<schema:name>Geographical boundaries</schema:name>
+<skos:altLabel>International boundaries</skos:altLabel>
+<schema:name>International boundaries</schema:name>
+<skos:altLabel>Lines, Boundary</skos:altLabel>
+<schema:name>Lines, Boundary</schema:name>
+<skos:altLabel>Natural boundaries</skos:altLabel>
+<schema:name>Natural boundaries</schema:name>
+<skos:altLabel>Perimeters (Boundaries)</skos:altLabel>
+<schema:name>Perimeters (Boundaries)</schema:name>
+<skos:altLabel>Political boundaries</skos:altLabel>
+<schema:name>Political boundaries</schema:name>
+<skos:related>
+<rdf:Description rdf:about="1723579">
+<rdfs:label>Borderlands</rdfs:label>
+</rdf:Description>
+</skos:related>
+<skos:related>
+<rdf:Description rdf:about="1148094">
+<rdfs:label>Territory, National</rdfs:label>
+</rdf:Description>
+</skos:related>
+<schema:sameAs>
+<rdf:Description rdf:about="http://id.loc.gov/authorities/subjects/sh85016091">
+<rdfs:label>Boundaries</rdfs:label>
+</rdf:Description>
+</schema:sameAs>
+<foaf:focus>
+<rdf:Description rdf:about="http://en.wikipedia.org/wiki/Border">
+<rdfs:label>Border</rdfs:label>
+</rdf:Description>
+</foaf:focus>
+<foaf:focus>
+<rdf:Description rdf:about="https://www.wikidata.org/wiki/Q133346">
+<rdfs:label>Border</rdfs:label>
+</rdf:Description>
+</foaf:focus>
+<foaf:focus>
+<rdf:Description rdf:about="http://en.wikipedia.org/wiki/Canada-United_States_border">
+<rdfs:label>Canada-United States border</rdfs:label>
+</rdf:Description>
+</foaf:focus>
+<foaf:focus>
+<rdf:Description rdf:about="https://www.wikidata.org/wiki/Q119515">
+<rdfs:label>Canada-United States border</rdfs:label>
+</rdf:Description>
+</foaf:focus>
+<foaf:focus>
+<rdf:Description rdf:about="http://en.wikipedia.org/wiki/Frontier">
+<rdfs:label>Frontier</rdfs:label>
+</rdf:Description>
+</foaf:focus>
+<foaf:focus>
+<rdf:Description rdf:about="https://www.wikidata.org/wiki/Q1355821">
+<rdfs:label>Frontier</rdfs:label>
+</rdf:Description>
+</foaf:focus>
+<foaf:focus>
+<rdf:Description rdf:about="http://en.wikipedia.org/wiki/Natural_border">
+<rdfs:label>Natural border</rdfs:label>
+</rdf:Description>
+</foaf:focus>
+<foaf:focus>
+<rdf:Description rdf:about="https://www.wikidata.org/wiki/Q3089228">
+<rdfs:label>Natural border</rdfs:label>
+</rdf:Description>
+</foaf:focus>
+<skos:relatedMatch>
+<skos:Concept rdf:about="http://content.glin.gov/subjectTerm/1042">
+<rdfs:label/>
+</skos:Concept>
+</skos:relatedMatch>
+<skos:relatedMatch>
+<skos:Concept rdf:about="http://data.bnf.fr/ark:/12148/cb11954113g">
+<rdfs:label>Frontières</rdfs:label>
+</skos:Concept>
+</skos:relatedMatch>
+<skos:relatedMatch>
+<skos:Concept rdf:about="http://d-nb.info/gnd/4156500-9">
+<rdfs:label>Gemeindegrenze</rdfs:label>
+</skos:Concept>
+</skos:relatedMatch>
+<skos:relatedMatch>
+<skos:Concept rdf:about="http://d-nb.info/gnd/4130793-8">
+<rdfs:label>Grenze</rdfs:label>
+</skos:Concept>
+</skos:relatedMatch>
+<skos:relatedMatch>
+<skos:Concept rdf:about="http://data.bnf.fr/ark:/12148/cb12061769t">
+<rdfs:label>Limites</rdfs:label>
+</skos:Concept>
+</skos:relatedMatch>
+<skos:relatedMatch>
+<skos:Concept rdf:about="http://d-nb.info/gnd/4077781-9">
+<rdfs:label>Staatsgrenze</rdfs:label>
+</skos:Concept>
+</skos:relatedMatch>
+<skos:relatedMatch>
+<skos:Concept rdf:about="http://d-nb.info/gnd/4188127-8">
+<rdfs:label>Verwaltungsgrenze</rdfs:label>
+</skos:Concept>
+</skos:relatedMatch>
+</rdf:Description>
+<rdf:Description rdf:about="fst00837076">
+<rdfs:comment>This identifier is deprecated. See the rdfs:seeAlso link for the new identifier.</rdfs:comment>
+<rdfs:seeAlso rdf:resource="837076"/>
+</rdf:Description>
+<foaf:Document rdf:about="837076/rdf.xml">
+<void:inDataset rdf:resource="http://id.worldcat.org/fast/void/0.1"/>
+<foaf:primaryTopic rdf:resource="837076"/>
+<dc:format>application/rdf+xml</dc:format>
+<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2004-10-24T00:00:00.0</dct:created>
+<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-06-11T09:20:28.0</dct:modified>
+<dct:language rdf:resource="http://lexvo.org/id/iso639-3/eng"/>
+<skos:changeNote xml:lang="en">Cataloged by agency: OCoLC</skos:changeNote>
+<skos:changeNote xml:lang="en">Transcribed by agency: OCoLC</skos:changeNote>
+</foaf:Document>
+<void:Dataset rdf:about="http://id.worldcat.org/fast/void/0.1">
+<dct:title>FAST (Faceted Application of Subject Terminology) Data</dct:title>
+<dct:license>
+<rdf:Description rdf:about="http://www.oclc.org/research/activities/fast/odcby.htm">
+<dct:title>Open Data Commons Attribution License (ODC-By) v1.0</dct:title>
+<rdfs:comment>This is OCLC's "local copy" of the ODC-By license</rdfs:comment>
+<rdfs:seeAlso rdf:resource="http://opendatacommons.org/licenses/by/#toc-anchor-337-3"/>
+<owl:sameAs rdf:resource="http://opendatacommons.org/licenses/by/1-0/"/>
+</rdf:Description>
+</dct:license>
+</void:Dataset>
+</rdf:RDF>

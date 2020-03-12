@@ -1,0 +1,153 @@
+<rdf:RDF xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:norm="http://whatever/java/org.oclc.marc.NormalFormC" xmlns:dct="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:schema="http://schema.org/" xmlns:void="http://rdfs.org/ns/void#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:coord="http://whatever/java/org.oclc.marc.CoordToDecimal" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:mx="http://www.loc.gov/MARC21/slim" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="http://id.worldcat.org/fast/">
+<rdf:Description rdf:about="1205830">
+<dct:identifier>1205830</dct:identifier>
+<skos:inScheme rdf:resource="ontology/1.0/#fast"/>
+<rdf:type rdf:resource="http://schema.org/Place"/>
+<skos:inScheme rdf:resource="ontology/1.0/#facet-Geographic"/>
+<skos:prefLabel>Ethiopia</skos:prefLabel>
+<schema:name>Ethiopia</schema:name>
+<skos:altLabel>Abesinija</skos:altLabel>
+<schema:name>Abesinija</schema:name>
+<skos:altLabel>Abesiniye</skos:altLabel>
+<schema:name>Abesiniye</schema:name>
+<skos:altLabel>Abessinien</skos:altLabel>
+<schema:name>Abessinien</schema:name>
+<skos:altLabel>Abisinia</skos:altLabel>
+<schema:name>Abisinia</schema:name>
+<skos:altLabel>Abissinia</skos:altLabel>
+<schema:name>Abissinia</schema:name>
+<skos:altLabel>Abissinii︠a︡</skos:altLabel>
+<schema:name>Abissinii︠a︡</schema:name>
+<skos:altLabel>Abisynja</skos:altLabel>
+<schema:name>Abisynja</schema:name>
+<skos:altLabel>Abyssinia</skos:altLabel>
+<schema:name>Abyssinia</schema:name>
+<skos:altLabel>Aethiopia</skos:altLabel>
+<schema:name>Aethiopia</schema:name>
+<skos:altLabel>Alta Ætiopia</skos:altLabel>
+<schema:name>Alta Ætiopia</schema:name>
+<skos:altLabel>Äthiopien</skos:altLabel>
+<schema:name>Äthiopien</schema:name>
+<skos:altLabel>Avēssynia</skos:altLabel>
+<schema:name>Avēssynia</schema:name>
+<skos:altLabel>Demokratische Bundesrepublik Äthiopien</skos:altLabel>
+<schema:name>Demokratische Bundesrepublik Äthiopien</schema:name>
+<skos:altLabel>Ėfiopii︠a︡</skos:altLabel>
+<schema:name>Ėfiopii︠a︡</schema:name>
+<skos:altLabel>Empire of Ethiopia</skos:altLabel>
+<schema:name>Empire of Ethiopia</schema:name>
+<skos:altLabel>Éthiopie</skos:altLabel>
+<schema:name>Éthiopie</schema:name>
+<skos:altLabel>Etiopia</skos:altLabel>
+<schema:name>Etiopia</schema:name>
+<skos:altLabel>Etiopie</skos:altLabel>
+<schema:name>Etiopie</schema:name>
+<skos:altLabel>Eṭiopiye</skos:altLabel>
+<schema:name>Eṭiopiye</schema:name>
+<skos:altLabel>Etiyopiyah</skos:altLabel>
+<schema:name>Etiyopiyah</schema:name>
+<skos:altLabel>Etiyopyah</skos:altLabel>
+<schema:name>Etiyopyah</schema:name>
+<skos:altLabel>Etʻovpia</skos:altLabel>
+<schema:name>Etʻovpia</schema:name>
+<skos:altLabel>Etyopiyah</skos:altLabel>
+<schema:name>Etyopiyah</schema:name>
+<skos:altLabel>Etyopyah</skos:altLabel>
+<schema:name>Etyopyah</schema:name>
+<skos:altLabel>Federal Democratic Republic of Ethiopia</skos:altLabel>
+<schema:name>Federal Democratic Republic of Ethiopia</schema:name>
+<skos:altLabel>Federazione etiopica</skos:altLabel>
+<schema:name>Federazione etiopica</schema:name>
+<skos:altLabel>Gouvernement impérial d'Éthiopie</skos:altLabel>
+<schema:name>Gouvernement impérial d'Éthiopie</schema:name>
+<skos:altLabel>Ḥabash</skos:altLabel>
+<schema:name>Ḥabash</schema:name>
+<skos:altLabel>Hạbashah</skos:altLabel>
+<schema:name>Hạbashah</schema:name>
+<skos:altLabel>ʼIḤeDeRi</skos:altLabel>
+<schema:name>ʼIḤeDeRi</schema:name>
+<skos:altLabel>Imperial Ethiopian Government</skos:altLabel>
+<schema:name>Imperial Ethiopian Government</schema:name>
+<skos:altLabel>Ityop</skos:altLabel>
+<schema:name>Ityop</schema:name>
+<skos:altLabel>Ityop'iya Federalawi Demokrasiyawi Ripeblik</skos:altLabel>
+<schema:name>Ityop'iya Federalawi Demokrasiyawi Ripeblik</schema:name>
+<skos:altLabel>Ityopp'ya</skos:altLabel>
+<schema:name>Ityopp'ya</schema:name>
+<skos:altLabel>ʼItyoṗyā</skos:altLabel>
+<schema:name>ʼItyoṗyā</schema:name>
+<skos:altLabel>Motumā céhumsa ʼItyopyā</skos:altLabel>
+<schema:name>Motumā céhumsa ʼItyopyā</schema:name>
+<skos:altLabel>People's Democratic Republic of Ethiopia</skos:altLabel>
+<schema:name>People's Democratic Republic of Ethiopia</schema:name>
+<skos:altLabel>Provisional Military Government of Ethiopia</skos:altLabel>
+<schema:name>Provisional Military Government of Ethiopia</schema:name>
+<skos:altLabel>Provisional Military Government of Socialist Ethiopia</skos:altLabel>
+<schema:name>Provisional Military Government of Socialist Ethiopia</schema:name>
+<skos:altLabel>Repubblica democratica federale d'Etiopia</skos:altLabel>
+<schema:name>Repubblica democratica federale d'Etiopia</schema:name>
+<skos:altLabel>República Democrática Federal de Etiopía</skos:altLabel>
+<schema:name>República Democrática Federal de Etiopía</schema:name>
+<skos:altLabel>République fédérale démocratique d'Éthiopie</skos:altLabel>
+<schema:name>République fédérale démocratique d'Éthiopie</schema:name>
+<skos:altLabel>Transitional Government of Ethiopia</skos:altLabel>
+<schema:name>Transitional Government of Ethiopia</schema:name>
+<skos:altLabel>YaH̲ebratasabʼāwit ʼItyoṗyā gizéyāwi watādarāwi mangeśt</skos:altLabel>
+<schema:name>YaH̲ebratasabʼāwit ʼItyoṗyā gizéyāwi watādarāwi mangeśt</schema:name>
+<skos:altLabel>YaʼItyoṗyā ḥezbāwi dimokrāsiyāwi ripublik</skos:altLabel>
+<schema:name>YaʼItyoṗyā ḥezbāwi dimokrāsiyāwi ripublik</schema:name>
+<skos:altLabel>YaʼItyopyā mangeśt</skos:altLabel>
+<schema:name>YaʼItyopyā mangeśt</schema:name>
+<skos:altLabel>YaʼItyoṗyā ne. na. mangeśt</skos:altLabel>
+<schema:name>YaʼItyoṗyā ne. na. mangeśt</schema:name>
+<skos:altLabel>YaʼItyoṗyā neguśa nagaśt mangeśt</skos:altLabel>
+<schema:name>YaʼItyoṗyā neguśa nagaśt mangeśt</schema:name>
+<skos:altLabel>YaʼItyop̣ya yašegeger mangeśt</skos:altLabel>
+<schema:name>YaʼItyop̣ya yašegeger mangeśt</schema:name>
+<skos:altLabel>Ye-Ityopp'ya Federalawi Dimokrasiyawi Ripeblik</skos:altLabel>
+<schema:name>Ye-Ityopp'ya Federalawi Dimokrasiyawi Ripeblik</schema:name>
+<skos:altLabel>YeĪtyopʼiya Fēdēralawī Dēmokrasīyawī Rīpeblīk</skos:altLabel>
+<schema:name>YeĪtyopʼiya Fēdēralawī Dēmokrasīyawī Rīpeblīk</schema:name>
+<schema:sameAs>
+<rdf:Description rdf:about="http://id.loc.gov/authorities/names/n79081279">
+<rdfs:label>Ethiopia</rdfs:label>
+</rdf:Description>
+</schema:sameAs>
+<schema:sameAs>
+<rdf:Description rdf:about="https://viaf.org/viaf/132211363">
+<rdfs:label>Ethiopia</rdfs:label>
+</rdf:Description>
+</schema:sameAs>
+<schema:geo>
+<schema:GeoCoordinates>
+<schema:latitude>8.00000</schema:latitude>
+<schema:longitude>38.00000</schema:longitude>
+</schema:GeoCoordinates>
+</schema:geo>
+</rdf:Description>
+<rdf:Description rdf:about="fst01205830">
+<rdfs:comment>This identifier is deprecated. See the rdfs:seeAlso link for the new identifier.</rdfs:comment>
+<rdfs:seeAlso rdf:resource="1205830"/>
+</rdf:Description>
+<foaf:Document rdf:about="1205830/rdf.xml">
+<void:inDataset rdf:resource="http://id.worldcat.org/fast/void/0.1"/>
+<foaf:primaryTopic rdf:resource="1205830"/>
+<dc:format>application/rdf+xml</dc:format>
+<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2006-06-20T00:00:00.0</dct:created>
+<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-07-10T13:17:38.0</dct:modified>
+<dct:language rdf:resource="http://lexvo.org/id/iso639-3/eng"/>
+<skos:changeNote xml:lang="en">Cataloged by agency: OCoLC</skos:changeNote>
+<skos:changeNote xml:lang="en">Transcribed by agency: OCoLC</skos:changeNote>
+</foaf:Document>
+<void:Dataset rdf:about="http://id.worldcat.org/fast/void/0.1">
+<dct:title>FAST (Faceted Application of Subject Terminology) Data</dct:title>
+<dct:license>
+<rdf:Description rdf:about="http://www.oclc.org/research/activities/fast/odcby.htm">
+<dct:title>Open Data Commons Attribution License (ODC-By) v1.0</dct:title>
+<rdfs:comment>This is OCLC's "local copy" of the ODC-By license</rdfs:comment>
+<rdfs:seeAlso rdf:resource="http://opendatacommons.org/licenses/by/#toc-anchor-337-3"/>
+<owl:sameAs rdf:resource="http://opendatacommons.org/licenses/by/1-0/"/>
+</rdf:Description>
+</dct:license>
+</void:Dataset>
+</rdf:RDF>

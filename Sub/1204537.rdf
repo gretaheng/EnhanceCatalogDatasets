@@ -1,0 +1,75 @@
+<rdf:RDF xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:norm="http://whatever/java/org.oclc.marc.NormalFormC" xmlns:dct="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:schema="http://schema.org/" xmlns:void="http://rdfs.org/ns/void#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:coord="http://whatever/java/org.oclc.marc.CoordToDecimal" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:mx="http://www.loc.gov/MARC21/slim" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="http://id.worldcat.org/fast/">
+<rdf:Description rdf:about="1204537">
+<dct:identifier>1204537</dct:identifier>
+<skos:inScheme rdf:resource="ontology/1.0/#fast"/>
+<rdf:type rdf:resource="http://schema.org/Place"/>
+<skos:inScheme rdf:resource="ontology/1.0/#facet-Geographic"/>
+<skos:prefLabel>Sweden</skos:prefLabel>
+<schema:name>Sweden</schema:name>
+<skos:altLabel>Kingdom of Sweden</skos:altLabel>
+<schema:name>Kingdom of Sweden</schema:name>
+<skos:altLabel>Konungariket Sverige</skos:altLabel>
+<schema:name>Konungariket Sverige</schema:name>
+<skos:altLabel>Schweden</skos:altLabel>
+<schema:name>Schweden</schema:name>
+<skos:altLabel>Shvet︠s︡ii︠a︡</skos:altLabel>
+<schema:name>Shvet︠s︡ii︠a︡</schema:name>
+<skos:altLabel>Suecia</skos:altLabel>
+<schema:name>Suecia</schema:name>
+<skos:altLabel>Suède</skos:altLabel>
+<schema:name>Suède</schema:name>
+<skos:altLabel>Suwēden</skos:altLabel>
+<schema:name>Suwēden</schema:name>
+<skos:altLabel>Sverige</skos:altLabel>
+<schema:name>Sverige</schema:name>
+<skos:altLabel>Svezia</skos:altLabel>
+<schema:name>Svezia</schema:name>
+<skos:altLabel>Szwecja</skos:altLabel>
+<schema:name>Szwecja</schema:name>
+<skos:altLabel>Zviedrija</skos:altLabel>
+<schema:name>Zviedrija</schema:name>
+<skos:altLabel>Zweden</skos:altLabel>
+<schema:name>Zweden</schema:name>
+<schema:sameAs>
+<rdf:Description rdf:about="http://id.loc.gov/authorities/names/n79021184">
+<rdfs:label>Sweden</rdfs:label>
+</rdf:Description>
+</schema:sameAs>
+<schema:sameAs>
+<rdf:Description rdf:about="https://viaf.org/viaf/159364209">
+<rdfs:label>Sweden</rdfs:label>
+</rdf:Description>
+</schema:sameAs>
+<schema:geo>
+<schema:GeoCoordinates>
+<schema:latitude>59.35000</schema:latitude>
+<schema:longitude>59.35000</schema:longitude>
+</schema:GeoCoordinates>
+</schema:geo>
+</rdf:Description>
+<rdf:Description rdf:about="fst01204537">
+<rdfs:comment>This identifier is deprecated. See the rdfs:seeAlso link for the new identifier.</rdfs:comment>
+<rdfs:seeAlso rdf:resource="1204537"/>
+</rdf:Description>
+<foaf:Document rdf:about="1204537/rdf.xml">
+<void:inDataset rdf:resource="http://id.worldcat.org/fast/void/0.1"/>
+<foaf:primaryTopic rdf:resource="1204537"/>
+<dc:format>application/rdf+xml</dc:format>
+<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2006-06-20T00:00:00.0</dct:created>
+<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-17T09:25:32.0</dct:modified>
+<dct:language rdf:resource="http://lexvo.org/id/iso639-3/eng"/>
+<skos:changeNote xml:lang="en">Cataloged by agency: OCoLC</skos:changeNote>
+<skos:changeNote xml:lang="en">Transcribed by agency: OCoLC</skos:changeNote>
+</foaf:Document>
+<void:Dataset rdf:about="http://id.worldcat.org/fast/void/0.1">
+<dct:title>FAST (Faceted Application of Subject Terminology) Data</dct:title>
+<dct:license>
+<rdf:Description rdf:about="http://www.oclc.org/research/activities/fast/odcby.htm">
+<dct:title>Open Data Commons Attribution License (ODC-By) v1.0</dct:title>
+<rdfs:comment>This is OCLC's "local copy" of the ODC-By license</rdfs:comment>
+<rdfs:seeAlso rdf:resource="http://opendatacommons.org/licenses/by/#toc-anchor-337-3"/>
+<owl:sameAs rdf:resource="http://opendatacommons.org/licenses/by/1-0/"/>
+</rdf:Description>
+</dct:license>
+</void:Dataset>
+</rdf:RDF>

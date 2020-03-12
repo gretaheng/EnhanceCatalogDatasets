@@ -1,0 +1,284 @@
+<rdf:RDF xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:norm="http://whatever/java/org.oclc.marc.NormalFormC" xmlns:dct="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:schema="http://schema.org/" xmlns:void="http://rdfs.org/ns/void#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:coord="http://whatever/java/org.oclc.marc.CoordToDecimal" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:mx="http://www.loc.gov/MARC21/slim" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="http://id.worldcat.org/fast/">
+<rdf:Description rdf:about="1204155">
+<dct:identifier>1204155</dct:identifier>
+<skos:inScheme rdf:resource="ontology/1.0/#fast"/>
+<rdf:type rdf:resource="http://schema.org/Place"/>
+<skos:inScheme rdf:resource="ontology/1.0/#facet-Geographic"/>
+<skos:prefLabel>United States</skos:prefLabel>
+<schema:name>United States</schema:name>
+<skos:altLabel>ABŞ</skos:altLabel>
+<schema:name>ABŞ</schema:name>
+<skos:altLabel>ABSh</skos:altLabel>
+<schema:name>ABSh</schema:name>
+<skos:altLabel>Ameerika Ühendriigid</skos:altLabel>
+<schema:name>Ameerika Ühendriigid</schema:name>
+<skos:altLabel>America (Republic)</skos:altLabel>
+<schema:name>America (Republic)</schema:name>
+<skos:altLabel>Amerika Birlăshmish Shtatlary</skos:altLabel>
+<schema:name>Amerika Birlăshmish Shtatlary</schema:name>
+<skos:altLabel>Amerika Birlăşmi Ştatları</skos:altLabel>
+<schema:name>Amerika Birlăşmi Ştatları</schema:name>
+<skos:altLabel>Amerika Birlăşmiş Ştatları</skos:altLabel>
+<schema:name>Amerika Birlăşmiş Ştatları</schema:name>
+<skos:altLabel>Amerika ka Kelenyalen Jamanaw</skos:altLabel>
+<schema:name>Amerika ka Kelenyalen Jamanaw</schema:name>
+<skos:altLabel>Amerika Qūrama Shtattary</skos:altLabel>
+<schema:name>Amerika Qūrama Shtattary</schema:name>
+<skos:altLabel>Amerika Qŭshma Shtatlari</skos:altLabel>
+<schema:name>Amerika Qŭshma Shtatlari</schema:name>
+<skos:altLabel>Amerika Qushma Shtattary</skos:altLabel>
+<schema:name>Amerika Qushma Shtattary</schema:name>
+<skos:altLabel>Amerika (Republic)</skos:altLabel>
+<schema:name>Amerika (Republic)</schema:name>
+<skos:altLabel>Amerikai Egyesült Államok</skos:altLabel>
+<schema:name>Amerikai Egyesült Államok</schema:name>
+<skos:altLabel>Amerikanʹ Veĭtʹsėndi︠a︡vks Shtattnė</skos:altLabel>
+<schema:name>Amerikanʹ Veĭtʹsėndi︠a︡vks Shtattnė</schema:name>
+<skos:altLabel>Amerikări Pĕrleshu̇llĕ Shtatsem</skos:altLabel>
+<schema:name>Amerikări Pĕrleshu̇llĕ Shtatsem</schema:name>
+<skos:altLabel>Amerikas Forenede Stater</skos:altLabel>
+<schema:name>Amerikas Forenede Stater</schema:name>
+<skos:altLabel>Amerikayi Miatsʻyal Nahangner</skos:altLabel>
+<schema:name>Amerikayi Miatsʻyal Nahangner</schema:name>
+<skos:altLabel>Ameriketako Estatu Batuak</skos:altLabel>
+<schema:name>Ameriketako Estatu Batuak</schema:name>
+<skos:altLabel>Amirika Carékat</skos:altLabel>
+<schema:name>Amirika Carékat</schema:name>
+<skos:altLabel>AQSh</skos:altLabel>
+<schema:name>AQSh</schema:name>
+<skos:altLabel>Ar. ha-B.</skos:altLabel>
+<schema:name>Ar. ha-B.</schema:name>
+<skos:altLabel>Arhab</skos:altLabel>
+<schema:name>Arhab</schema:name>
+<skos:altLabel>Artsot ha-Berit</skos:altLabel>
+<schema:name>Artsot ha-Berit</schema:name>
+<skos:altLabel>Artzois Ha'bris</skos:altLabel>
+<schema:name>Artzois Ha'bris</schema:name>
+<skos:altLabel>Bí-kok</skos:altLabel>
+<schema:name>Bí-kok</schema:name>
+<skos:altLabel>Ē.P.A.</skos:altLabel>
+<schema:name>Ē.P.A.</schema:name>
+<skos:altLabel>EE.UU.</skos:altLabel>
+<schema:name>EE.UU.</schema:name>
+<skos:altLabel>Egyesült Államok</skos:altLabel>
+<schema:name>Egyesült Államok</schema:name>
+<skos:altLabel>ĒPA</skos:altLabel>
+<schema:name>ĒPA</schema:name>
+<skos:altLabel>Estados Unidos</skos:altLabel>
+<schema:name>Estados Unidos</schema:name>
+<skos:altLabel>Estados Unidos da América do Norte</skos:altLabel>
+<schema:name>Estados Unidos da América do Norte</schema:name>
+<skos:altLabel>Estados Unidos de América</skos:altLabel>
+<schema:name>Estados Unidos de América</schema:name>
+<skos:altLabel>Estaos Xuníos</skos:altLabel>
+<schema:name>Estaos Xuníos</schema:name>
+<skos:altLabel>Estaos Xuníos d'América</skos:altLabel>
+<schema:name>Estaos Xuníos d'América</schema:name>
+<skos:altLabel>Estatos Unitos</skos:altLabel>
+<schema:name>Estatos Unitos</schema:name>
+<skos:altLabel>Estatos Unitos d'America</skos:altLabel>
+<schema:name>Estatos Unitos d'America</schema:name>
+<skos:altLabel>Estats Units d'Amèrica</skos:altLabel>
+<schema:name>Estats Units d'Amèrica</schema:name>
+<skos:altLabel>Ètats-Unis d'Amèrica</skos:altLabel>
+<schema:name>Ètats-Unis d'Amèrica</schema:name>
+<skos:altLabel>États-Unis d'Amérique</skos:altLabel>
+<schema:name>États-Unis d'Amérique</schema:name>
+<skos:altLabel>Fareyniḳṭe Shṭaṭn</skos:altLabel>
+<schema:name>Fareyniḳṭe Shṭaṭn</schema:name>
+<skos:altLabel>Feriene Steaten</skos:altLabel>
+<schema:name>Feriene Steaten</schema:name>
+<skos:altLabel>Feriene Steaten fan Amearika</skos:altLabel>
+<schema:name>Feriene Steaten fan Amearika</schema:name>
+<skos:altLabel>Forente stater</skos:altLabel>
+<schema:name>Forente stater</schema:name>
+<skos:altLabel>FS</skos:altLabel>
+<schema:name>FS</schema:name>
+<skos:altLabel>Hēnomenai Politeiai Amerikēs</skos:altLabel>
+<schema:name>Hēnomenai Politeiai Amerikēs</schema:name>
+<skos:altLabel>Hēnōmenes Politeies tēs Amerikēs</skos:altLabel>
+<schema:name>Hēnōmenes Politeies tēs Amerikēs</schema:name>
+<skos:altLabel>Hiwsisayin Amerikayi Miatsʻeal Tērutʻiwnkʻ</skos:altLabel>
+<schema:name>Hiwsisayin Amerikayi Miatsʻeal Tērutʻiwnkʻ</schema:name>
+<skos:altLabel>Istadus Unidus</skos:altLabel>
+<schema:name>Istadus Unidus</schema:name>
+<skos:altLabel>Jungtinės Amerikos valstybės</skos:altLabel>
+<schema:name>Jungtinės Amerikos valstybės</schema:name>
+<skos:altLabel>Mei guo</skos:altLabel>
+<schema:name>Mei guo</schema:name>
+<skos:altLabel>Mei-kuo</skos:altLabel>
+<schema:name>Mei-kuo</schema:name>
+<skos:altLabel>Meiguo</skos:altLabel>
+<schema:name>Meiguo</schema:name>
+<skos:altLabel>Mî-koet</skos:altLabel>
+<schema:name>Mî-koet</schema:name>
+<skos:altLabel>Miatsʻyal Nahangner</skos:altLabel>
+<schema:name>Miatsʻyal Nahangner</schema:name>
+<skos:altLabel>Miguk</skos:altLabel>
+<schema:name>Miguk</schema:name>
+<skos:altLabel>Na Stàitean Aonaichte</skos:altLabel>
+<schema:name>Na Stàitean Aonaichte</schema:name>
+<skos:altLabel>NSA</skos:altLabel>
+<schema:name>NSA</schema:name>
+<skos:altLabel>S.U.A.</skos:altLabel>
+<schema:name>S.U.A.</schema:name>
+<skos:altLabel>SAD</skos:altLabel>
+<schema:name>SAD</schema:name>
+<skos:altLabel>Saharat ʻAmērikā</skos:altLabel>
+<schema:name>Saharat ʻAmērikā</schema:name>
+<skos:altLabel>SASht</skos:altLabel>
+<schema:name>SASht</schema:name>
+<skos:altLabel>Severo-Amerikanskie Shtaty</skos:altLabel>
+<schema:name>Severo-Amerikanskie Shtaty</schema:name>
+<skos:altLabel>Severo-Amerikanskie Soedinennye Shtaty</skos:altLabel>
+<schema:name>Severo-Amerikanskie Soedinennye Shtaty</schema:name>
+<skos:altLabel>Si︠e︡vero-Amerikanskīe Soedinennye Shtaty</skos:altLabel>
+<schema:name>Si︠e︡vero-Amerikanskīe Soedinennye Shtaty</schema:name>
+<skos:altLabel>Sjedinjene Američke Države</skos:altLabel>
+<schema:name>Sjedinjene Američke Države</schema:name>
+<skos:altLabel>Soedinennye Shtaty Ameriki</skos:altLabel>
+<schema:name>Soedinennye Shtaty Ameriki</schema:name>
+<skos:altLabel>Soedinennye Shtaty Severnoĭ Ameriki</skos:altLabel>
+<schema:name>Soedinennye Shtaty Severnoĭ Ameriki</schema:name>
+<skos:altLabel>Soedinennye Shtaty Si︠e︡vernoĭ Ameriki</skos:altLabel>
+<schema:name>Soedinennye Shtaty Si︠e︡vernoĭ Ameriki</schema:name>
+<skos:altLabel>Spojené staty americké</skos:altLabel>
+<schema:name>Spojené staty americké</schema:name>
+<skos:altLabel>SShA</skos:altLabel>
+<schema:name>SShA</schema:name>
+<skos:altLabel>Stadoù-Unanet Amerika</skos:altLabel>
+<schema:name>Stadoù-Unanet Amerika</schema:name>
+<skos:altLabel>Stáit Aontaithe Mheiriceá</skos:altLabel>
+<schema:name>Stáit Aontaithe Mheiriceá</schema:name>
+<skos:altLabel>Stany Zjednoczone</skos:altLabel>
+<schema:name>Stany Zjednoczone</schema:name>
+<skos:altLabel>Stati Uniti</skos:altLabel>
+<schema:name>Stati Uniti</schema:name>
+<skos:altLabel>Stati Uniti d'America</skos:altLabel>
+<schema:name>Stati Uniti d'America</schema:name>
+<skos:altLabel>Stâts Unîts</skos:altLabel>
+<schema:name>Stâts Unîts</schema:name>
+<skos:altLabel>Stâts Unîts di Americhe</skos:altLabel>
+<schema:name>Stâts Unîts di Americhe</schema:name>
+<skos:altLabel>Steatyn Unnaneysit</skos:altLabel>
+<schema:name>Steatyn Unnaneysit</schema:name>
+<skos:altLabel>Steatyn Unnaneysit America</skos:altLabel>
+<schema:name>Steatyn Unnaneysit America</schema:name>
+<skos:altLabel>SUA--Stati Uniti d'America</skos:altLabel>
+<schema:name>SUA--Stati Uniti d'America</schema:name>
+<skos:altLabel>Sŭedineni amerikanski shtati</skos:altLabel>
+<schema:name>Sŭedineni amerikanski shtati</schema:name>
+<skos:altLabel>Sŭedinenite shtati</skos:altLabel>
+<schema:name>Sŭedinenite shtati</schema:name>
+<skos:altLabel>Tetã peteĩ reko Amérikagua</skos:altLabel>
+<schema:name>Tetã peteĩ reko Amérikagua</schema:name>
+<skos:altLabel>U.S.</skos:altLabel>
+<schema:name>U.S.</schema:name>
+<skos:altLabel>U.S.A.</skos:altLabel>
+<schema:name>U.S.A.</schema:name>
+<skos:altLabel>United States of America</skos:altLabel>
+<schema:name>United States of America</schema:name>
+<skos:altLabel>Unol Daleithiau</skos:altLabel>
+<schema:name>Unol Daleithiau</schema:name>
+<skos:altLabel>Unol Daleithiau America</skos:altLabel>
+<schema:name>Unol Daleithiau America</schema:name>
+<skos:altLabel>Unuiĝintaj Ŝtatoj de Ameriko</skos:altLabel>
+<schema:name>Unuiĝintaj Ŝtatoj de Ameriko</schema:name>
+<skos:altLabel>US</skos:altLabel>
+<schema:name>US</schema:name>
+<skos:altLabel>USA</skos:altLabel>
+<schema:name>USA</schema:name>
+<skos:altLabel>Usono</skos:altLabel>
+<schema:name>Usono</schema:name>
+<skos:altLabel>Vaeinigte Staatn</skos:altLabel>
+<schema:name>Vaeinigte Staatn</schema:name>
+<skos:altLabel>Vaeinigte Staatn vo Amerika</skos:altLabel>
+<schema:name>Vaeinigte Staatn vo Amerika</schema:name>
+<skos:altLabel>Vereinigte Staaten</skos:altLabel>
+<schema:name>Vereinigte Staaten</schema:name>
+<skos:altLabel>Vereinigte Staaten von Amerika</skos:altLabel>
+<schema:name>Vereinigte Staaten von Amerika</schema:name>
+<skos:altLabel>Verenigde State van Amerika</skos:altLabel>
+<schema:name>Verenigde State van Amerika</schema:name>
+<skos:altLabel>Verenigde Staten</skos:altLabel>
+<schema:name>Verenigde Staten</schema:name>
+<skos:altLabel>VS</skos:altLabel>
+<schema:name>VS</schema:name>
+<skos:altLabel>VSA</skos:altLabel>
+<schema:name>VSA</schema:name>
+<skos:altLabel>Wááshindoon Bikéyah Ałhidadiidzooígíí</skos:altLabel>
+<schema:name>Wááshindoon Bikéyah Ałhidadiidzooígíí</schema:name>
+<skos:altLabel>Wilāyāt al-Muttaḥidah</skos:altLabel>
+<schema:name>Wilāyāt al-Muttaḥidah</schema:name>
+<skos:altLabel>Wilāyāt al-Muttaḥidah al-Amirīkīyah</skos:altLabel>
+<schema:name>Wilāyāt al-Muttaḥidah al-Amirīkīyah</schema:name>
+<skos:altLabel>Wilāyāt al-Muttaḥidah al-Amrīkīyah</skos:altLabel>
+<schema:name>Wilāyāt al-Muttaḥidah al-Amrīkīyah</schema:name>
+<skos:altLabel>Yhdysvallat</skos:altLabel>
+<schema:name>Yhdysvallat</schema:name>
+<skos:altLabel>Yunaeted Stet</skos:altLabel>
+<schema:name>Yunaeted Stet</schema:name>
+<skos:altLabel>Yunaeted Stet blong Amerika</skos:altLabel>
+<schema:name>Yunaeted Stet blong Amerika</schema:name>
+<skos:altLabel>ZDA</skos:altLabel>
+<schema:name>ZDA</schema:name>
+<skos:altLabel>Združene države Amerike</skos:altLabel>
+<schema:name>Združene države Amerike</schema:name>
+<skos:altLabel>Zʹi︠e︡dnani Derz︠h︡avy Ameryky</skos:altLabel>
+<schema:name>Zʹi︠e︡dnani Derz︠h︡avy Ameryky</schema:name>
+<skos:altLabel>Zjadnośone staty Ameriki</skos:altLabel>
+<schema:name>Zjadnośone staty Ameriki</schema:name>
+<skos:altLabel>Zluchanyi︠a︡ Shtaty Ameryki</skos:altLabel>
+<schema:name>Zluchanyi︠a︡ Shtaty Ameryki</schema:name>
+<skos:altLabel>Zlucheni Derz︠h︡avy</skos:altLabel>
+<schema:name>Zlucheni Derz︠h︡avy</schema:name>
+<skos:altLabel>ZSA</skos:altLabel>
+<schema:name>ZSA</schema:name>
+<schema:sameAs>
+<rdf:Description rdf:about="http://id.loc.gov/authorities/names/n78095330">
+<rdfs:label>United States</rdfs:label>
+</rdf:Description>
+</schema:sameAs>
+<schema:sameAs>
+<rdf:Description rdf:about="http://www.geonames.org/6252001">
+<rdfs:label>United States</rdfs:label>
+</rdf:Description>
+</schema:sameAs>
+<schema:sameAs>
+<rdf:Description rdf:about="https://viaf.org/viaf/130168302">
+<rdfs:label>United States</rdfs:label>
+</rdf:Description>
+</schema:sameAs>
+<schema:geo>
+<schema:GeoCoordinates>
+<schema:latitude>39.76000</schema:latitude>
+<schema:longitude>-98.50000</schema:longitude>
+</schema:GeoCoordinates>
+</schema:geo>
+</rdf:Description>
+<rdf:Description rdf:about="fst01204155">
+<rdfs:comment>This identifier is deprecated. See the rdfs:seeAlso link for the new identifier.</rdfs:comment>
+<rdfs:seeAlso rdf:resource="1204155"/>
+</rdf:Description>
+<foaf:Document rdf:about="1204155/rdf.xml">
+<void:inDataset rdf:resource="http://id.worldcat.org/fast/void/0.1"/>
+<foaf:primaryTopic rdf:resource="1204155"/>
+<dc:format>application/rdf+xml</dc:format>
+<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2006-06-20T00:00:00.0</dct:created>
+<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-07-06T16:17:30.0</dct:modified>
+<dct:language rdf:resource="http://lexvo.org/id/iso639-3/eng"/>
+<skos:changeNote xml:lang="en">Cataloged by agency: OCoLC</skos:changeNote>
+<skos:changeNote xml:lang="en">Transcribed by agency: OCoLC</skos:changeNote>
+</foaf:Document>
+<void:Dataset rdf:about="http://id.worldcat.org/fast/void/0.1">
+<dct:title>FAST (Faceted Application of Subject Terminology) Data</dct:title>
+<dct:license>
+<rdf:Description rdf:about="http://www.oclc.org/research/activities/fast/odcby.htm">
+<dct:title>Open Data Commons Attribution License (ODC-By) v1.0</dct:title>
+<rdfs:comment>This is OCLC's "local copy" of the ODC-By license</rdfs:comment>
+<rdfs:seeAlso rdf:resource="http://opendatacommons.org/licenses/by/#toc-anchor-337-3"/>
+<owl:sameAs rdf:resource="http://opendatacommons.org/licenses/by/1-0/"/>
+</rdf:Description>
+</dct:license>
+</void:Dataset>
+</rdf:RDF>

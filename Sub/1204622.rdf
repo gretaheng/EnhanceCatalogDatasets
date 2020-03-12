@@ -1,0 +1,152 @@
+<rdf:RDF xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:norm="http://whatever/java/org.oclc.marc.NormalFormC" xmlns:dct="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:schema="http://schema.org/" xmlns:void="http://rdfs.org/ns/void#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:coord="http://whatever/java/org.oclc.marc.CoordToDecimal" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:mx="http://www.loc.gov/MARC21/slim" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="http://id.worldcat.org/fast/">
+<rdf:Description rdf:about="1204622">
+<dct:identifier>1204622</dct:identifier>
+<skos:inScheme rdf:resource="ontology/1.0/#fast"/>
+<rdf:type rdf:resource="http://schema.org/Place"/>
+<skos:inScheme rdf:resource="ontology/1.0/#facet-Geographic"/>
+<skos:prefLabel>Georgia</skos:prefLabel>
+<schema:name>Georgia</schema:name>
+<skos:altLabel>Cheorchia</skos:altLabel>
+<schema:name>Cheorchia</schema:name>
+<skos:altLabel>Chojia</skos:altLabel>
+<schema:name>Chojia</schema:name>
+<skos:altLabel>Chojia-ju</skos:altLabel>
+<schema:name>Chojia-ju</schema:name>
+<skos:altLabel>Chojiaju</skos:altLabel>
+<schema:name>Chojiaju</schema:name>
+<skos:altLabel>Çhorshey</skos:altLabel>
+<schema:name>Çhorshey</schema:name>
+<skos:altLabel>Corciya</skos:altLabel>
+<schema:name>Corciya</schema:name>
+<skos:altLabel>Delstaten Georgia</skos:altLabel>
+<schema:name>Delstaten Georgia</schema:name>
+<skos:altLabel>Djòdji</skos:altLabel>
+<schema:name>Djòdji</schema:name>
+<skos:altLabel>Dzhordzhii︠a︡</skos:altLabel>
+<schema:name>Dzhordzhii︠a︡</schema:name>
+<skos:altLabel>Dz︠h︡ordz︠h︡yi︠a︡</skos:altLabel>
+<schema:name>Dz︠h︡ordz︠h︡yi︠a︡</schema:name>
+<skos:altLabel>Džordžija</skos:altLabel>
+<schema:name>Džordžija</schema:name>
+<skos:altLabel>Džuordžėjė</skos:altLabel>
+<schema:name>Džuordžėjė</schema:name>
+<skos:altLabel>Empire State of the South</skos:altLabel>
+<schema:name>Empire State of the South</schema:name>
+<skos:altLabel>Estado de Xeorxia</skos:altLabel>
+<schema:name>Estado de Xeorxia</schema:name>
+<skos:altLabel>Estato de Cheorchia</skos:altLabel>
+<schema:name>Estato de Cheorchia</schema:name>
+<skos:altLabel>État de Géorgie</skos:altLabel>
+<schema:name>État de Géorgie</schema:name>
+<skos:altLabel>Georgia suyu</skos:altLabel>
+<schema:name>Georgia suyu</schema:name>
+<skos:altLabel>Georgie</skos:altLabel>
+<schema:name>Georgie</schema:name>
+<skos:altLabel>Georgio (State)</skos:altLabel>
+<schema:name>Georgio (State)</schema:name>
+<skos:altLabel>Giorgiye Shitati</skos:altLabel>
+<schema:name>Giorgiye Shitati</schema:name>
+<skos:altLabel>G'org'iyah</skos:altLabel>
+<schema:name>G'org'iyah</schema:name>
+<skos:altLabel>Ìpínlẹ̀ `Georgia</skos:altLabel>
+<schema:name>Ìpínlẹ̀ `Georgia</schema:name>
+<skos:altLabel>Jeorji</skos:altLabel>
+<schema:name>Jeorji</schema:name>
+<skos:altLabel>Jōjia</skos:altLabel>
+<schema:name>Jōjia</schema:name>
+<skos:altLabel>Jōjia-shū</skos:altLabel>
+<schema:name>Jōjia-shū</schema:name>
+<skos:altLabel>Jōjiashū</skos:altLabel>
+<schema:name>Jōjiashū</schema:name>
+<skos:altLabel>Jóojah Hahoodzo</skos:altLabel>
+<schema:name>Jóojah Hahoodzo</schema:name>
+<skos:altLabel>Jôrg·ie</skos:altLabel>
+<schema:name>Jôrg·ie</schema:name>
+<skos:altLabel>Jorji</skos:altLabel>
+<schema:name>Jorji</schema:name>
+<skos:altLabel>Jorjiạ</skos:altLabel>
+<schema:name>Jorjiạ</schema:name>
+<skos:altLabel>Jorjiya</skos:altLabel>
+<schema:name>Jorjiya</schema:name>
+<skos:altLabel>Jūrjiyā</skos:altLabel>
+<schema:name>Jūrjiyā</schema:name>
+<skos:altLabel>Keokia</skos:altLabel>
+<schema:name>Keokia</schema:name>
+<skos:altLabel>Khièu-tshṳ-â</skos:altLabel>
+<schema:name>Khièu-tshṳ-â</schema:name>
+<skos:altLabel>Medinat G'org'iyah</skos:altLabel>
+<schema:name>Medinat G'org'iyah</schema:name>
+<skos:altLabel>Peach State</skos:altLabel>
+<schema:name>Peach State</schema:name>
+<skos:altLabel>Politeia tēs Tzortzia</skos:altLabel>
+<schema:name>Politeia tēs Tzortzia</schema:name>
+<skos:altLabel>Qiaozhiya</skos:altLabel>
+<schema:name>Qiaozhiya</schema:name>
+<skos:altLabel>Qiaozhiya Zhou</skos:altLabel>
+<schema:name>Qiaozhiya Zhou</schema:name>
+<skos:altLabel>Shtat Dz︠h︡ordz︠h︡ii︠a︡</skos:altLabel>
+<schema:name>Shtat Dz︠h︡ordz︠h︡ii︠a︡</schema:name>
+<skos:altLabel>Shtat Dz︠h︡ordz︠h︡yi︠a︡</skos:altLabel>
+<schema:name>Shtat Dz︠h︡ordz︠h︡yi︠a︡</schema:name>
+<skos:altLabel>State of Georgia</skos:altLabel>
+<schema:name>State of Georgia</schema:name>
+<skos:altLabel>Tzortzia</skos:altLabel>
+<schema:name>Tzortzia</schema:name>
+<skos:altLabel>US-GA</skos:altLabel>
+<schema:name>US-GA</schema:name>
+<skos:altLabel>Xeorxia</skos:altLabel>
+<schema:name>Xeorxia</schema:name>
+<skos:altLabel>Yn Çhorshey</skos:altLabel>
+<schema:name>Yn Çhorshey</schema:name>
+<skos:altLabel>Zhorzhia</skos:altLabel>
+<schema:name>Zhorzhia</schema:name>
+<skos:altLabel>Zhorzhia Muzh Uls</skos:altLabel>
+<schema:name>Zhorzhia Muzh Uls</schema:name>
+<schema:sameAs>
+<rdf:Description rdf:about="http://id.loc.gov/authorities/names/n79023113">
+<rdfs:label>Georgia</rdfs:label>
+</rdf:Description>
+</schema:sameAs>
+<schema:sameAs>
+<rdf:Description rdf:about="https://viaf.org/viaf/144230826">
+<rdfs:label>Georgia</rdfs:label>
+</rdf:Description>
+</schema:sameAs>
+<foaf:focus>
+<rdf:Description rdf:about="https://en.wikipedia.org/wiki/Georgia,_New_Jersey">
+<rdfs:label>Georgia, New Jersey</rdfs:label>
+</rdf:Description>
+</foaf:focus>
+<schema:geo>
+<schema:GeoCoordinates>
+<schema:latitude>32.75028</schema:latitude>
+<schema:longitude>-83.50000</schema:longitude>
+</schema:GeoCoordinates>
+</schema:geo>
+</rdf:Description>
+<rdf:Description rdf:about="fst01204622">
+<rdfs:comment>This identifier is deprecated. See the rdfs:seeAlso link for the new identifier.</rdfs:comment>
+<rdfs:seeAlso rdf:resource="1204622"/>
+</rdf:Description>
+<foaf:Document rdf:about="1204622/rdf.xml">
+<void:inDataset rdf:resource="http://id.worldcat.org/fast/void/0.1"/>
+<foaf:primaryTopic rdf:resource="1204622"/>
+<dc:format>application/rdf+xml</dc:format>
+<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2006-06-20T00:00:00.0</dct:created>
+<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-01-03T16:03:16.0</dct:modified>
+<dct:language rdf:resource="http://lexvo.org/id/iso639-3/eng"/>
+<skos:changeNote xml:lang="en">Cataloged by agency: OCoLC</skos:changeNote>
+<skos:changeNote xml:lang="en">Transcribed by agency: OCoLC</skos:changeNote>
+</foaf:Document>
+<void:Dataset rdf:about="http://id.worldcat.org/fast/void/0.1">
+<dct:title>FAST (Faceted Application of Subject Terminology) Data</dct:title>
+<dct:license>
+<rdf:Description rdf:about="http://www.oclc.org/research/activities/fast/odcby.htm">
+<dct:title>Open Data Commons Attribution License (ODC-By) v1.0</dct:title>
+<rdfs:comment>This is OCLC's "local copy" of the ODC-By license</rdfs:comment>
+<rdfs:seeAlso rdf:resource="http://opendatacommons.org/licenses/by/#toc-anchor-337-3"/>
+<owl:sameAs rdf:resource="http://opendatacommons.org/licenses/by/1-0/"/>
+</rdf:Description>
+</dct:license>
+</void:Dataset>
+</rdf:RDF>

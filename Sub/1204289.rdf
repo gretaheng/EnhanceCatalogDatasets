@@ -1,0 +1,176 @@
+<rdf:RDF xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:norm="http://whatever/java/org.oclc.marc.NormalFormC" xmlns:dct="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:schema="http://schema.org/" xmlns:void="http://rdfs.org/ns/void#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:coord="http://whatever/java/org.oclc.marc.CoordToDecimal" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:mx="http://www.loc.gov/MARC21/slim" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="http://id.worldcat.org/fast/">
+<rdf:Description rdf:about="1204289">
+<dct:identifier>1204289</dct:identifier>
+<dct:replaces rdf:resource="762998"/>
+<skos:inScheme rdf:resource="ontology/1.0/#fast"/>
+<rdf:type rdf:resource="http://schema.org/Place"/>
+<skos:inScheme rdf:resource="ontology/1.0/#facet-Geographic"/>
+<skos:prefLabel>France</skos:prefLabel>
+<schema:name>France</schema:name>
+<skos:altLabel>Gouvernement provisoire de la République française</skos:altLabel>
+<schema:name>Gouvernement provisoire de la République française</schema:name>
+<skos:altLabel>Bro-C'hall</skos:altLabel>
+<schema:name>Bro-C'hall</schema:name>
+<skos:altLabel>Fa-kuo</skos:altLabel>
+<schema:name>Fa-kuo</schema:name>
+<skos:altLabel>Fa-lan-hsi</skos:altLabel>
+<schema:name>Fa-lan-hsi</schema:name>
+<skos:altLabel>Faguo</skos:altLabel>
+<schema:name>Faguo</schema:name>
+<skos:altLabel>Falanxi</skos:altLabel>
+<schema:name>Falanxi</schema:name>
+<skos:altLabel>Falanxi Gongheguo</skos:altLabel>
+<schema:name>Falanxi Gongheguo</schema:name>
+<skos:altLabel>Faransā</skos:altLabel>
+<schema:name>Faransā</schema:name>
+<skos:altLabel>Farānsah</skos:altLabel>
+<schema:name>Farānsah</schema:name>
+<skos:altLabel>França</skos:altLabel>
+<schema:name>França</schema:name>
+<skos:altLabel>Francia (Republic)</skos:altLabel>
+<schema:name>Francia (Republic)</schema:name>
+<skos:altLabel>Francija</skos:altLabel>
+<schema:name>Francija</schema:name>
+<skos:altLabel>Francja</skos:altLabel>
+<schema:name>Francja</schema:name>
+<skos:altLabel>Francland</skos:altLabel>
+<schema:name>Francland</schema:name>
+<skos:altLabel>Francuska</skos:altLabel>
+<schema:name>Francuska</schema:name>
+<skos:altLabel>Franis</skos:altLabel>
+<schema:name>Franis</schema:name>
+<skos:altLabel>Franḳraykh</skos:altLabel>
+<schema:name>Franḳraykh</schema:name>
+<skos:altLabel>Frankreich</skos:altLabel>
+<schema:name>Frankreich</schema:name>
+<skos:altLabel>Frankrig</skos:altLabel>
+<schema:name>Frankrig</schema:name>
+<skos:altLabel>Frankrijk</skos:altLabel>
+<schema:name>Frankrijk</schema:name>
+<skos:altLabel>Frankrike</skos:altLabel>
+<schema:name>Frankrike</schema:name>
+<skos:altLabel>Frankryk</skos:altLabel>
+<schema:name>Frankryk</schema:name>
+<skos:altLabel>Fransa</skos:altLabel>
+<schema:name>Fransa</schema:name>
+<skos:altLabel>Fransa Respublikası</skos:altLabel>
+<schema:name>Fransa Respublikası</schema:name>
+<skos:altLabel>Franse</skos:altLabel>
+<schema:name>Franse</schema:name>
+<skos:altLabel>Franse Republiek</skos:altLabel>
+<schema:name>Franse Republiek</schema:name>
+<skos:altLabel>Frant︠s︡</skos:altLabel>
+<schema:name>Frant︠s︡</schema:name>
+<skos:altLabel>Frant︠s︡ Uls</skos:altLabel>
+<schema:name>Frant︠s︡ Uls</schema:name>
+<skos:altLabel>Frant︠s︡ii︠a︡</skos:altLabel>
+<schema:name>Frant︠s︡ii︠a︡</schema:name>
+<skos:altLabel>Frantsuzskai︠a︡ Rėspublika</skos:altLabel>
+<schema:name>Frantsuzskai︠a︡ Rėspublika</schema:name>
+<skos:altLabel>Frantsyi︠a︡</skos:altLabel>
+<schema:name>Frantsyi︠a︡</schema:name>
+<skos:altLabel>Franza</skos:altLabel>
+<schema:name>Franza</schema:name>
+<skos:altLabel>French Republic</skos:altLabel>
+<schema:name>French Republic</schema:name>
+<skos:altLabel>Frencisc Cynewīse</skos:altLabel>
+<schema:name>Frencisc Cynewīse</schema:name>
+<skos:altLabel>Frenska republika</skos:altLabel>
+<schema:name>Frenska republika</schema:name>
+<skos:altLabel>Furansu</skos:altLabel>
+<schema:name>Furansu</schema:name>
+<skos:altLabel>Furansu Kyōwakoku</skos:altLabel>
+<schema:name>Furansu Kyōwakoku</schema:name>
+<skos:altLabel>Gallia</skos:altLabel>
+<schema:name>Gallia</schema:name>
+<skos:altLabel>Gallia (Republic)</skos:altLabel>
+<schema:name>Gallia (Republic)</schema:name>
+<skos:altLabel>Gallikē Dēmokratia</skos:altLabel>
+<schema:name>Gallikē Dēmokratia</schema:name>
+<skos:altLabel>Hyãsia</skos:altLabel>
+<schema:name>Hyãsia</schema:name>
+<skos:altLabel>Parancis</skos:altLabel>
+<schema:name>Parancis</schema:name>
+<skos:altLabel>Peurancih</skos:altLabel>
+<schema:name>Peurancih</schema:name>
+<skos:altLabel>Phransiya</skos:altLabel>
+<schema:name>Phransiya</schema:name>
+<skos:altLabel>Pransiya</skos:altLabel>
+<schema:name>Pransiya</schema:name>
+<skos:altLabel>Pransya</skos:altLabel>
+<schema:name>Pransya</schema:name>
+<skos:altLabel>Prantsusmaa</skos:altLabel>
+<schema:name>Prantsusmaa</schema:name>
+<skos:altLabel>Pʻŭrangsŭ</skos:altLabel>
+<schema:name>Pʻŭrangsŭ</schema:name>
+<skos:altLabel>Ranska</skos:altLabel>
+<schema:name>Ranska</schema:name>
+<skos:altLabel>República Francesa</skos:altLabel>
+<schema:name>República Francesa</schema:name>
+<skos:altLabel>Republica Franzesa</skos:altLabel>
+<schema:name>Republica Franzesa</schema:name>
+<skos:altLabel>Republika Francuska</skos:altLabel>
+<schema:name>Republika Francuska</schema:name>
+<skos:altLabel>Republiḳah ha-Tsarfatit</skos:altLabel>
+<schema:name>Republiḳah ha-Tsarfatit</schema:name>
+<skos:altLabel>Republikang Pranses</skos:altLabel>
+<schema:name>Republikang Pranses</schema:name>
+<skos:altLabel>République française</skos:altLabel>
+<schema:name>République française</schema:name>
+<skos:altLabel>Tsarfat</skos:altLabel>
+<schema:name>Tsarfat</schema:name>
+<skos:altLabel>Tsorfat</skos:altLabel>
+<schema:name>Tsorfat</schema:name>
+<schema:sameAs>
+<rdf:Description rdf:about="http://id.loc.gov/authorities/names/n79006404">
+<rdfs:label>France</rdfs:label>
+</rdf:Description>
+</schema:sameAs>
+<schema:sameAs>
+<rdf:Description rdf:about="http://www.geonames.org/3017382">
+<rdfs:label>Republic of France</rdfs:label>
+</rdf:Description>
+</schema:sameAs>
+<schema:sameAs>
+<rdf:Description rdf:about="https://viaf.org/viaf/264091107">
+<rdfs:label>France</rdfs:label>
+</rdf:Description>
+</schema:sameAs>
+<foaf:focus>
+<rdf:Description rdf:about="https://en.wikipedia.org/wiki/France">
+<rdfs:label>France</rdfs:label>
+</rdf:Description>
+</foaf:focus>
+<schema:geo>
+<schema:GeoCoordinates>
+<schema:latitude>46.00000</schema:latitude>
+<schema:longitude>2.00000</schema:longitude>
+</schema:GeoCoordinates>
+</schema:geo>
+</rdf:Description>
+<rdf:Description rdf:about="fst01204289">
+<rdfs:comment>This identifier is deprecated. See the rdfs:seeAlso link for the new identifier.</rdfs:comment>
+<rdfs:seeAlso rdf:resource="1204289"/>
+</rdf:Description>
+<foaf:Document rdf:about="1204289/rdf.xml">
+<void:inDataset rdf:resource="http://id.worldcat.org/fast/void/0.1"/>
+<foaf:primaryTopic rdf:resource="1204289"/>
+<dc:format>application/rdf+xml</dc:format>
+<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2008-08-29T00:00:00.0</dct:created>
+<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-10-04T10:55:34.0</dct:modified>
+<dct:language rdf:resource="http://lexvo.org/id/iso639-3/eng"/>
+<skos:changeNote xml:lang="en">Cataloged by agency: OCoLC</skos:changeNote>
+<skos:changeNote xml:lang="en">Transcribed by agency: OCoLC</skos:changeNote>
+</foaf:Document>
+<void:Dataset rdf:about="http://id.worldcat.org/fast/void/0.1">
+<dct:title>FAST (Faceted Application of Subject Terminology) Data</dct:title>
+<dct:license>
+<rdf:Description rdf:about="http://www.oclc.org/research/activities/fast/odcby.htm">
+<dct:title>Open Data Commons Attribution License (ODC-By) v1.0</dct:title>
+<rdfs:comment>This is OCLC's "local copy" of the ODC-By license</rdfs:comment>
+<rdfs:seeAlso rdf:resource="http://opendatacommons.org/licenses/by/#toc-anchor-337-3"/>
+<owl:sameAs rdf:resource="http://opendatacommons.org/licenses/by/1-0/"/>
+</rdf:Description>
+</dct:license>
+</void:Dataset>
+</rdf:RDF>

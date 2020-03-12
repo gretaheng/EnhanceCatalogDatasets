@@ -1,0 +1,113 @@
+<rdf:RDF xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:norm="http://whatever/java/org.oclc.marc.NormalFormC" xmlns:dct="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:schema="http://schema.org/" xmlns:void="http://rdfs.org/ns/void#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:coord="http://whatever/java/org.oclc.marc.CoordToDecimal" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:mx="http://www.loc.gov/MARC21/slim" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="http://id.worldcat.org/fast/">
+<rdf:Description rdf:about="1208755">
+<dct:identifier>1208755</dct:identifier>
+<skos:inScheme rdf:resource="ontology/1.0/#fast"/>
+<rdf:type rdf:resource="http://schema.org/Place"/>
+<skos:inScheme rdf:resource="ontology/1.0/#facet-Geographic"/>
+<skos:prefLabel>Egypt</skos:prefLabel>
+<schema:name>Egypt</schema:name>
+<skos:altLabel>A.R.E.</skos:altLabel>
+<schema:name>A.R.E.</schema:name>
+<skos:altLabel>Ägypten</skos:altLabel>
+<schema:name>Ägypten</schema:name>
+<skos:altLabel>Ancient Egypt</skos:altLabel>
+<schema:name>Ancient Egypt</schema:name>
+<skos:altLabel>Arab Republic of Egypt</skos:altLabel>
+<schema:name>Arab Republic of Egypt</schema:name>
+<skos:altLabel>ARE--Arab Republic of Egypt</skos:altLabel>
+<schema:name>ARE--Arab Republic of Egypt</schema:name>
+<skos:altLabel>Egipat</skos:altLabel>
+<schema:name>Egipat</schema:name>
+<skos:altLabel>Egipet</skos:altLabel>
+<schema:name>Egipet</schema:name>
+<skos:altLabel>Egipt</skos:altLabel>
+<schema:name>Egipt</schema:name>
+<skos:altLabel>Egiptos</skos:altLabel>
+<schema:name>Egiptos</schema:name>
+<skos:altLabel>Egitto</skos:altLabel>
+<schema:name>Egitto</schema:name>
+<skos:altLabel>Égypte</skos:altLabel>
+<schema:name>Égypte</schema:name>
+<skos:altLabel>Egypten</skos:altLabel>
+<schema:name>Egypten</schema:name>
+<skos:altLabel>Egypti</skos:altLabel>
+<schema:name>Egypti</schema:name>
+<skos:altLabel>Ejiputo</skos:altLabel>
+<schema:name>Ejiputo</schema:name>
+<skos:altLabel>Gouvernement royal égyptien</skos:altLabel>
+<schema:name>Gouvernement royal égyptien</schema:name>
+<skos:altLabel>Ijiptʻŭ</skos:altLabel>
+<schema:name>Ijiptʻŭ</schema:name>
+<skos:altLabel>Jumhūrīyat Miṣr al-ʻArabīyah</skos:altLabel>
+<schema:name>Jumhūrīyat Miṣr al-ʻArabīyah</schema:name>
+<skos:altLabel>Khēmi</skos:altLabel>
+<schema:name>Khēmi</schema:name>
+<skos:altLabel>Maṣr</skos:altLabel>
+<schema:name>Maṣr</schema:name>
+<skos:altLabel>Miṣr</skos:altLabel>
+<schema:name>Miṣr</schema:name>
+<skos:altLabel>Misri</skos:altLabel>
+<schema:name>Misri</schema:name>
+<skos:altLabel>Mitsrayim</skos:altLabel>
+<schema:name>Mitsrayim</schema:name>
+<skos:altLabel>United Arab Republic--Egyptian Region</skos:altLabel>
+<schema:name>United Arab Republic--Egyptian Region</schema:name>
+<skos:altLabel>United Arab Republic--Egyptian Territory</skos:altLabel>
+<schema:name>United Arab Republic--Egyptian Territory</schema:name>
+<skos:altLabel>United Arab Republic--Iqlīm al-Janūbī</skos:altLabel>
+<schema:name>United Arab Republic--Iqlīm al-Janūbī</schema:name>
+<skos:altLabel>United Arab Republic--Southern Region</skos:altLabel>
+<schema:name>United Arab Republic--Southern Region</schema:name>
+<skos:related>
+<rdf:Description rdf:about="1208756">
+<rdfs:label>United Arab Republic</rdfs:label>
+</rdf:Description>
+</skos:related>
+<schema:sameAs>
+<rdf:Description rdf:about="http://id.loc.gov/authorities/names/n80061791">
+<rdfs:label>Egypt</rdfs:label>
+</rdf:Description>
+</schema:sameAs>
+<schema:sameAs>
+<rdf:Description rdf:about="https://viaf.org/viaf/130890862">
+<rdfs:label>Egypt</rdfs:label>
+</rdf:Description>
+</schema:sameAs>
+<foaf:focus>
+<rdf:Description rdf:about="https://en.wikipedia.org/wiki/Egypt">
+<rdfs:label>Egypt</rdfs:label>
+</rdf:Description>
+</foaf:focus>
+<schema:geo>
+<schema:GeoCoordinates>
+<schema:latitude>27.00000</schema:latitude>
+<schema:longitude>30.00000</schema:longitude>
+</schema:GeoCoordinates>
+</schema:geo>
+</rdf:Description>
+<rdf:Description rdf:about="fst01208755">
+<rdfs:comment>This identifier is deprecated. See the rdfs:seeAlso link for the new identifier.</rdfs:comment>
+<rdfs:seeAlso rdf:resource="1208755"/>
+</rdf:Description>
+<foaf:Document rdf:about="1208755/rdf.xml">
+<void:inDataset rdf:resource="http://id.worldcat.org/fast/void/0.1"/>
+<foaf:primaryTopic rdf:resource="1208755"/>
+<dc:format>application/rdf+xml</dc:format>
+<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2006-06-20T00:00:00.0</dct:created>
+<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-17T09:25:32.0</dct:modified>
+<dct:language rdf:resource="http://lexvo.org/id/iso639-3/eng"/>
+<skos:changeNote xml:lang="en">Cataloged by agency: OCoLC</skos:changeNote>
+<skos:changeNote xml:lang="en">Transcribed by agency: OCoLC</skos:changeNote>
+</foaf:Document>
+<void:Dataset rdf:about="http://id.worldcat.org/fast/void/0.1">
+<dct:title>FAST (Faceted Application of Subject Terminology) Data</dct:title>
+<dct:license>
+<rdf:Description rdf:about="http://www.oclc.org/research/activities/fast/odcby.htm">
+<dct:title>Open Data Commons Attribution License (ODC-By) v1.0</dct:title>
+<rdfs:comment>This is OCLC's "local copy" of the ODC-By license</rdfs:comment>
+<rdfs:seeAlso rdf:resource="http://opendatacommons.org/licenses/by/#toc-anchor-337-3"/>
+<owl:sameAs rdf:resource="http://opendatacommons.org/licenses/by/1-0/"/>
+</rdf:Description>
+</dct:license>
+</void:Dataset>
+</rdf:RDF>

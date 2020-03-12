@@ -1,0 +1,92 @@
+<rdf:RDF xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:norm="http://whatever/java/org.oclc.marc.NormalFormC" xmlns:dct="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:schema="http://schema.org/" xmlns:void="http://rdfs.org/ns/void#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:coord="http://whatever/java/org.oclc.marc.CoordToDecimal" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:mx="http://www.loc.gov/MARC21/slim" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="http://id.worldcat.org/fast/">
+<rdf:Description rdf:about="1213442">
+<dct:identifier>1213442</dct:identifier>
+<skos:inScheme rdf:resource="ontology/1.0/#fast"/>
+<rdf:type rdf:resource="http://schema.org/Place"/>
+<skos:inScheme rdf:resource="ontology/1.0/#facet-Geographic"/>
+<skos:prefLabel>South Africa--Cape of Good Hope</skos:prefLabel>
+<schema:name>South Africa--Cape of Good Hope</schema:name>
+<skos:altLabel>Cape of Good Hope (Colony)</skos:altLabel>
+<schema:name>Cape of Good Hope (Colony)</schema:name>
+<skos:altLabel>South Africa--Cap de Bonne-Espérance</skos:altLabel>
+<schema:name>South Africa--Cap de Bonne-Espérance</schema:name>
+<skos:altLabel>South Africa--Cape Province</skos:altLabel>
+<schema:name>South Africa--Cape Province</schema:name>
+<skos:altLabel>South Africa--Kaap die Goeie Hoop</skos:altLabel>
+<schema:name>South Africa--Kaap die Goeie Hoop</schema:name>
+<skos:altLabel>South Africa--Kaapland</skos:altLabel>
+<schema:name>South Africa--Kaapland</schema:name>
+<skos:altLabel>South Africa--Kaapprovinsie</skos:altLabel>
+<schema:name>South Africa--Kaapprovinsie</schema:name>
+<skos:altLabel>South Africa--Kapland</skos:altLabel>
+<schema:name>South Africa--Kapland</schema:name>
+<skos:altLabel>South Africa--Kapprovinz</skos:altLabel>
+<schema:name>South Africa--Kapprovinz</schema:name>
+<skos:related>
+<rdf:Description rdf:about="1272828">
+<rdfs:label>South Africa--Eastern Cape</rdfs:label>
+</rdf:Description>
+</skos:related>
+<skos:related>
+<rdf:Description rdf:about="1272826">
+<rdfs:label>South Africa--Northern Cape</rdfs:label>
+</rdf:Description>
+</skos:related>
+<skos:related>
+<rdf:Description rdf:about="1272827">
+<rdfs:label>South Africa--Western Cape</rdfs:label>
+</rdf:Description>
+</skos:related>
+<schema:sameAs>
+<rdf:Description rdf:about="http://id.loc.gov/authorities/names/n81056644">
+<rdfs:label>Cape of Good Hope (South Africa)</rdfs:label>
+</rdf:Description>
+</schema:sameAs>
+<schema:sameAs>
+<rdf:Description rdf:about="http://www.geonames.org/3367577">
+<rdfs:label>Cape of Good Hope</rdfs:label>
+</rdf:Description>
+</schema:sameAs>
+<schema:sameAs>
+<rdf:Description rdf:about="https://viaf.org/viaf/22148120436794790133">
+<rdfs:label>Cape of Good Hope (South Africa)</rdfs:label>
+</rdf:Description>
+</schema:sameAs>
+<foaf:focus>
+<rdf:Description rdf:about="https://en.wikipedia.org/wiki/Cape_Province">
+<rdfs:label>Cape Province</rdfs:label>
+</rdf:Description>
+</foaf:focus>
+<schema:geo>
+<schema:GeoCoordinates>
+<schema:latitude>-34.35861</schema:latitude>
+<schema:longitude>18.47278</schema:longitude>
+</schema:GeoCoordinates>
+</schema:geo>
+</rdf:Description>
+<rdf:Description rdf:about="fst01213442">
+<rdfs:comment>This identifier is deprecated. See the rdfs:seeAlso link for the new identifier.</rdfs:comment>
+<rdfs:seeAlso rdf:resource="1213442"/>
+</rdf:Description>
+<foaf:Document rdf:about="1213442/rdf.xml">
+<void:inDataset rdf:resource="http://id.worldcat.org/fast/void/0.1"/>
+<foaf:primaryTopic rdf:resource="1213442"/>
+<dc:format>application/rdf+xml</dc:format>
+<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2006-06-20T00:00:00.0</dct:created>
+<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-01-03T16:03:16.0</dct:modified>
+<dct:language rdf:resource="http://lexvo.org/id/iso639-3/eng"/>
+<skos:changeNote xml:lang="en">Cataloged by agency: OCoLC</skos:changeNote>
+<skos:changeNote xml:lang="en">Transcribed by agency: OCoLC</skos:changeNote>
+</foaf:Document>
+<void:Dataset rdf:about="http://id.worldcat.org/fast/void/0.1">
+<dct:title>FAST (Faceted Application of Subject Terminology) Data</dct:title>
+<dct:license>
+<rdf:Description rdf:about="http://www.oclc.org/research/activities/fast/odcby.htm">
+<dct:title>Open Data Commons Attribution License (ODC-By) v1.0</dct:title>
+<rdfs:comment>This is OCLC's "local copy" of the ODC-By license</rdfs:comment>
+<rdfs:seeAlso rdf:resource="http://opendatacommons.org/licenses/by/#toc-anchor-337-3"/>
+<owl:sameAs rdf:resource="http://opendatacommons.org/licenses/by/1-0/"/>
+</rdf:Description>
+</dct:license>
+</void:Dataset>
+</rdf:RDF>

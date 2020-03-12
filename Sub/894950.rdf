@@ -1,0 +1,81 @@
+<rdf:RDF xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:norm="http://whatever/java/org.oclc.marc.NormalFormC" xmlns:dct="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:schema="http://schema.org/" xmlns:void="http://rdfs.org/ns/void#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:coord="http://whatever/java/org.oclc.marc.CoordToDecimal" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:mx="http://www.loc.gov/MARC21/slim" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="http://id.worldcat.org/fast/">
+<rdf:Description rdf:about="894950">
+<dct:identifier>894950</dct:identifier>
+<skos:inScheme rdf:resource="ontology/1.0/#fast"/>
+<rdf:type rdf:resource="http://schema.org/Intangible"/>
+<skos:inScheme rdf:resource="ontology/1.0/#facet-Topical"/>
+<skos:prefLabel>Discoveries in geography</skos:prefLabel>
+<schema:name>Discoveries in geography</schema:name>
+<skos:altLabel>Discoveries, Maritime</skos:altLabel>
+<schema:name>Discoveries, Maritime</schema:name>
+<skos:altLabel>Discovery and exploration</skos:altLabel>
+<schema:name>Discovery and exploration</schema:name>
+<skos:altLabel>Exploration and discovery</skos:altLabel>
+<schema:name>Exploration and discovery</schema:name>
+<skos:altLabel>Explorations in geography</skos:altLabel>
+<schema:name>Explorations in geography</schema:name>
+<skos:altLabel>Exploring expeditions</skos:altLabel>
+<schema:name>Exploring expeditions</schema:name>
+<skos:altLabel>Geographical discoveries</skos:altLabel>
+<schema:name>Geographical discoveries</schema:name>
+<skos:altLabel>Geographical discovery</skos:altLabel>
+<schema:name>Geographical discovery</schema:name>
+<skos:altLabel>Maritime discoveries</skos:altLabel>
+<schema:name>Maritime discoveries</schema:name>
+<skos:broader>
+<rdf:Description rdf:about="1169308">
+<rdfs:label>Voyages and travels</rdfs:label>
+</rdf:Description>
+</skos:broader>
+<skos:related>
+<rdf:Description rdf:about="918556">
+<rdfs:label>Explorers</rdfs:label>
+</rdf:Description>
+</skos:related>
+<skos:related>
+<rdf:Description rdf:about="940448">
+<rdfs:label>Geographical discoveries in literature</rdfs:label>
+</rdf:Description>
+</skos:related>
+<schema:sameAs>
+<rdf:Description rdf:about="http://id.loc.gov/authorities/subjects/sh85038366">
+<rdfs:label>Discoveries in geography</rdfs:label>
+</rdf:Description>
+</schema:sameAs>
+<skos:relatedMatch>
+<skos:Concept rdf:about="http://d-nb.info/gnd/4014841-5">
+<rdfs:label>Entdeckung</rdfs:label>
+</skos:Concept>
+</skos:relatedMatch>
+<skos:relatedMatch>
+<skos:Concept rdf:about="http://d-nb.info/gnd/4014842-7">
+<rdfs:label>Entdeckungsreise</rdfs:label>
+</skos:Concept>
+</skos:relatedMatch>
+</rdf:Description>
+<rdf:Description rdf:about="fst00894950">
+<rdfs:comment>This identifier is deprecated. See the rdfs:seeAlso link for the new identifier.</rdfs:comment>
+<rdfs:seeAlso rdf:resource="894950"/>
+</rdf:Description>
+<foaf:Document rdf:about="894950/rdf.xml">
+<void:inDataset rdf:resource="http://id.worldcat.org/fast/void/0.1"/>
+<foaf:primaryTopic rdf:resource="894950"/>
+<dc:format>application/rdf+xml</dc:format>
+<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2004-10-24T00:00:00.0</dct:created>
+<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-12-08T14:20:50.0</dct:modified>
+<dct:language rdf:resource="http://lexvo.org/id/iso639-3/eng"/>
+<skos:changeNote xml:lang="en">Cataloged by agency: OCoLC</skos:changeNote>
+<skos:changeNote xml:lang="en">Transcribed by agency: OCoLC</skos:changeNote>
+</foaf:Document>
+<void:Dataset rdf:about="http://id.worldcat.org/fast/void/0.1">
+<dct:title>FAST (Faceted Application of Subject Terminology) Data</dct:title>
+<dct:license>
+<rdf:Description rdf:about="http://www.oclc.org/research/activities/fast/odcby.htm">
+<dct:title>Open Data Commons Attribution License (ODC-By) v1.0</dct:title>
+<rdfs:comment>This is OCLC's "local copy" of the ODC-By license</rdfs:comment>
+<rdfs:seeAlso rdf:resource="http://opendatacommons.org/licenses/by/#toc-anchor-337-3"/>
+<owl:sameAs rdf:resource="http://opendatacommons.org/licenses/by/1-0/"/>
+</rdf:Description>
+</dct:license>
+</void:Dataset>
+</rdf:RDF>

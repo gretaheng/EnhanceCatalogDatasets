@@ -1,0 +1,116 @@
+<rdf:RDF xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:norm="http://whatever/java/org.oclc.marc.NormalFormC" xmlns:dct="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:schema="http://schema.org/" xmlns:void="http://rdfs.org/ns/void#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:coord="http://whatever/java/org.oclc.marc.CoordToDecimal" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:mx="http://www.loc.gov/MARC21/slim" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="http://id.worldcat.org/fast/">
+<rdf:Description rdf:about="1209242">
+<dct:identifier>1209242</dct:identifier>
+<skos:inScheme rdf:resource="ontology/1.0/#fast"/>
+<rdf:type rdf:resource="http://schema.org/Place"/>
+<skos:inScheme rdf:resource="ontology/1.0/#facet-Geographic"/>
+<skos:prefLabel>Indonesia</skos:prefLabel>
+<schema:name>Indonesia</schema:name>
+<skos:altLabel>Dutch East Indies</skos:altLabel>
+<schema:name>Dutch East Indies</schema:name>
+<skos:altLabel>Endonèsie</skos:altLabel>
+<schema:name>Endonèsie</schema:name>
+<skos:altLabel>Indanezii︠a︡</skos:altLabel>
+<schema:name>Indanezii︠a︡</schema:name>
+<skos:altLabel>Indoneshia</skos:altLabel>
+<schema:name>Indoneshia</schema:name>
+<skos:altLabel>Indoneshia Kyōwakoku</skos:altLabel>
+<schema:name>Indoneshia Kyōwakoku</schema:name>
+<skos:altLabel>Indonesië</skos:altLabel>
+<schema:name>Indonesië</schema:name>
+<skos:altLabel>Indonesya</skos:altLabel>
+<schema:name>Indonesya</schema:name>
+<skos:altLabel>Indonezia</skos:altLabel>
+<schema:name>Indonezia</schema:name>
+<skos:altLabel>Indonezii︠a︡</skos:altLabel>
+<schema:name>Indonezii︠a︡</schema:name>
+<skos:altLabel>Indonezija</skos:altLabel>
+<schema:name>Indonezija</schema:name>
+<skos:altLabel>İndoneziya</skos:altLabel>
+<schema:name>İndoneziya</schema:name>
+<skos:altLabel>İndoneziya Respublikası</skos:altLabel>
+<schema:name>İndoneziya Respublikası</schema:name>
+<skos:altLabel>Indūnīsīyā</skos:altLabel>
+<schema:name>Indūnīsīyā</schema:name>
+<skos:altLabel>Induonezėjė</skos:altLabel>
+<schema:name>Induonezėjė</schema:name>
+<skos:altLabel>Jumhūrīyah Indūnīsīyā</skos:altLabel>
+<schema:name>Jumhūrīyah Indūnīsīyā</schema:name>
+<skos:altLabel>PDRI--Pemerintah Darurat Republik Indonesia</skos:altLabel>
+<schema:name>PDRI--Pemerintah Darurat Republik Indonesia</schema:name>
+<skos:altLabel>Pemerintah Darurat Republik Indonesia</skos:altLabel>
+<schema:name>Pemerintah Darurat Republik Indonesia</schema:name>
+<skos:altLabel>R.I.--Republik Indonesia</skos:altLabel>
+<schema:name>R.I.--Republik Indonesia</schema:name>
+<skos:altLabel>Republic of Indonesia</skos:altLabel>
+<schema:name>Republic of Indonesia</schema:name>
+<skos:altLabel>Republic of the United States of Indonesia</skos:altLabel>
+<schema:name>Republic of the United States of Indonesia</schema:name>
+<skos:altLabel>Republica d'Indonesia</skos:altLabel>
+<schema:name>Republica d'Indonesia</schema:name>
+<skos:altLabel>Republiek van Indonesië</skos:altLabel>
+<schema:name>Republiek van Indonesië</schema:name>
+<skos:altLabel>Republik Indonesia</skos:altLabel>
+<schema:name>Republik Indonesia</schema:name>
+<skos:altLabel>Republik Indonesia Serikat</skos:altLabel>
+<schema:name>Republik Indonesia Serikat</schema:name>
+<skos:altLabel>Republika Indonezii︠a︡</skos:altLabel>
+<schema:name>Republika Indonezii︠a︡</schema:name>
+<skos:altLabel>Republika Indonezija</skos:altLabel>
+<schema:name>Republika Indonezija</schema:name>
+<skos:altLabel>Rėspublika Indanezii︠a︡</skos:altLabel>
+<schema:name>Rėspublika Indanezii︠a︡</schema:name>
+<skos:altLabel>RI--Republik Indonesia</skos:altLabel>
+<schema:name>RI--Republik Indonesia</schema:name>
+<skos:altLabel>United States of Indonesia</skos:altLabel>
+<schema:name>United States of Indonesia</schema:name>
+<skos:altLabel>Yinni</skos:altLabel>
+<schema:name>Yinni</schema:name>
+<schema:sameAs>
+<rdf:Description rdf:about="http://id.loc.gov/authorities/names/n80083633">
+<rdfs:label>Indonesia</rdfs:label>
+</rdf:Description>
+</schema:sameAs>
+<schema:sameAs>
+<rdf:Description rdf:about="http://www.geonames.org/1643084">
+<rdfs:label>Republic of Indonesia</rdfs:label>
+</rdf:Description>
+</schema:sameAs>
+<schema:sameAs>
+<rdf:Description rdf:about="https://viaf.org/viaf/125405737">
+<rdfs:label>Indonesia</rdfs:label>
+</rdf:Description>
+</schema:sameAs>
+<schema:geo>
+<schema:GeoCoordinates>
+<schema:latitude>-5.00000</schema:latitude>
+<schema:longitude>120.00000</schema:longitude>
+</schema:GeoCoordinates>
+</schema:geo>
+</rdf:Description>
+<rdf:Description rdf:about="fst01209242">
+<rdfs:comment>This identifier is deprecated. See the rdfs:seeAlso link for the new identifier.</rdfs:comment>
+<rdfs:seeAlso rdf:resource="1209242"/>
+</rdf:Description>
+<foaf:Document rdf:about="1209242/rdf.xml">
+<void:inDataset rdf:resource="http://id.worldcat.org/fast/void/0.1"/>
+<foaf:primaryTopic rdf:resource="1209242"/>
+<dc:format>application/rdf+xml</dc:format>
+<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2008-08-29T00:00:00.0</dct:created>
+<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-17T09:25:32.0</dct:modified>
+<dct:language rdf:resource="http://lexvo.org/id/iso639-3/eng"/>
+<skos:changeNote xml:lang="en">Cataloged by agency: OCoLC</skos:changeNote>
+<skos:changeNote xml:lang="en">Transcribed by agency: OCoLC</skos:changeNote>
+</foaf:Document>
+<void:Dataset rdf:about="http://id.worldcat.org/fast/void/0.1">
+<dct:title>FAST (Faceted Application of Subject Terminology) Data</dct:title>
+<dct:license>
+<rdf:Description rdf:about="http://www.oclc.org/research/activities/fast/odcby.htm">
+<dct:title>Open Data Commons Attribution License (ODC-By) v1.0</dct:title>
+<rdfs:comment>This is OCLC's "local copy" of the ODC-By license</rdfs:comment>
+<rdfs:seeAlso rdf:resource="http://opendatacommons.org/licenses/by/#toc-anchor-337-3"/>
+<owl:sameAs rdf:resource="http://opendatacommons.org/licenses/by/1-0/"/>
+</rdf:Description>
+</dct:license>
+</void:Dataset>
+</rdf:RDF>

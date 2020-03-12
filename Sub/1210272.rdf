@@ -1,0 +1,131 @@
+<rdf:RDF xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:norm="http://whatever/java/org.oclc.marc.NormalFormC" xmlns:dct="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:schema="http://schema.org/" xmlns:void="http://rdfs.org/ns/void#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:coord="http://whatever/java/org.oclc.marc.CoordToDecimal" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:mx="http://www.loc.gov/MARC21/slim" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="http://id.worldcat.org/fast/">
+<rdf:Description rdf:about="1210272">
+<dct:identifier>1210272</dct:identifier>
+<skos:inScheme rdf:resource="ontology/1.0/#fast"/>
+<rdf:type rdf:resource="http://schema.org/Place"/>
+<skos:inScheme rdf:resource="ontology/1.0/#facet-Geographic"/>
+<skos:prefLabel>Germany</skos:prefLabel>
+<schema:name>Germany</schema:name>
+<skos:altLabel>Alemania</skos:altLabel>
+<schema:name>Alemania</schema:name>
+<skos:altLabel>Ashkenaz</skos:altLabel>
+<schema:name>Ashkenaz</schema:name>
+<skos:altLabel>BRD</skos:altLabel>
+<schema:name>BRD</schema:name>
+<skos:altLabel>Bu̇gd Naĭramdakh German Uls</skos:altLabel>
+<schema:name>Bu̇gd Naĭramdakh German Uls</schema:name>
+<skos:altLabel>Bundesrepublik Deutschland</skos:altLabel>
+<schema:name>Bundesrepublik Deutschland</schema:name>
+<skos:altLabel>Deutsches Reich</skos:altLabel>
+<schema:name>Deutsches Reich</schema:name>
+<skos:altLabel>Deutschland</skos:altLabel>
+<schema:name>Deutschland</schema:name>
+<skos:altLabel>Doitsu</skos:altLabel>
+<schema:name>Doitsu</schema:name>
+<skos:altLabel>Doitsu Renpō Kyōwakoku</skos:altLabel>
+<schema:name>Doitsu Renpō Kyōwakoku</schema:name>
+<skos:altLabel>Federal Republic of Germany</skos:altLabel>
+<schema:name>Federal Republic of Germany</schema:name>
+<skos:altLabel>Federalʹna Respublika Nimechchyny</skos:altLabel>
+<schema:name>Federalʹna Respublika Nimechchyny</schema:name>
+<skos:altLabel>FRN</skos:altLabel>
+<schema:name>FRN</schema:name>
+<skos:altLabel>German Uls</skos:altLabel>
+<schema:name>German Uls</schema:name>
+<skos:altLabel>Germania</skos:altLabel>
+<schema:name>Germania</schema:name>
+<skos:altLabel>Germanii︠a︡</skos:altLabel>
+<schema:name>Germanii︠a︡</schema:name>
+<skos:altLabel>Germanyah</skos:altLabel>
+<schema:name>Germanyah</schema:name>
+<skos:altLabel>Gjermani</skos:altLabel>
+<schema:name>Gjermani</schema:name>
+<skos:altLabel>Grossdeutsches Reich</skos:altLabel>
+<schema:name>Grossdeutsches Reich</schema:name>
+<skos:altLabel>Jirmānīya</skos:altLabel>
+<schema:name>Jirmānīya</schema:name>
+<skos:altLabel>KhBNGU</skos:altLabel>
+<schema:name>KhBNGU</schema:name>
+<skos:altLabel>Kholboony Bu̇gd Naĭramdakh German Uls</skos:altLabel>
+<schema:name>Kholboony Bu̇gd Naĭramdakh German Uls</schema:name>
+<skos:altLabel>Nimechchyna</skos:altLabel>
+<schema:name>Nimechchyna</schema:name>
+<skos:altLabel>Repoblika Federalin'i Alemana</skos:altLabel>
+<schema:name>Repoblika Federalin'i Alemana</schema:name>
+<skos:altLabel>República de Alemania</skos:altLabel>
+<schema:name>República de Alemania</schema:name>
+<skos:altLabel>República Federal de Alemania</skos:altLabel>
+<schema:name>República Federal de Alemania</schema:name>
+<skos:altLabel>Republika Federal Alemmana</skos:altLabel>
+<schema:name>Republika Federal Alemmana</schema:name>
+<skos:altLabel>Vācijā</skos:altLabel>
+<schema:name>Vācijā</schema:name>
+<skos:altLabel>Veĭmarskai︠a︡ Respublika</skos:altLabel>
+<schema:name>Veĭmarskai︠a︡ Respublika</schema:name>
+<skos:altLabel>Weimar Republic</skos:altLabel>
+<schema:name>Weimar Republic</schema:name>
+<skos:altLabel>Weimarer Republik</skos:altLabel>
+<schema:name>Weimarer Republik</schema:name>
+<skos:related>
+<rdf:Description rdf:about="1210274">
+<rdfs:label>Germany (East)</rdfs:label>
+</rdf:Description>
+</skos:related>
+<skos:related>
+<rdf:Description rdf:about="1210273">
+<rdfs:label>Germany (West)</rdfs:label>
+</rdf:Description>
+</skos:related>
+<skos:related>
+<rdf:Description rdf:about="1205344">
+<rdfs:label>Europe--Holy Roman Empire</rdfs:label>
+</rdf:Description>
+</skos:related>
+<schema:sameAs>
+<rdf:Description rdf:about="http://id.loc.gov/authorities/names/n80125931">
+<rdfs:label>Germany</rdfs:label>
+</rdf:Description>
+</schema:sameAs>
+<schema:sameAs>
+<rdf:Description rdf:about="https://viaf.org/viaf/189116956">
+<rdfs:label>Germany</rdfs:label>
+</rdf:Description>
+</schema:sameAs>
+<foaf:focus>
+<rdf:Description rdf:about="https://en.wikipedia.org/wiki/Weimar_Republic">
+<rdfs:label>Weimar Republic</rdfs:label>
+</rdf:Description>
+</foaf:focus>
+<schema:geo>
+<schema:GeoCoordinates>
+<schema:latitude>51.50000</schema:latitude>
+<schema:longitude>10.50000</schema:longitude>
+</schema:GeoCoordinates>
+</schema:geo>
+</rdf:Description>
+<rdf:Description rdf:about="fst01210272">
+<rdfs:comment>This identifier is deprecated. See the rdfs:seeAlso link for the new identifier.</rdfs:comment>
+<rdfs:seeAlso rdf:resource="1210272"/>
+</rdf:Description>
+<foaf:Document rdf:about="1210272/rdf.xml">
+<void:inDataset rdf:resource="http://id.worldcat.org/fast/void/0.1"/>
+<foaf:primaryTopic rdf:resource="1210272"/>
+<dc:format>application/rdf+xml</dc:format>
+<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2006-06-20T00:00:00.0</dct:created>
+<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-12-07T13:13:41.0</dct:modified>
+<dct:language rdf:resource="http://lexvo.org/id/iso639-3/eng"/>
+<skos:changeNote xml:lang="en">Cataloged by agency: OCoLC</skos:changeNote>
+<skos:changeNote xml:lang="en">Transcribed by agency: OCoLC</skos:changeNote>
+</foaf:Document>
+<void:Dataset rdf:about="http://id.worldcat.org/fast/void/0.1">
+<dct:title>FAST (Faceted Application of Subject Terminology) Data</dct:title>
+<dct:license>
+<rdf:Description rdf:about="http://www.oclc.org/research/activities/fast/odcby.htm">
+<dct:title>Open Data Commons Attribution License (ODC-By) v1.0</dct:title>
+<rdfs:comment>This is OCLC's "local copy" of the ODC-By license</rdfs:comment>
+<rdfs:seeAlso rdf:resource="http://opendatacommons.org/licenses/by/#toc-anchor-337-3"/>
+<owl:sameAs rdf:resource="http://opendatacommons.org/licenses/by/1-0/"/>
+</rdf:Description>
+</dct:license>
+</void:Dataset>
+</rdf:RDF>
