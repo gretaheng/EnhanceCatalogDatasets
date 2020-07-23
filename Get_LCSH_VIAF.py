@@ -479,6 +479,9 @@ def get(oclc_txt_folder_name, item_folder_name, sub_folder_name, SIZE, c_report=
 
 if __name__ == "__main__":
     num_args = len(sys.argv)
+    if num_args < 6:
+        print("Error: please read ReadMe file carefully about how to run the script.")
+    if type()
     if sys.argv[-2] == 'T':
         c_report = True
     else:
